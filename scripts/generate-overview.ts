@@ -12,7 +12,7 @@ type OverviewJson = {
   /**
    * The most recent 1,000 commits.
    * NOTE: non-meaningful commits messages are filtered out, e.g. wherever the
-   * message contains "wip"
+   * message contains "wip" or "bump"
    */
   recent_commits: Array<{
     repo: string // "org/repo-name"
@@ -54,7 +54,7 @@ async function main() {
 
     // Add to recent_commits
     overview.recent_commits.push(
-      ...commits.filter((c) => !c.message.toLowerCase().includes("wip"))
+      ...commits.filter((c) => !c.message.toLowerCase().includes("wip") && !c.message.toLowerCase().includes("bump")
     )
 
     // Add to commit_graph
