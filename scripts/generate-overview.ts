@@ -19,6 +19,7 @@ type OverviewJson = {
     commit_url: string
     message: string
     date: string // "yyyy-mm-dd"
+    author: string
   }>
 }
 
@@ -50,6 +51,7 @@ async function main() {
       commit_url: string
       message: string
       date: string // "yyyy-mm-dd"
+      author: string
     }>
 
     // Add to recent_commits
@@ -57,7 +59,8 @@ async function main() {
       ...commits.filter(
         (c) =>
           !c.message.toLowerCase().includes("wip") &&
-          !c.message.toLowerCase().includes("bump")
+          !c.message.toLowerCase().includes("bump") &&
+          !c.author.toLowerCase().includes("bot")
       )
     )
 
