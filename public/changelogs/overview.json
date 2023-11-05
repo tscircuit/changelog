@@ -35,13 +35,6 @@
       "repo": "tscircuit/homepage"
     },
     {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/builder/commit/498c432b3e217c7d95f377f408b11f7ec2e826ac",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.5.4 [skip ci]\n\n## [1.5.4](https://github.com/tscircuit/builder/compare/v1.5.3...v1.5.4) (2023-11-05)\n\n### Bug Fixes\n\n* pcb traces will not intersect existing pads ([9fa9cbc](https://github.com/tscircuit/builder/commit/9fa9cbcf8f604bce6d8f4ed70ccf46943dc8d032))",
-      "repo": "tscircuit/builder"
-    },
-    {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/builder/commit/9fa9cbcf8f604bce6d8f4ed70ccf46943dc8d032",
       "date": "2023-11-05",
@@ -53,13 +46,6 @@
       "commit_url": "https://github.com/tscircuit/builder/commit/47e3a43811a2d03a885d88fb779bc8c3748c0cf8",
       "date": "2023-11-05",
       "message": "test replication of pcb traces going through footprints",
-      "repo": "tscircuit/builder"
-    },
-    {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/builder/commit/e33c7116cf7807b4d400a02b2820f00dd355b6a3",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.5.3 [skip ci]\n\n## [1.5.3](https://github.com/tscircuit/builder/compare/v1.5.2...v1.5.3) (2023-11-05)\n\n### Bug Fixes\n\n* remove logging ([4c08935](https://github.com/tscircuit/builder/commit/4c08935090747de6672cfbc2af4c0c4b999d9227))",
       "repo": "tscircuit/builder"
     },
     {
@@ -77,13 +63,6 @@
       "repo": "tscircuit/builder"
     },
     {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/builder/commit/68572ef6bf225b5e8b4e3a5f144e3e2528071f76",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.5.2 [skip ci]\n\n## [1.5.2](https://github.com/tscircuit/builder/compare/v1.5.1...v1.5.2) (2023-11-05)\n\n### Bug Fixes\n\n* associate bug pads with pcb ports ([f501b32](https://github.com/tscircuit/builder/commit/f501b3230f88383a51851ecd45650cf89bc0099c))",
-      "repo": "tscircuit/builder"
-    },
-    {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/builder/commit/f501b3230f88383a51851ecd45650cf89bc0099c",
       "date": "2023-11-05",
@@ -95,13 +74,6 @@
       "commit_url": "https://github.com/tscircuit/builder/commit/9278a016fe21a453c0bb5193dd134b92c937f566",
       "date": "2023-11-05",
       "message": "add failing test for d0 port not having a position",
-      "repo": "tscircuit/builder"
-    },
-    {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/builder/commit/43fbe37120487ded284313e294e0943541496219",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.5.1 [skip ci]\n\n## [1.5.1](https://github.com/tscircuit/builder/compare/v1.5.0...v1.5.1) (2023-11-05)\n\n### Bug Fixes\n\n* introduce pcb_error element ([708615f](https://github.com/tscircuit/builder/commit/708615f1adeca30c547a2f4a95786283c1538adc))",
       "repo": "tscircuit/builder"
     },
     {
@@ -119,24 +91,10 @@
       "repo": "tscircuit/builder"
     },
     {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/434b704b901b5601ea02a5425cfffbdcd6d37a36",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.1.4 [skip ci]\n\n## [1.1.4](https://github.com/tscircuit/schematic-viewer/compare/v1.1.3...v1.1.4) (2023-11-05)\n\n### Bug Fixes\n\n* upgrade supergrid to fix initial render issues ([ca0387c](https://github.com/tscircuit/schematic-viewer/commit/ca0387cc3ac6a698d00956d7d068e6b7cbd53dbf))",
-      "repo": "tscircuit/schematic-viewer"
-    },
-    {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ca0387cc3ac6a698d00956d7d068e6b7cbd53dbf",
       "date": "2023-11-05",
       "message": "fix: upgrade supergrid to fix initial render issues",
-      "repo": "tscircuit/schematic-viewer"
-    },
-    {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/d54879f4fd498e22f72304b005a014020abedbf0",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.1.3 [skip ci]\n\n## [1.1.3](https://github.com/tscircuit/schematic-viewer/compare/v1.1.2...v1.1.3) (2023-11-05)\n\n### Bug Fixes\n\n* handle finding center with no elements ([e9c3996](https://github.com/tscircuit/schematic-viewer/commit/e9c3996fbac59c01ffb0ed976bf5d2c6834fcca1))",
       "repo": "tscircuit/schematic-viewer"
     },
     {
@@ -147,13 +105,6 @@
       "repo": "tscircuit/schematic-viewer"
     },
     {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/510a763c0514d2da21f7af14c7bade4561a77135",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.1.2 [skip ci]\n\n## [1.1.2](https://github.com/tscircuit/schematic-viewer/compare/v1.1.1...v1.1.2) (2023-11-05)\n\n### Bug Fixes\n\n* center about schematic elements only ([b7f1124](https://github.com/tscircuit/schematic-viewer/commit/b7f112401ac654eb0445ece01402388148c0b9a3))",
-      "repo": "tscircuit/schematic-viewer"
-    },
-    {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b7f112401ac654eb0445ece01402388148c0b9a3",
       "date": "2023-11-05",
@@ -161,24 +112,10 @@
       "repo": "tscircuit/schematic-viewer"
     },
     {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/fe72094b663ddefae94bb6dcc08c26148ddd8583",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.2.11 [skip ci]\n\n## [1.2.11](https://github.com/tscircuit/pcb-viewer/compare/v1.2.10...v1.2.11) (2023-11-05)\n\n### Bug Fixes\n\n* upstream supergrid and builder issues ([7ef33cd](https://github.com/tscircuit/pcb-viewer/commit/7ef33cde69a76ef05c4138291fff257af8d4cde6))",
-      "repo": "tscircuit/pcb-viewer"
-    },
-    {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/7ef33cde69a76ef05c4138291fff257af8d4cde6",
       "date": "2023-11-05",
       "message": "fix: upstream supergrid and builder issues",
-      "repo": "tscircuit/pcb-viewer"
-    },
-    {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/e4371d83989c6b00dbefb5d8f25bf5ef899ecdea",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.2.10 [skip ci]\n\n## [1.2.10](https://github.com/tscircuit/pcb-viewer/compare/v1.2.9...v1.2.10) (2023-11-05)\n\n### Bug Fixes\n\n* error when finding center with no elements ([5929aef](https://github.com/tscircuit/pcb-viewer/commit/5929aef0b0f64722fd91602be2e67d983f899273))",
       "repo": "tscircuit/pcb-viewer"
     },
     {
@@ -189,25 +126,11 @@
       "repo": "tscircuit/pcb-viewer"
     },
     {
-      "author": "semantic-release-bot",
-      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/5eb6411d343ed8aff3712681f4df40cd1db69fb8",
-      "date": "2023-11-05",
-      "message": "chore(release): 1.2.9 [skip ci]\n\n## [1.2.9](https://github.com/tscircuit/pcb-viewer/compare/v1.2.8...v1.2.9) (2023-11-05)\n\n### Bug Fixes\n\n* add reset transform, automatically center on circuit elements on ([cbf0055](https://github.com/tscircuit/pcb-viewer/commit/cbf00550388e2fcbf2b8731edbcdd57ef3c39c36))",
-      "repo": "tscircuit/pcb-viewer"
-    },
-    {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/cbf00550388e2fcbf2b8731edbcdd57ef3c39c36",
       "date": "2023-11-05",
       "message": "fix: add reset transform, automatically center on circuit elements on\nrender",
       "repo": "tscircuit/pcb-viewer"
-    },
-    {
-      "author": "renovate[bot]",
-      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/7fe83b55e6a67d8136314d28f359e403ea4b1acc",
-      "date": "2023-11-05",
-      "message": "chore(deps): update dependency @tscircuit/react-fiber to ^0.0.5",
-      "repo": "tscircuit/debug.tscircuit.com-frontend"
     },
     {
       "author": "Severin Ibarluzea",
