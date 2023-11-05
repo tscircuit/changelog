@@ -253,13 +253,6 @@
     },
     {
       "author": "seveibar",
-      "commit_url": "https://github.com/tscircuit/supergrid/commit/a51114ece09b9f3150d2ccd7a4bd9c0c605529f2",
-      "date": "2023-11-05",
-      "message": "version bump",
-      "repo": "tscircuit/supergrid"
-    },
-    {
-      "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/supergrid/commit/e385de77624ab1d9895dc3d872c9e086d4186791",
       "date": "2023-11-05",
       "message": "fix: lines do not extend to edge",
