@@ -40,7 +40,7 @@ export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
     for (const item of response.data) {
       commits.push({
         commit_url: item.html_url,
-        date: item.commit.author.date,
+        date: item.commit.author.date.split("T")[0],
         message: item.commit.message,
         author: item.commit.author.name,
       })
