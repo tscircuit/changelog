@@ -27,7 +27,9 @@ jobs:
         run: npm ci
 
       - name: Generate Changelog
-        run: npm run generate-changelog
+        run: |
+          npm run generate-changelog
+          npm run generate-overview
         env:
           DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
 
