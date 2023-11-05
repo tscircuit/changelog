@@ -38,7 +38,6 @@ export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
 
     // Parse the response data to extract commit information
     for (const item of response.data) {
-      console.log(item)
       commits.push({
         commit_url: item.html_url,
         date: item.commit.author.date.split("T")[0],
