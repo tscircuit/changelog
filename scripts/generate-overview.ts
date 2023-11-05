@@ -54,7 +54,11 @@ async function main() {
 
     // Add to recent_commits
     overview.recent_commits.push(
-      ...commits.filter((c) => !c.message.toLowerCase().includes("wip") && !c.message.toLowerCase().includes("bump")
+      ...commits.filter(
+        (c) =>
+          !c.message.toLowerCase().includes("wip") &&
+          !c.message.toLowerCase().includes("bump")
+      )
     )
 
     // Add to commit_graph
