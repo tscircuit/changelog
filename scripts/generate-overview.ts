@@ -70,6 +70,9 @@ async function main() {
   }
 
   // Write overview.json
-  fs.writeFileSync("public/changelogs/overview.json", stringify(overview))
+  fs.writeFileSync(
+    "public/changelogs/overview.json",
+    stringify(overview, null, "  ")
+  )
 }
 main()

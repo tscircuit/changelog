@@ -37,11 +37,11 @@ async function main() {
   // Write changelog files
   fs.writeFileSync(
     `public/changelogs/${today}/commits.json`,
-    stringify(commitsToday)
+    stringify(commitsToday, null, "  ")
   )
   fs.writeFileSync(
     `public/changelogs/${yesterday}/commits.json`,
-    stringify(commitsYesterday)
+    stringify(commitsYesterday, null, "  ")
   )
 }
 main()
