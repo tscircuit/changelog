@@ -175,7 +175,7 @@
     "repo": "tscircuit/debug.tscircuit.com-frontend"
   },
   {
-    "author": "Severin Ibarluzea",
+    "author": "web-flow",
     "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/d8185ef2e9dc1754a4170c4cb6ce44258b5c194b",
     "date": "2023-11-05",
     "message": "Update renovate.json",
@@ -231,7 +231,7 @@
     "repo": "tscircuit/homepage"
   },
   {
-    "author": "Severin Ibarluzea",
+    "author": "web-flow",
     "commit_url": "https://github.com/tscircuit/tscircuit/commit/279c8a779740c6abe8eb61890b48bc23e16703a4",
     "date": "2023-11-05",
     "message": "Create README.md",
@@ -252,21 +252,21 @@
     "repo": "tscircuit/supergrid"
   },
   {
-    "author": "Severin Ibarluzea",
+    "author": "web-flow",
     "commit_url": "https://github.com/tscircuit/compiler/commit/9b50ded99acd1bdd504cb76f8873b378a48e1b00",
     "date": "2023-11-05",
     "message": "Update README.md",
     "repo": "tscircuit/compiler"
   },
   {
-    "author": "Severin Ibarluzea",
+    "author": "web-flow",
     "commit_url": "https://github.com/tscircuit/compiler/commit/8cabd717b5e6d7bb5874a1c723caacd591e0ac61",
     "date": "2023-11-05",
     "message": "Update README.md",
     "repo": "tscircuit/compiler"
   },
   {
-    "author": "Severin Ibarluzea",
+    "author": "web-flow",
     "commit_url": "https://github.com/tscircuit/compiler/commit/c1b65f3daebc267d42a775f265fa72b616390006",
     "date": "2023-11-05",
     "message": "Initial commit",
