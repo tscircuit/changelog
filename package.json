@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate-changelog": "doppler run -p changelog -c prd -- esr scripts/generate-changelog.ts",
+    "generate-long-changelog": "doppler run -p changelog -c prd -- esr scripts/generate-long-changelog.ts",
     "generate-overview": "doppler run -p changelog -c prd -- esr scripts/generate-overview.ts"
   },
   "keywords": [],

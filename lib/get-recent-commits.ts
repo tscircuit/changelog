@@ -1,6 +1,6 @@
 import ms from "ms"
 import axios from "axios"
-import { getCache } from "./cache"
+import { cacheCall } from "./cache"
 
 type Repo = {
   org: string
@@ -16,28 +16,25 @@ type Commit = {
 
 export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
   const cacheKey = `commits-${repo.org}-${repo.name}`
-  const cache = await getCache()
-
-  // Attempt to fetch the commits from the cache
-  const cachedCommits = await cache.getItem(cacheKey)
-  if (cachedCommits) {
-    return JSON.parse(cachedCommits)
-  }
 
   const commits: Commit[] = []
   try {
-    const response = await axios.get(
-      `https://api.github.com/repos/${repo.org}/${repo.name}/commits`,
-      {
-        headers: {
-          Authorization: `token ${process.env.GITHUB_TOKEN}`,
-          Accept: "application/vnd.github.v3+json",
-        },
-      }
+    const response = await cacheCall(`commits-${repo.org}-${repo.name}`, () =>
+      axios
+        .get(
+          `https://api.github.com/repos/${repo.org}/${repo.name}/commits?per_page=100`,
+          {
+            headers: {
+              Authorization: `token ${process.env.GITHUB_TOKEN}`,
+              Accept: "application/vnd.github.v3+json",
+            },
+          }
+        )
+        .then((r) => r.data)
     )
 
     // Parse the response data to extract commit information
-    for (const item of response.data) {
+    for (const item of response) {
       if (!item.committer) continue
       commits.push({
         commit_url: item.html_url,
@@ -46,13 +43,8 @@ export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
         author: item.committer.login,
       })
     }
-
-    // Cache the retrieved commits
-    await cache.setItem(cacheKey, JSON.stringify(commits), {
-      ttl: ms("1h"), // You can set TTL as per your requirement
-    })
   } catch (error: any) {
-    console.error(
+    console.log(
       `[${repo.name}] Error fetching commits:`,
       error?.response?.data?.message
     )
