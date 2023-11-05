@@ -50,8 +50,13 @@ export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
     await cache.setItem(cacheKey, JSON.stringify(commits), {
       ttl: ms("1h"), // You can set TTL as per your requirement
     })
-  } catch (error) {
-    console.error("Error fetching commits:", error)
+  } catch (error: any) {
+    console.error(`[${repo.name}] Error fetching commits:`, error?.response?.data?.message)
+    if (
+      error?.response?.data?.message?.toLowerCase?.() ===
+      "Git Repository is empty.".toLowerCase()
+    )
+      return []
     throw error // Rethrow the error for the caller to handle
   }
 
