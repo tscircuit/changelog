@@ -1,5 +1,6 @@
 import { getRecentCommits } from "../lib/get-recent-commits"
 import { getRepos } from "../lib/get-repos"
+import stringify from "safe-stable-stringify"
 import fs from "fs"
 import ms from "ms"
 
@@ -36,11 +37,11 @@ async function main() {
   // Write changelog files
   fs.writeFileSync(
     `public/changelogs/${today}/commits.json`,
-    JSON.stringify(commitsToday)
+    stringify(commitsToday)
   )
   fs.writeFileSync(
     `public/changelogs/${yesterday}/commits.json`,
-    JSON.stringify(commitsYesterday)
+    stringify(commitsYesterday)
   )
 }
 main()

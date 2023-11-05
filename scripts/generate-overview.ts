@@ -1,4 +1,5 @@
 import fs from "fs"
+import stringify from "safe-stable-stringify"
 
 type OverviewJson = {
   commit_graph_starting_date: string
@@ -69,6 +70,6 @@ async function main() {
   }
 
   // Write overview.json
-  fs.writeFileSync("public/changelogs/overview.json", JSON.stringify(overview))
+  fs.writeFileSync("public/changelogs/overview.json", stringify(overview))
 }
 main()
