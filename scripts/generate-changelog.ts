@@ -13,7 +13,10 @@ async function main() {
   const commitsYesterday = []
 
   for (const repo of repos) {
-    const commits = await getRecentCommits(repo)
+    const commits = (await getRecentCommits(repo)).map((commit) => ({
+      ...commit,
+      repo: `${repo.org}/${repo.name}`,
+    }))
 
     for (const commit of commits) {
       if (commit.date.startsWith(today)) {

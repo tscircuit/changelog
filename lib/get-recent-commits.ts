@@ -8,7 +8,7 @@ type Repo = {
 }
 
 type Commit = {
-  sha: string
+  commit_url: string
   date: string
   message: string
   author: string
@@ -39,7 +39,7 @@ export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
     // Parse the response data to extract commit information
     for (const item of response.data) {
       commits.push({
-        sha: item.sha,
+        commit_url: item.html_url,
         date: item.commit.author.date,
         message: item.commit.message,
         author: item.commit.author.name,
@@ -51,7 +51,10 @@ export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
       ttl: ms("1h"), // You can set TTL as per your requirement
     })
   } catch (error: any) {
-    console.error(`[${repo.name}] Error fetching commits:`, error?.response?.data?.message)
+    console.error(
+      `[${repo.name}] Error fetching commits:`,
+      error?.response?.data?.message
+    )
     if (
       error?.response?.data?.message?.toLowerCase?.() ===
       "Git Repository is empty.".toLowerCase()
