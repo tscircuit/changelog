@@ -13,6 +13,8 @@ async function main() {
   const commitsYesterday = []
 
   for (const repo of repos) {
+    if (repo.name === "changelog") continue
+
     const commits = (await getRecentCommits(repo)).map((commit) => ({
       ...commit,
       repo: `${repo.org}/${repo.name}`,
