@@ -16,6 +16,7 @@
     4,
     1,
     1,
+    0,
     2,
     3,
     1,
@@ -95,6 +96,78 @@
       "issue_url": "https://github.com/tscircuit/supergrid/issues/2",
       "repo": "tscircuit/supergrid",
       "title": "Lines do not extend to end of screen (usually at initial render)",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-10-29",
+      "created_at": "2023-10-29",
+      "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/13",
+      "repo": "tscircuit/schematic-viewer",
+      "title": "Allow disabling render of table",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-10-29",
+      "created_at": "2023-10-29",
+      "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/12",
+      "repo": "tscircuit/schematic-viewer",
+      "title": "When the schematic viewer's top-left isn't at (0,0), scrolling in doesn't work properly (jumps everywhere)",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-09-11",
+      "created_at": "2023-09-09",
+      "issue_url": "https://github.com/tscircuit/table-viewer/issues/3",
+      "repo": "tscircuit/table-viewer",
+      "title": "Allow viewing JSON of element (e.g. a view button)",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-09-11",
+      "created_at": "2023-09-09",
+      "issue_url": "https://github.com/tscircuit/table-viewer/issues/2",
+      "repo": "tscircuit/table-viewer",
+      "title": "Allow clicking on an id to focus on it, showing any children (possibly parents)",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-09-09",
+      "created_at": "2023-09-09",
+      "issue_url": "https://github.com/tscircuit/table-viewer/issues/1",
+      "repo": "tscircuit/table-viewer",
+      "title": "README Images",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-08-15",
+      "created_at": "2023-08-12",
+      "issue_url": "https://github.com/tscircuit/builder/issues/13",
+      "repo": "tscircuit/builder",
+      "title": "Support for schematic net alias",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-07-22",
+      "created_at": "2023-07-22",
+      "issue_url": "https://github.com/tscircuit/debug-viewer/issues/1",
+      "repo": "tscircuit/debug-viewer",
+      "title": "README Images",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-07-11",
+      "created_at": "2023-07-10",
+      "issue_url": "https://github.com/tscircuit/pcb-viewer/issues/3",
+      "repo": "tscircuit/pcb-viewer",
+      "title": "Deploy Storybook to Vercel, Link to Storybook in README",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-07-11",
+      "created_at": "2023-07-10",
+      "issue_url": "https://github.com/tscircuit/routing/issues/1",
+      "repo": "tscircuit/routing",
+      "title": "Deploy Storybook to Vercel, Link to Storybook in README",
       "user": "seveibar"
     }
   ],
@@ -3144,6 +3217,139 @@
       "issue_url": "https://github.com/tscircuit/builder/issues/21",
       "repo": "tscircuit/builder",
       "title": "Selectors should be able to use port hints",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-10-29",
+      "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/15",
+      "repo": "tscircuit/schematic-viewer",
+      "title": "Initially zoom to contain the provided schematic",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-10-29",
+      "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/14",
+      "repo": "tscircuit/schematic-viewer",
+      "title": "Grid is initially not rendered",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-09-20",
+      "issue_url": "https://github.com/tscircuit/routing/issues/4",
+      "repo": "tscircuit/routing",
+      "title": "Utility method for shrinking obstacles prior to path finding",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-09-14",
+      "issue_url": "https://github.com/tscircuit/tscircuit/issues/1",
+      "repo": "tscircuit/tscircuit",
+      "title": "Explore Stronger Static Types via Hook-Components",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-09-11",
+      "issue_url": "https://github.com/tscircuit/builder/issues/17",
+      "repo": "tscircuit/builder",
+      "title": "Use @tscircuit/routing for schematic traces using findSchematicRoute mode",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-09-05",
+      "issue_url": "https://github.com/tscircuit/builder/issues/16",
+      "repo": "tscircuit/builder",
+      "title": "`<trace />` `from` and `to` props don't work with react, introduce setTo and setFrom?",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-08-15",
+      "issue_url": "https://github.com/tscircuit/builder/issues/15",
+      "repo": "tscircuit/builder",
+      "title": "Invalid trace path shouldn't break design, should be shown as an error",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-08-15",
+      "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/10",
+      "repo": "tscircuit/schematic-viewer",
+      "title": "Story with all schematic symbols next to eachother for sizing comparisons",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-08-15",
+      "issue_url": "https://github.com/tscircuit/react-fiber/issues/3",
+      "repo": "tscircuit/react-fiber",
+      "title": "deep builder overrides e.g. $configureSchematicSymbol $configurePorts etc.",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-08-14",
+      "issue_url": "https://github.com/tscircuit/supergrid/issues/1",
+      "repo": "tscircuit/supergrid",
+      "title": "README Images",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-07-12",
+      "issue_url": "https://github.com/tscircuit/builder/issues/10",
+      "repo": "tscircuit/builder",
+      "title": "platedhole should error if it doesn't have both an inner diameter and an outer diameter",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-07-12",
+      "issue_url": "https://github.com/tscircuit/pcb-viewer/issues/5",
+      "repo": "tscircuit/pcb-viewer",
+      "title": "Show error when there's an error building the react components via react fiber",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-07-12",
+      "issue_url": "https://github.com/tscircuit/log-soup/issues/1",
+      "repo": "tscircuit/log-soup",
+      "title": "Logging should output a console.log line with a url where you can visit the logged circuit on debug.tscircuit.com",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-07-10",
+      "issue_url": "https://github.com/tscircuit/builder/issues/9",
+      "repo": "tscircuit/builder",
+      "title": "Update READMEs for Major Projects to Repo Requirements",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-07-09",
+      "issue_url": "https://github.com/tscircuit/builder/issues/7",
+      "repo": "tscircuit/builder",
+      "title": "Building PCB Traces, Correctly Placing PCB Ports",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-05-31",
+      "issue_url": "https://github.com/tscircuit/homepage/issues/1",
+      "repo": "tscircuit/homepage",
+      "title": "Get PCB View Working",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-04-15",
+      "issue_url": "https://github.com/tscircuit/builder/issues/6",
+      "repo": "tscircuit/builder",
+      "title": "Rename \"center\" to \"origin\"",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-04-15",
+      "issue_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/issues/1",
+      "repo": "tscircuit/debug.tscircuit.com-frontend",
+      "title": "Deployment README",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-02-19",
+      "issue_url": "https://github.com/tscircuit/builder/issues/4",
+      "repo": "tscircuit/builder",
+      "title": "Expose Props to assist in definition of IntrinsicElements",
       "user": "seveibar"
     }
   ],
