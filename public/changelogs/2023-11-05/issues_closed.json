@@ -1,0 +1,18 @@
+[
+  {
+    "closed_at": "2023-11-05",
+    "created_at": "2023-11-05",
+    "issue_url": "https://github.com/tscircuit/builder/issues/20",
+    "repo": "tscircuit/builder",
+    "title": "PCB Routing not working from Bugs",
+    "user": "seveibar"
+  },
+  {
+    "closed_at": "2023-11-05",
+    "created_at": "2023-11-05",
+    "issue_url": "https://github.com/tscircuit/supergrid/issues/2",
+    "repo": "tscircuit/supergrid",
+    "title": "Lines do not extend to end of screen (usually at initial render)",
+    "user": "seveibar"
+  }
+]

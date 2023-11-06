@@ -80,6 +80,24 @@
   ],
   "commit_graph_ending_date": "2023-11-06",
   "commit_graph_starting_date": "2022-11-07",
+  "recent_closed_issues": [
+    {
+      "closed_at": "2023-11-05",
+      "created_at": "2023-11-05",
+      "issue_url": "https://github.com/tscircuit/builder/issues/20",
+      "repo": "tscircuit/builder",
+      "title": "PCB Routing not working from Bugs",
+      "user": "seveibar"
+    },
+    {
+      "closed_at": "2023-11-05",
+      "created_at": "2023-11-05",
+      "issue_url": "https://github.com/tscircuit/supergrid/issues/2",
+      "repo": "tscircuit/supergrid",
+      "title": "Lines do not extend to end of screen (usually at initial render)",
+      "user": "seveibar"
+    }
+  ],
   "recent_commits": [
     {
       "author": "seveibar",
@@ -3111,6 +3129,22 @@
       "date": "2023-11-06",
       "message": "add tsignore",
       "repo": "tscircuit/homepage"
+    }
+  ],
+  "recent_open_issues": [
+    {
+      "created_at": "2023-11-05",
+      "issue_url": "https://github.com/tscircuit/builder/issues/22",
+      "repo": "tscircuit/builder",
+      "title": "Ground plane builder",
+      "user": "seveibar"
+    },
+    {
+      "created_at": "2023-11-05",
+      "issue_url": "https://github.com/tscircuit/builder/issues/21",
+      "repo": "tscircuit/builder",
+      "title": "Selectors should be able to use port hints",
+      "user": "seveibar"
     }
   ],
   "version_released_on_date": {
