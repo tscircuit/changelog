@@ -77,7 +77,7 @@
     2,
     6,
     35,
-    4
+    5
   ],
   "commit_graph_ending_date": "2023-11-06",
   "commit_graph_starting_date": "2022-11-07",
@@ -103,7 +103,7 @@
       "created_at": "2023-11-05",
       "issue_url": "https://github.com/tscircuit/builder/issues/20",
       "repo": "tscircuit/builder",
-      "title": "PCB Routing not working from Bugs",
+      "title": "PCB Routing not working from Bugs to resistors",
       "user": "seveibar"
     },
     {
@@ -3169,6 +3169,13 @@
       "date": "2023-11-05",
       "message": "fix: lines do not extend to edge",
       "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/749ee48497f2b17766a2605d6939b8eeb0b897e9",
+      "date": "2023-11-06",
+      "message": "more stuff on getting started page",
+      "repo": "tscircuit/homepage"
     },
     {
       "author": "seveibar",
