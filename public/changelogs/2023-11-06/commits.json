@@ -1,6 +1,13 @@
 [
   {
     "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/205e5752eaabd30991f9f9da7e7ef695c15452c6",
+    "date": "2023-11-06",
+    "message": "add get involved page",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/homepage/commit/f98abbfee7875940c09027cfe67c8d90132c5452",
     "date": "2023-11-06",
     "message": "less emphasis on name",
