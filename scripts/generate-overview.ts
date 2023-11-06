@@ -20,12 +20,14 @@ type OverviewJson = {
     created_at: string
     title: string
     user: string
+    repo: string
   }>
   recent_closed_issues: Array<{
     issue_url: string
     created_at: string
     closed_at: string
     title: string
+    repo: string
     user: string
   }>
 
