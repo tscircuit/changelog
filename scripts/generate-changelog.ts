@@ -85,7 +85,6 @@ async function main() {
       )
     }
     if (issues_created.length > 0) {
-      console.log(issues_created)
       fs.writeFileSync(
         `public/changelogs/${date}/issues_created.json`,
         stringify(issues_created, null, "  ")

@@ -29,6 +29,14 @@ type OverviewJson = {
   }>
 }
 
+const readAndParseOrEmptyArray = (filePath: string) => {
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf8"))
+  } catch (error) {
+    return []
+  }
+}
+
 /**
  * Go through every directory in "public/changelogs/*" (all named as a date) and
  * create "public/overview.json" based on the "public/changelogs/<date>/
@@ -51,15 +59,15 @@ async function main() {
     const stat = fs.statSync(dir)
     if (!stat.isDirectory()) continue
 
-    const commits = JSON.parse(
-      fs.readFileSync(`${dir}/commits.json`, "utf8")
-    ) as Array<{
+    const commits = readAndParseOrEmptyArray(`${dir}/commits.json`) as Array<{
       repo: string // "org/repo-name"
       commit_url: string
       message: string
       date: string // "yyyy-mm-dd"
       author: string
     }>
+    const closedIssues = readAndParseOrEmptyArray(`${dir}/closed_issues.json`)
+    const openedIssues = readAndParseOrEmptyArray(`${dir}/open_issues.json`)
 
     // Add to recent_commits
     overview.recent_commits.push(

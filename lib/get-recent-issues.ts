@@ -13,7 +13,6 @@ type Issue = {
   closed_at: string
   title: string
   user: string
-  state: string
 }
 
 export const getRecentIssues = async (repo: Repo): Promise<Issue[]> => {
@@ -41,7 +40,6 @@ export const getRecentIssues = async (repo: Repo): Promise<Issue[]> => {
       if (item.user?.login?.includes?.("bot")) continue // Skip bot issues
       issues.push({
         issue_url: item.html_url,
-        state: item.state,
         created_at: item.created_at.split("T")[0],
         closed_at: item.closed_at?.split?.("T")[0],
         title: item.title,
