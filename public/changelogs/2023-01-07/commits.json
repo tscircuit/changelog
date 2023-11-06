@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/c36f0e2a56955a36a4d29275d6337547a30e7648",
+    "date": "2023-01-07",
+    "message": "initial wrangler fixture working",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/719795741149fd9360c1c08d7122a9f29f60f1e3",
+    "date": "2023-01-07",
+    "message": "fixture",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

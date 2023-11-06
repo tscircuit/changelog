@@ -1,0 +1,23 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/0a6659224700161682cc144ba1b9980594e22df2",
+    "date": "2023-07-17",
+    "message": "chore(release): 1.2.2 [skip ci]\n\n## [1.2.2](https://github.com/tscircuit/pcb-viewer/compare/v1.2.1...v1.2.2) (2023-07-17)\n\n### Bug Fixes\n\n* Merge pull request [#6](https://github.com/tscircuit/pcb-viewer/issues/6) from tscircuit/codesandbox-settings ([5c0336b](https://github.com/tscircuit/pcb-viewer/commit/5c0336bdf77ce4af42f767e2a5486d3f0e2e251d))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/5c0336bdf77ce4af42f767e2a5486d3f0e2e251d",
+    "date": "2023-07-17",
+    "message": "fix: Merge pull request #6 from tscircuit/codesandbox-settings\n\nAdd CodeSandbox Settings. Add CodeSandbox link to README",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b06a45f27637edc9c78df76e7ed2e2409ed7d73b",
+    "date": "2023-07-17",
+    "message": "Merge pull request #7 from tscircuit/display-error\n\nDisplay error on the screen",
+    "repo": "tscircuit/pcb-viewer"
+  }
+]

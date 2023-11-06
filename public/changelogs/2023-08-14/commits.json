@@ -1,0 +1,135 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/c27d424b3b2f58edc78b160cde079156072f3854",
+    "date": "2023-08-14",
+    "message": "chore(release): 1.2.15 [skip ci]\n\n## [1.2.15](https://github.com/tscircuit/builder/compare/v1.2.14...v1.2.15) (2023-08-14)\n\n### Bug Fixes\n\n* add lodash bundled ([983b335](https://github.com/tscircuit/builder/commit/983b335c9bc52cf01647fc032e757175c880be86))\n* fixes for schematic text builder ([b60832a](https://github.com/tscircuit/builder/commit/b60832a5242afc154b01bae2d216de4eebd36b1b))\n* type issue ([47423ad](https://github.com/tscircuit/builder/commit/47423ada3235d49892eb605785d2baf1c925bb71))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/47423ada3235d49892eb605785d2baf1c925bb71",
+    "date": "2023-08-14",
+    "message": "fix: type issue",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/983b335c9bc52cf01647fc032e757175c880be86",
+    "date": "2023-08-14",
+    "message": "fix: add lodash bundled",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/1b408f3197fc565b3116f10f01cca9d38f5a3454",
+    "date": "2023-08-14",
+    "message": "chore(release): 1.0.14 [skip ci]\n\n## [1.0.14](https://github.com/tscircuit/schematic-viewer/compare/v1.0.13...v1.0.14) (2023-08-14)\n\n### Bug Fixes\n\n* mm display fix ([b32c38c](https://github.com/tscircuit/schematic-viewer/commit/b32c38c7b4727d9058f7935205787c46d19470c7))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b32c38c7b4727d9058f7935205787c46d19470c7",
+    "date": "2023-08-14",
+    "message": "fix: mm display fix",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/0075e7a329f08756b80ab90323af7776cb95db1a",
+    "date": "2023-08-14",
+    "message": "chore(release): 1.2.8 [skip ci]\n\n## [1.2.8](https://github.com/tscircuit/pcb-viewer/compare/v1.2.7...v1.2.8) (2023-08-14)\n\n### Bug Fixes\n\n* smaller screen size grid spacing ([157ac48](https://github.com/tscircuit/pcb-viewer/commit/157ac4830cc8e2636db5b33998e90a7eaab9b5de))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/157ac4830cc8e2636db5b33998e90a7eaab9b5de",
+    "date": "2023-08-14",
+    "message": "fix: smaller screen size grid spacing",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/ef2e5d5198759303818e5d7ebdd8b89220bcd6c5",
+    "date": "2023-08-14",
+    "message": "chore(release): 1.2.7 [skip ci]\n\n## [1.2.7](https://github.com/tscircuit/pcb-viewer/compare/v1.2.6...v1.2.7) (2023-08-14)\n\n### Bug Fixes\n\n* remove border ([2348962](https://github.com/tscircuit/pcb-viewer/commit/2348962eb158dfb37aca1568d7b9ae71308e72f5))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2348962eb158dfb37aca1568d7b9ae71308e72f5",
+    "date": "2023-08-14",
+    "message": "fix: remove border",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/4d58f8c52044e0570682302b4d618750d3c147f0",
+    "date": "2023-08-14",
+    "message": "chore(release): 1.2.6 [skip ci]\n\n## [1.2.6](https://github.com/tscircuit/pcb-viewer/compare/v1.2.5...v1.2.6) (2023-08-14)\n\n### Bug Fixes\n\n* add supergrid instead of manual grid ([b2f975d](https://github.com/tscircuit/pcb-viewer/commit/b2f975d8dd6ea5443dff0138c88758b4920b315e))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b2f975d8dd6ea5443dff0138c88758b4920b315e",
+    "date": "2023-08-14",
+    "message": "fix: add supergrid instead of manual grid",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/30ac3ab7f4f04cbeef1991687f3a351dbf456d3c",
+    "date": "2023-08-14",
+    "message": "chore(release): 1.0.5 [skip ci]\n\n## [1.0.5](https://github.com/tscircuit/react-fiber/compare/v1.0.4...v1.0.5) (2023-08-14)\n\n### Bug Fixes\n\n* add net alias support ([faa70a5](https://github.com/tscircuit/react-fiber/commit/faa70a55d347934974e87ae8a801e83ed8acccab))",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/faa70a55d347934974e87ae8a801e83ed8acccab",
+    "date": "2023-08-14",
+    "message": "fix: add net alias support",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/e2b7ecebe964ccf58fa5364650ffbb768b5e1fc2",
+    "date": "2023-08-14",
+    "message": "upgrade pcb viewer to stop constantly expanding",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/c7b580994ee968382534e0628b1d1d6dd1275589",
+    "date": "2023-08-14",
+    "message": "fix: upgrade everything in dev mode",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/6c6ba58c7a89f40e07ac26ad68b817859eb9a849",
+    "date": "2023-08-14",
+    "message": "render mouse target text same as major text",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/7c78d3d1c4d9586e36d449c7f3d08284f093dc85",
+    "date": "2023-08-14",
+    "message": "add textColor and double click to set mouse target",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/cae1e4b81ee4b860831e3ad3c512ce452af362e6",
+    "date": "2023-08-14",
+    "message": "fix error w/ negative values, fix text not display on black bg",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/9defcc812d58f25f13bf12c3a805026bc65e33ec",
+    "date": "2023-08-14",
+    "message": "Update README.md",
+    "repo": "tscircuit/supergrid"
+  }
+]

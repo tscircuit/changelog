@@ -1,0 +1,30 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/f84866f5ab8d6c7a2f7f41da176c2001b416d359",
+    "date": "2023-08-15",
+    "message": "chore(release): 1.0.6 [skip ci]\n\n## [1.0.6](https://github.com/tscircuit/react-fiber/compare/v1.0.5...v1.0.6) (2023-08-15)\n\n### Bug Fixes\n\n* add support for children ([7694334](https://github.com/tscircuit/react-fiber/commit/7694334a925e1cedb1706067d6488dbc3484fa5f))",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/7694334a925e1cedb1706067d6488dbc3484fa5f",
+    "date": "2023-08-15",
+    "message": "fix: add support for children",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/7633b4c63b14ea6a89f2f69d116bd56e6effca9f",
+    "date": "2023-08-15",
+    "message": "closer to fixing net alias trace issue",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/0634028a367851da3d6bc5c7969bedbd5b3fb2f7",
+    "date": "2023-08-15",
+    "message": "custom footprint initial work",
+    "repo": "tscircuit/tscircuit"
+  }
+]

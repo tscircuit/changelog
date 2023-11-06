@@ -1,0 +1,9 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/38e01f1eefef1c6419ef3326fda31faabfa52f70",
+    "date": "2023-07-18",
+    "message": "fix: footprint and schematic working w/ no initial drag issue",
+    "repo": "tscircuit/debug-viewer"
+  }
+]

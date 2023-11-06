@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/1d14d0a700a6b93528cc0f242789a29353e32439",
+    "date": "2023-06-19",
+    "message": "checkpoint",
+    "repo": "tscircuit/sparkfun-footprints"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/1044651127e2c8a63f6cc69b45186fff20bd920d",
+    "date": "2023-06-19",
+    "message": "initial work (#1)",
+    "repo": "tscircuit/sparkfun-footprints"
+  }
+]

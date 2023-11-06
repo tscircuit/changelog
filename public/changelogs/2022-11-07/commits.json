@@ -1,0 +1,30 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2939900cef1767a09727b7ac86fe62af68b6da7e",
+    "date": "2022-11-07",
+    "message": "fix: fix circle radius being drawn too large",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/48b73430b94be2b84552f927a964b3fdb77b6606",
+    "date": "2022-11-07",
+    "message": "fix: debug text consistent size",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/0a45a82374a90831aa147ef496abb263e2e3b3ab",
+    "date": "2022-11-07",
+    "message": "fix: custom build for tsup to get around next changing the jsx pref",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/e7a0ee918f342b7119436a62c753604ff446ccf2",
+    "date": "2022-11-07",
+    "message": "pcb layout working",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  }
+]

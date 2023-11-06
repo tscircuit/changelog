@@ -1,0 +1,44 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/631e45dd267f4aaaef63be8c0ef2be6d88544ae1",
+    "date": "2023-09-04",
+    "message": "allow setting name via setSourceProperties for generic component",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/f7afe0a3e9b03fa56b4085154ab16ea82b77a230",
+    "date": "2023-09-04",
+    "message": "finish new diode builder candidate",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/ed5c84bef009d12d8e1781c50446e9c96cd843ca",
+    "date": "2023-09-04",
+    "message": "some comments around scaling",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/332f33004996f789b0ebd43cc825e6be540d5424",
+    "date": "2023-09-04",
+    "message": "chore(release): 1.2.16 [skip ci]\n\n## [1.2.16](https://github.com/tscircuit/builder/compare/v1.2.15...v1.2.16) (2023-09-04)\n\n### Bug Fixes\n\n* net alias size ([3ec4104](https://github.com/tscircuit/builder/commit/3ec4104cd2e9ae1f03d38724feb8f0238fec467c))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/3ec4104cd2e9ae1f03d38724feb8f0238fec467c",
+    "date": "2023-09-04",
+    "message": "fix: net alias size",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/383f2f443ec8cf47a3e3080b176bb8ac9f918f27",
+    "date": "2023-09-04",
+    "message": "fix: netalias appearance",
+    "repo": "tscircuit/schematic-viewer"
+  }
+]

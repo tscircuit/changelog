@@ -1,0 +1,142 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/b7f5658799dcb6225905a221d9e42e373c8738a0",
+    "date": "2023-09-09",
+    "message": "chore(release): 1.2.18 [skip ci]\n\n## [1.2.18](https://github.com/tscircuit/builder/compare/v1.2.17...v1.2.18) (2023-09-09)\n\n### Bug Fixes\n\n* add support for source_errors ([6ee7c05](https://github.com/tscircuit/builder/commit/6ee7c0569d95c34cbf0a1f553a4a4b1e7781e22b))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/6ee7c0569d95c34cbf0a1f553a4a4b1e7781e22b",
+    "date": "2023-09-09",
+    "message": "fix: add support for source_errors",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/6862ea2a8341ea4e750b2ac4b8718f73d2100ada",
+    "date": "2023-09-09",
+    "message": "upgrade table viewer",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/5ac1c1aaf29e003cd9b72c16eb7d14846f1fab99",
+    "date": "2023-09-09",
+    "message": "better debugging",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/03cf1cf680d780169baab2e6d3fa446ef246393c",
+    "date": "2023-09-09",
+    "message": "net alias test example",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/6b5e1e2c76a4e8692db576795d2c595c362af47a",
+    "date": "2023-09-09",
+    "message": "inc version",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/922e663731142ffac6e46e91f8c46d4d9881fe7f",
+    "date": "2023-09-09",
+    "message": "incremenet version",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/7c594e4721493536d588d5f65514c2786a981ead",
+    "date": "2023-09-09",
+    "message": "add focus logic for other ids",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/7d47ee99456ea9e261e82c83496c3ac2f7720f65",
+    "date": "2023-09-09",
+    "message": "json view support",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/10dca1d271b3244c313334278753d78e9507204f",
+    "date": "2023-09-09",
+    "message": "push modal",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/79d0ae82673abde9dcd7741c178daed882c0ba39",
+    "date": "2023-09-09",
+    "message": "fix react inclusion",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/d2e556fde613cbf2fa7d627bd862b8b6df9ecb96",
+    "date": "2023-09-09",
+    "message": "publish with readme",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/37bdf8db1d3128b2dbcbc1b182144a99fca1cf45",
+    "date": "2023-09-09",
+    "message": "add readme",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/55ecbc12871c3257df7cdeba3f2751ae402814b1",
+    "date": "2023-09-09",
+    "message": "add repository",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/329b8cb5255945056f8f9b08ae0cb0fdf4527d10",
+    "date": "2023-09-09",
+    "message": "fix selector path parent finding glitch",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/b347ec5b5eecb42753d984e3590f390a2c6fac76",
+    "date": "2023-09-09",
+    "message": "searching and filtering",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/2df399c7f0b932363af11ead8916f8b9de7378da",
+    "date": "2023-09-09",
+    "message": "wip",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/b96c8d14b069ee45f7e7115f62721c9515ef9712",
+    "date": "2023-09-09",
+    "message": "wip",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/7e39ee0001bbde43df62b432acd005e2e8d74226",
+    "date": "2023-09-09",
+    "message": "wip",
+    "repo": "tscircuit/table-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/table-viewer/commit/ad52b50d7f292ff12bfe610ddd9ccc32aaaff7f6",
+    "date": "2023-09-09",
+    "message": "initial",
+    "repo": "tscircuit/table-viewer"
+  }
+]

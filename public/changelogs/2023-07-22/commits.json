@@ -1,0 +1,121 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/bca887ae7c5ec784b9100c483b27641ebc145d31",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.0.6 [skip ci]\n\n## [1.0.6](https://github.com/tscircuit/schematic-viewer/compare/v1.0.5...v1.0.6) (2023-07-22)\n\n### Bug Fixes\n\n* switch jsx build ([#8](https://github.com/tscircuit/schematic-viewer/issues/8)) ([093e514](https://github.com/tscircuit/schematic-viewer/commit/093e514175a81bb6d86583fb82b3963fa32e597c))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/093e514175a81bb6d86583fb82b3963fa32e597c",
+    "date": "2023-07-22",
+    "message": "fix: switch jsx build (#8)",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/a5d4d9720ff869cf0c8b52449750dbfc3a98fc8d",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.2.3 [skip ci]\n\n## [1.2.3](https://github.com/tscircuit/pcb-viewer/compare/v1.2.2...v1.2.3) (2023-07-22)\n\n### Bug Fixes\n\n* jsx runtime ([831fb81](https://github.com/tscircuit/pcb-viewer/commit/831fb811dd4cfa58b41239f121673e824a512f57))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/831fb811dd4cfa58b41239f121673e824a512f57",
+    "date": "2023-07-22",
+    "message": "fix: jsx runtime",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/cb5d0ac19c526675e256714a78f48746d23fc656",
+    "date": "2023-07-22",
+    "message": "fix: add semantic release, build and minify to dist",
+    "repo": "tscircuit/sparkfun-packages"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/a86d1edd410ce0c4d922c8787de08d9cefdd98ad",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.0.7 [skip ci]\n\n## [1.0.7](https://github.com/tscircuit/debug-viewer/compare/v1.0.6...v1.0.7) (2023-07-22)\n\n### Bug Fixes\n\n* colors sometimes not being found, fallback color ([c4bb161](https://github.com/tscircuit/debug-viewer/commit/c4bb16101bcfd7a0df3fba0210bc34efd9b0c147))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c4bb16101bcfd7a0df3fba0210bc34efd9b0c147",
+    "date": "2023-07-22",
+    "message": "fix: colors sometimes not being found, fallback color",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c59f6498fbe248c65a7007529e687921d1925173",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.0.6 [skip ci]\n\n## [1.0.6](https://github.com/tscircuit/debug-viewer/compare/v1.0.5...v1.0.6) (2023-07-22)\n\n### Bug Fixes\n\n* make sparkfun-packages a peer dep ([8a7bc91](https://github.com/tscircuit/debug-viewer/commit/8a7bc91e549ade3362b8325d01330d23573d9890))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/8a7bc91e549ade3362b8325d01330d23573d9890",
+    "date": "2023-07-22",
+    "message": "fix: make sparkfun-packages a peer dep",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/4e1b8f44b72413dd1e5b8db520df5c20f9d9fb52",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.0.5 [skip ci]\n\n## [1.0.5](https://github.com/tscircuit/debug-viewer/compare/v1.0.4...v1.0.5) (2023-07-22)\n\n### Bug Fixes\n\n* dont bundle, add peer deps ([3fc5ea6](https://github.com/tscircuit/debug-viewer/commit/3fc5ea640abfe5d875757e3695181bf511e8b397))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/3fc5ea640abfe5d875757e3695181bf511e8b397",
+    "date": "2023-07-22",
+    "message": "fix: dont bundle, add peer deps",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/bf9821b7ace9fd80a3deaafe54d19b192bea6a68",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.0.4 [skip ci]\n\n## [1.0.4](https://github.com/tscircuit/debug-viewer/compare/v1.0.3...v1.0.4) (2023-07-22)\n\n### Bug Fixes\n\n* add repository to packagejson ([ca7be80](https://github.com/tscircuit/debug-viewer/commit/ca7be8015ab0b60183206910455da7f7755cf9a9))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/ca7be8015ab0b60183206910455da7f7755cf9a9",
+    "date": "2023-07-22",
+    "message": "fix: add repository to packagejson",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/927bd9b5a06e06dd33a73f67203b4e9a7fc2dd87",
+    "date": "2023-07-22",
+    "message": "chore(release): 1.0.3 [skip ci]\n\n## [1.0.3](https://github.com/tscircuit/debug-viewer/compare/v1.0.2...v1.0.3) (2023-07-22)\n\n### Bug Fixes\n\n* Update README.md ([9e7f4fb](https://github.com/tscircuit/debug-viewer/commit/9e7f4fb66ccb9b41b9e8c90bd98a3fedbb8c3860))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/9e7f4fb66ccb9b41b9e8c90bd98a3fedbb8c3860",
+    "date": "2023-07-22",
+    "message": "fix: Update README.md",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/bc788870e98bf52b9008f352c273af7264ca72bb",
+    "date": "2023-07-22",
+    "message": "Update tsconfig.json",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/cb9faed3f5401a99cd9a8ff46485f018126ce52c",
+    "date": "2023-07-22",
+    "message": "tweaks, first render working",
+    "repo": "tscircuit/tscircuit"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b244426ae82cf796ce44dcd6c940e19bf64788f5",
+    "date": "2023-07-08",
+    "message": "fix: upgrade version for semantic release",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/45bfdce6e710b41f7bd960c964d8327ca6eb7de1",
+    "date": "2023-07-08",
+    "message": "fix: more yarn to npm transition",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/bb44f59dae00c229288f5a26762f11c71cdd9060",
+    "date": "2023-07-08",
+    "message": "fix: switch to npm from yarn",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/0b04b5a85a42587147638f581508817b676a0b17",
+    "date": "2023-07-08",
+    "message": "fix: accept any version of peer dependencies (#1)",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/2a01d3614bda109a9b206fe40dc89ca578d03874",
+    "date": "2023-07-08",
+    "message": "remove unused file",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/1d076192666c79e15e2e8ac11581bddefc72ffc8",
+    "date": "2023-07-08",
+    "message": "minor fixes",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/d2a562b1be2f0fa5b372856730509ee6ff50c540",
+    "date": "2023-07-08",
+    "message": "make problem harder, remove logic for ensuring continuguous reasons,\nintroduce bug where you can have a duplicate border point",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/9491f646bfd53d43ab445343cac68e1c003504c6",
+    "date": "2023-07-08",
+    "message": "working border points implementation https://twitter.com/seveibar/status/1677819441818779648?s=20",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/af82e966c238aac19692326342dfa69dead96a65",
+    "date": "2023-07-08",
+    "message": "better story, path optimization",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/3580a6f872d28ae56ff95461c689e5bc33ecfef8",
+    "date": "2023-07-08",
+    "message": "multi-point routing",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/a1ef6b078693c300e1c1507e0e713577f02acc1e",
+    "date": "2023-07-08",
+    "message": "decent two point router",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/19e14387596d05f20d16efeca4865d95cdd537b7",
+    "date": "2023-07-08",
+    "message": "checkpoint rendering w/ storybook",
+    "repo": "tscircuit/routing"
+  }
+]

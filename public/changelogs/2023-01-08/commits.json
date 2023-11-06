@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/7b41c8feb577192cfceebdd98d93c60fb21ddbf0",
+    "date": "2023-01-08",
+    "message": "checkpoint",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/4443ddfcc477133c1d4701e21d5e105f35e70baf",
+    "date": "2023-01-08",
+    "message": "work towards better testing",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

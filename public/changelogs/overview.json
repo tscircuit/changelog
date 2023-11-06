@@ -1,11 +1,2892 @@
 {
   "commit_graph": [
+    4,
+    2,
+    5,
+    4,
+    3,
+    1,
+    6,
+    2,
+    2,
+    1,
+    1,
+    1,
+    8,
+    4,
+    1,
+    1,
+    2,
+    3,
+    1,
+    4,
+    8,
+    10,
+    1,
+    2,
+    2,
+    4,
+    3,
+    2,
+    2,
+    3,
+    13,
+    3,
+    3,
+    2,
+    5,
+    3,
+    1,
+    12,
+    52,
+    10,
+    14,
+    9,
+    1,
+    6,
+    3,
+    1,
+    5,
+    13,
+    17,
+    45,
+    8,
+    4,
+    5,
+    1,
+    1,
+    13,
+    19,
+    19,
+    4,
+    6,
+    10,
+    20,
+    15,
+    6,
+    3,
+    11,
+    1,
+    5,
+    5,
+    2,
+    17,
+    2,
+    13,
+    2,
     6,
     39
   ],
   "commit_graph_ending_date": "2023-11-05",
-  "commit_graph_starting_date": "2023-11-04",
+  "commit_graph_starting_date": "2022-11-07",
   "recent_commits": [
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2939900cef1767a09727b7ac86fe62af68b6da7e",
+      "date": "2022-11-07",
+      "message": "fix: fix circle radius being drawn too large",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/48b73430b94be2b84552f927a964b3fdb77b6606",
+      "date": "2022-11-07",
+      "message": "fix: debug text consistent size",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/0a45a82374a90831aa147ef496abb263e2e3b3ab",
+      "date": "2022-11-07",
+      "message": "fix: custom build for tsup to get around next changing the jsx pref",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/e7a0ee918f342b7119436a62c753604ff446ccf2",
+      "date": "2022-11-07",
+      "message": "pcb layout working",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/915654c0bb0086d0e677187b856e1063fcf9a3d2",
+      "date": "2022-11-08",
+      "message": "fix for rect transform",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/4048a37f0da5979423b3179c04501a7ce49c14d7",
+      "date": "2022-11-08",
+      "message": "attempt update fix",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/d03f7a49aaaecf5608b0e276e65d5f363a3d1cf7",
+      "date": "2022-12-10",
+      "message": "inc version",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/95489aca73926868b75d5a4657849481b567c3d4",
+      "date": "2022-12-10",
+      "message": "fix: transform should trigger re-render",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/91252a31e45844c4110d7754a2afe306e076ed69",
+      "date": "2022-12-10",
+      "message": "add drag and zoom to pcb layout",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/bd9375dadd3493a38c8371e2ead5614300decbcc",
+      "date": "2022-12-10",
+      "message": "new use mouse matrix transform",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/63ab277abb4a3d132a93aa6c63190fb00156a8c1",
+      "date": "2022-12-10",
+      "message": "debug layout transforms",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/footprint-editor/commit/a55716460ee1dba721f0cfd49e94bd04da251de1",
+      "date": "2022-12-18",
+      "message": "start editor",
+      "repo": "tscircuit/footprint-editor"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/footprint-editor/commit/96a9287832769f9c92c6ab7ae3b26419f514370a",
+      "date": "2022-12-18",
+      "message": "initial",
+      "repo": "tscircuit/footprint-editor"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/67ad2ec576cf1b55d15e7299153738331f6f7375",
+      "date": "2022-12-18",
+      "message": "get endpoints started",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/bbfbd46e7111fefbd6e32a89e88440ec052d6680",
+      "date": "2022-12-18",
+      "message": "initial",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/0ff0863039eb50f6991122624fa233afba08fac8",
+      "date": "2022-12-19",
+      "message": "some explanation",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/c56d964bad584d3b81861b7076c6dde0a0dcc482",
+      "date": "2022-12-19",
+      "message": "fix reset script",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/9e2a8fa7a578f6e40ba3627003a0b0ad213e85d8",
+      "date": "2022-12-19",
+      "message": "progress testing d1",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/1771d84642d54051373f074aa7f80e108f5c3c0e",
+      "date": "2022-12-22",
+      "message": "fix missing soup_id",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/12abe6418cbc308547b9f77928794b9f8f4d8f02",
+      "date": "2022-12-22",
+      "message": "add cors support",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/5e9c1b45107f6f10553f09d7679fc2c21b2148f9",
+      "date": "2022-12-22",
+      "message": "fix migrated at",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/0f4638ab1dfacc085caecd6706fad65ee9da656b",
+      "date": "2022-12-22",
+      "message": "temporarily fix upsert with delete all",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/a138e01e8cd0dede4c7603e849198f92578f226b",
+      "date": "2022-12-22",
+      "message": "parse content",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/cf8c81026d467c428c6671411c6f94221b6c4715",
+      "date": "2022-12-22",
+      "message": "checkpoint",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/c36f0e2a56955a36a4d29275d6337547a30e7648",
+      "date": "2023-01-07",
+      "message": "initial wrangler fixture working",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/719795741149fd9360c1c08d7122a9f29f60f1e3",
+      "date": "2023-01-07",
+      "message": "fixture",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/7b41c8feb577192cfceebdd98d93c60fb21ddbf0",
+      "date": "2023-01-08",
+      "message": "checkpoint",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/4443ddfcc477133c1d4701e21d5e105f35e70baf",
+      "date": "2023-01-08",
+      "message": "work towards better testing",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/a04cae22bed0f6f2d509ba89e0046d480fbaaefb",
+      "date": "2023-01-09",
+      "message": "seeding setup, migrations setup using vfs",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/432f4424a660ae7b7b92a15bf9496b080a986133",
+      "date": "2023-01-10",
+      "message": "soup_group/get test",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/2eec0634b229d85b9cfbe0703dfd8cdfdd26d7e4",
+      "date": "2023-01-22",
+      "message": "add test for add_soup",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/23a5332e67a68cccdbee5f3c9099e4f9400147f3",
+      "date": "2023-02-05",
+      "message": "update string hash, changing node version in pages",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/56d8ac12efc37a10bab74fe97f8405ef9c5bb1b5",
+      "date": "2023-02-05",
+      "message": "downgrade string-hash",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/779ae3bb0508ab326ebf0de70dba8ecd3b0e29ce",
+      "date": "2023-02-05",
+      "message": "add build and fix type in _app",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/b3c5464270be488287fb1cffff52fdf8c377ce09",
+      "date": "2023-02-05",
+      "message": "migrate to debug server",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/dde28fb8d308eec0093269a3877b0723dbb888ef",
+      "date": "2023-02-05",
+      "message": "add types",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/b5a96391a951f27edb6ffc937b80d4994c66941e",
+      "date": "2023-02-05",
+      "message": "proxy to debug api",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/31ae9057ccfe2e2cda68599ff055acb1656dddca",
+      "date": "2023-02-05",
+      "message": "variation to prevent caching if origin not initially set",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/87d34c5a1403524cc863e588431e62d486e34389",
+      "date": "2023-02-05",
+      "message": "more permissive cors",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/253129487bcb005dbb1b2569486b9ecc4080cf7e",
+      "date": "2023-02-06",
+      "message": "checkpoint, logging",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/413a54f9423db6d88ec0e86c6531a9b3051b627a",
+      "date": "2023-02-06",
+      "message": "permanent dark mode",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/af58f9edb89808d49b054173cfbfbcc1422c5ef4",
+      "date": "2023-02-06",
+      "message": "configure forwarding",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/1c303094dbf2d78e37b14a3abd295f20a35ebe95",
+      "date": "2023-02-06",
+      "message": "proxy frontend requests",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/e7af5118febd72746c4091fad53184a7061fd579",
+      "date": "2023-02-07",
+      "message": "test with more pcb components",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/6bf55ead147ba771020381a4a0ab10013e1b5189",
+      "date": "2023-02-08",
+      "message": "fix log layout function",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/bbec4f32be698eb510373e91a2c6cc7d14b36b59",
+      "date": "2023-04-09",
+      "message": "more jsx types",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/5e1f8e2f51e90bc60d379b2878270a5f994342ed",
+      "date": "2023-04-09",
+      "message": "type progress and led circuit progress",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/e0a4b95971e529c132cf9606b9dc0b7054195784",
+      "date": "2023-04-10",
+      "message": "fix: footprint offsets via pcb_x, pcb_y",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/c6093a7ac43be18116947c223e62e7b76c7a7e02",
+      "date": "2023-04-10",
+      "message": "led circuit progress",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/dd80cebf5c2786adc6140f10ceefeeae1f7568f9",
+      "date": "2023-04-10",
+      "message": "fiber",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/e42fc2a71c37b3137305cd371cdba9c137ed182c",
+      "date": "2023-04-15",
+      "message": "add mouse indicator",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/6e23965d21a1a61bd7d44fe6a65a0f25b6dfe7c1",
+      "date": "2023-04-16",
+      "message": "convert led circuit to react",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/198ac9e17d0bf70fff6ccc5cf7cd93c47433366d",
+      "date": "2023-04-16",
+      "message": "render led circuit from builder",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/6d49a90309a4ea9945a4b04c0cfb3f4cea95bca1",
+      "date": "2023-04-16",
+      "message": "led circuit written in jsx w/ absolute positioning",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/ef5f33e9bdfd880ec65c4a2a432c2b9c9df31446",
+      "date": "2023-04-16",
+      "message": "add reactified led circuit",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/31cd7496c1bcfbce5606d7cfc630eaff6a6842b0",
+      "date": "2023-04-17",
+      "message": "fix: better export from intrinsic jsx",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/2aad9dab98322da7799e2a61c83d0971f816ad94",
+      "date": "2023-04-17",
+      "message": "fix: deploy w/ node18",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/9ef95084ad13189e1914e22419b500d392f6fa94",
+      "date": "2023-04-17",
+      "message": "fix: type issues",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/b295ee947d253ae7fc8adb500ea7af16cfe19f00",
+      "date": "2023-04-17",
+      "message": "fix rotation not being used",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/c6adebfd849e618f64fde9f02a103fca36833c52",
+      "date": "2023-04-17",
+      "message": "remove image",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/0f7e3e1d782e4800d910e98f15b1149e5faf4e62",
+      "date": "2023-04-17",
+      "message": "add more details",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/cd06f576a6df412af11edcf96ebf55c5218eb8d8",
+      "date": "2023-04-17",
+      "message": "allow signup",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/d91fcc7c1d90b1d29b4eacdcc80c57c1e06245e5",
+      "date": "2023-04-17",
+      "message": "initial basic",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/e36fdbd561695ea4dea41dd59b5384a38af62bae",
+      "date": "2023-04-19",
+      "message": "verified working version",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/e2d952d30dbd07c82b00fc0278276b5541e7ed52",
+      "date": "2023-04-19",
+      "message": "inc version",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ad1c2ebcb7a4bcfa6a46bfa660914e9bd42b686e",
+      "date": "2023-04-19",
+      "message": "remove deps",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/682a56968d8106d4c2e8c461113b51e1cb074154",
+      "date": "2023-04-19",
+      "message": "fix jsx in output",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/26d9b5ad67321a871a050f5fe58136800fd66f85",
+      "date": "2023-04-19",
+      "message": "add export",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/1f4429cf43f88972dba44b3bf2533aabcf79a037",
+      "date": "2023-04-19",
+      "message": "fix schematic for components with children, traces still incorrect",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b96d5c73c57e7dec0ed9329c299b837c9c8bfbbe",
+      "date": "2023-04-19",
+      "message": "fix more types",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f7efa31eb48fc9886774356e38803de229eccd71",
+      "date": "2023-04-19",
+      "message": "fix: fix types and update react fiber",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/a12754bb3d7088c4c4c12c65937086a221ca3af8",
+      "date": "2023-04-19",
+      "message": "tabs for circuit editor",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/1ec9e6bcec8e1febda86dc7e6fc696d5386d3713",
+      "date": "2023-04-19",
+      "message": "minor cleanup",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/60d72cf1b40133ae1bd0d6d35ad9eb17db95f359",
+      "date": "2023-04-24",
+      "message": "transforms initial",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/614223bfa8d036e89828a0041c4aa83681f7f6a5",
+      "date": "2023-05-21",
+      "message": "global context being used breaking things",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c5363bd3c43af47c6e1c7fc95808a049ecf36e70",
+      "date": "2023-05-21",
+      "message": "fix schematic component render",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/50017413ce1c5ea4637dcab7a77e5d865c45481b",
+      "date": "2023-05-24",
+      "message": "Get Panning Working (#2)",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/0c9e89b0101f90cefd542a4329980d2ef3b99f09",
+      "date": "2023-05-24",
+      "message": "initial prerenderered schematic view",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/a6856f07902479495cace84951bacd8931590ebc",
+      "date": "2023-05-31",
+      "message": "fix build for nextjs consumers",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/57af22c18ecdcbb5ad44b1326dceb5008f55ec6f",
+      "date": "2023-05-31",
+      "message": "grid showing",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/f22200d4e24e2de1c117ee83eda23811fc0b8ba5",
+      "date": "2023-05-31",
+      "message": "schematic no longer overflows and can be dragged",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/bfb690fd8b9d809b0e95f92b496fd75a36c02317",
+      "date": "2023-06-01",
+      "message": "add use mouse matrix transform dep",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/f34574d4e7cba713f644da646991e4eb3d3d8b6c",
+      "date": "2023-06-01",
+      "message": "canvas elements example",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/e700168fd5c999ddce07b46ba91a33f47638052d",
+      "date": "2023-06-01",
+      "message": "pcb viewer initial render, no components showing",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/e266bf4bfb5a52c858309647dc0c869a1977786a",
+      "date": "2023-06-02",
+      "message": "example canvas elements renderer with mouse matrix transform",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/3202ec93b41607c215f105eab938f7d53ce3ca12",
+      "date": "2023-06-02",
+      "message": "add use mouse matrix transform with ref use effect fix",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/cc7bb786e0dc70bec035900b870416e8dd49132d",
+      "date": "2023-06-03",
+      "message": "use typescript instead of esbuild-wasm",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/6fb74699becd4a7065396e6239ab0adf439e31a5",
+      "date": "2023-06-03",
+      "message": "prototype building typescript",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/cdf5e92a0745e1bd7c9172e9f5cff753806efac0",
+      "date": "2023-06-05",
+      "message": "start rendering footprints in led-circuit-2",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/98981f12ec5fdf94282feb3fef2822cc6ccb9467",
+      "date": "2023-06-05",
+      "message": "make sure smtpads are rendered",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/c8a2a3487c88cf2099b7638dc78188c349c5e56a",
+      "date": "2023-06-05",
+      "message": "import type test fix",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/dfa9ea5774a34dcf61d6db98d00144a1d1d29bdd",
+      "date": "2023-06-10",
+      "message": "fix: footprint positioning working",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/ec81c5d6c816bb5829d12bbba2dc187118c26fd2",
+      "date": "2023-06-10",
+      "message": "update lockfile",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/d2e3d0182e635c8b7e39cad188a2664cf935da67",
+      "date": "2023-06-10",
+      "message": "fix link styling",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/7a947233e48ed71ac5fbea18e35cf879fb997142",
+      "date": "2023-06-10",
+      "message": "add roadmap page",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/cfdbd8f0981165a7877f8535f429318cc0e0dcdd",
+      "date": "2023-06-10",
+      "message": "add more markdown",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/426bfaf42ee67d217dcd9f8363b4e6bf1f9b7397",
+      "date": "2023-06-10",
+      "message": "roadmap text",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/fa17bd2d5c75adc020a8ba02da811aa02340df78",
+      "date": "2023-06-10",
+      "message": "ask ai functionality, cache, some stuff working",
+      "repo": "tscircuit/ai-footprint-generator"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/4bf4fb5b5cd05bcc7b5bfb8b56da3246a812b0b1",
+      "date": "2023-06-10",
+      "message": "add example output for generated resistor footprints",
+      "repo": "tscircuit/ai-footprint-generator"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/1f0dce6a2a7a8b43900de7395ace5535fa5132e4",
+      "date": "2023-06-10",
+      "message": "add llm response",
+      "repo": "tscircuit/ai-footprint-generator"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/7775feb9aa58895f4f39995561ffeb820bbecb2e",
+      "date": "2023-06-10",
+      "message": "initial",
+      "repo": "tscircuit/ai-footprint-generator"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/68be31cde2a7a2d6d07bd27ac034ba3d01410d71",
+      "date": "2023-06-10",
+      "message": "ignore dist directory",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c8439b0f327438d63845e94ff2217e632bdc1916",
+      "date": "2023-06-10",
+      "message": "initial",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/46eb7f01e3b9275779c81b2776a20eee4dda198f",
+      "date": "2023-06-11",
+      "message": "checkpoint",
+      "repo": "tscircuit/ai-footprint-generator"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/log-soup/commit/330e437b65ddc17c71df88f3d123b05b4354af73",
+      "date": "2023-06-11",
+      "message": "1.0.1",
+      "repo": "tscircuit/log-soup"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/log-soup/commit/218ae403858de0d0fd359d5a3827c6f1b971ccb5",
+      "date": "2023-06-11",
+      "message": "ready for publish",
+      "repo": "tscircuit/log-soup"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/add017e1beaa12bb2bff91524e1dc9ab89c3411d",
+      "date": "2023-06-12",
+      "message": "test",
+      "repo": "tscircuit/sparkfun-footprints"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/c7ac7fa4bf537f6508dc37de950bf900ee6a49af",
+      "date": "2023-06-12",
+      "message": "Update 4 files",
+      "repo": "tscircuit/sparkfun-footprints"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/c7118e80e690d97491fcdb6c4c010d2a51d72251",
+      "date": "2023-06-12",
+      "message": "initial",
+      "repo": "tscircuit/sparkfun-footprints"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/1d14d0a700a6b93528cc0f242789a29353e32439",
+      "date": "2023-06-19",
+      "message": "checkpoint",
+      "repo": "tscircuit/sparkfun-footprints"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/sparkfun-footprints/commit/1044651127e2c8a63f6cc69b45186fff20bd920d",
+      "date": "2023-06-19",
+      "message": "initial work (#1)",
+      "repo": "tscircuit/sparkfun-footprints"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/3b47363517d6abe5459c308f17ea03f7956dbd59",
+      "date": "2023-06-25",
+      "message": "fix second typo",
+      "repo": "tscircuit/sparkfun-packages"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/785c956513a4f1ed22b3b9053c4d8827b59924cd",
+      "date": "2023-06-25",
+      "message": "fix typo",
+      "repo": "tscircuit/sparkfun-packages"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/d56f21ed401650c607f2a024d295a4f176312542",
+      "date": "2023-06-25",
+      "message": "rename to scoped package",
+      "repo": "tscircuit/sparkfun-packages"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/471714f2133ea4084ac2e93b4dfb8e3c0088ac5c",
+      "date": "2023-06-25",
+      "message": "prettify types",
+      "repo": "tscircuit/sparkfun-packages"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/82d4c5fc0fa48281db13a7da5d8a92b6dd6a27b3",
+      "date": "2023-07-04",
+      "message": "fix: make easier to grab",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/7ccf28b9d4f1e08d6f6a99995e115fe753c072dc",
+      "date": "2023-07-04",
+      "message": "fix: add semantic release",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/669d5e5d9c3f038759d280f855331609716dc2e4",
+      "date": "2023-07-04",
+      "message": "show schematics",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/7820c7be3e3ae5c15bcaee1ba967ff651952f4d0",
+      "date": "2023-07-06",
+      "message": "initial",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b244426ae82cf796ce44dcd6c940e19bf64788f5",
+      "date": "2023-07-08",
+      "message": "fix: upgrade version for semantic release",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/45bfdce6e710b41f7bd960c964d8327ca6eb7de1",
+      "date": "2023-07-08",
+      "message": "fix: more yarn to npm transition",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/bb44f59dae00c229288f5a26762f11c71cdd9060",
+      "date": "2023-07-08",
+      "message": "fix: switch to npm from yarn",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/0b04b5a85a42587147638f581508817b676a0b17",
+      "date": "2023-07-08",
+      "message": "fix: accept any version of peer dependencies (#1)",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/2a01d3614bda109a9b206fe40dc89ca578d03874",
+      "date": "2023-07-08",
+      "message": "remove unused file",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/1d076192666c79e15e2e8ac11581bddefc72ffc8",
+      "date": "2023-07-08",
+      "message": "minor fixes",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/d2a562b1be2f0fa5b372856730509ee6ff50c540",
+      "date": "2023-07-08",
+      "message": "make problem harder, remove logic for ensuring continuguous reasons,\nintroduce bug where you can have a duplicate border point",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/9491f646bfd53d43ab445343cac68e1c003504c6",
+      "date": "2023-07-08",
+      "message": "working border points implementation https://twitter.com/seveibar/status/1677819441818779648?s=20",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/af82e966c238aac19692326342dfa69dead96a65",
+      "date": "2023-07-08",
+      "message": "better story, path optimization",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/3580a6f872d28ae56ff95461c689e5bc33ecfef8",
+      "date": "2023-07-08",
+      "message": "multi-point routing",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/a1ef6b078693c300e1c1507e0e713577f02acc1e",
+      "date": "2023-07-08",
+      "message": "decent two point router",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/19e14387596d05f20d16efeca4865d95cdd537b7",
+      "date": "2023-07-08",
+      "message": "checkpoint rendering w/ storybook",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ef73d5791e764cdf24be1e0ef2ad17d4a4ca6a8b",
+      "date": "2023-07-09",
+      "message": "fix: remove jsx in build",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/7514079e418995315ab85004a25d5d34d58884cd",
+      "date": "2023-07-09",
+      "message": "fix: release config",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c24d941fc5d9259147f66c7b33102d44a4ca31ba",
+      "date": "2023-07-09",
+      "message": "fix: build prior to release",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/8a265acf4d81e94508f6bc192f1d568a9e5fb8b7",
+      "date": "2023-07-09",
+      "message": "add semantic release git",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/0525747552f8e37c568cd6861710b43e53e43249",
+      "date": "2023-07-09",
+      "message": "fix: migrate from yarn, fix examples",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/1a4dc9d0b4f5074dfef16f49bdef1c7de1250f3b",
+      "date": "2023-07-09",
+      "message": "fix: update release.config.js",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2246f5789ec4f59987e72d71a0b0526e003fef14",
+      "date": "2023-07-09",
+      "message": "feat: usage example",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/7e9e139fe74951c7d75425c686afe29e503d619c",
+      "date": "2023-07-09",
+      "message": "fix: bad token",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/32d98ffdd4635b9e37f4f08109f79b0f4c8d3fe5",
+      "date": "2023-07-09",
+      "message": "fix: add readme",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/0150cd660eadeb1c19e450d65f7340b43e44a8df",
+      "date": "2023-07-09",
+      "message": "fix: traces now appear in development",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/bd51dafb60d0bc719e5903a6932888222a19640a",
+      "date": "2023-07-09",
+      "message": "fix test to use npm",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/016e2ef3ab210a437e761c809c6f798236d98d91",
+      "date": "2023-07-09",
+      "message": "fix: remove builder from deps",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/22b6b0e7bded6d089cbfb9258b6de8358f0f5027",
+      "date": "2023-07-09",
+      "message": "fix: switch cache to npm",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/279129e3df552b6ccce6d59f09d0ae5c235eebca",
+      "date": "2023-07-09",
+      "message": "fix: remove yarn lock",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/be7403107b6fc061097988da8efd556e66e1ff47",
+      "date": "2023-07-09",
+      "message": "fix: more generous peer deps",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/4504bc9f18db3479d0c369c7471a6c145a55ef34",
+      "date": "2023-07-09",
+      "message": "increase schematic height",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/7d53a167eb0b5965788ce99c5ac2f2270fe0ccbd",
+      "date": "2023-07-09",
+      "message": "update schematic viewer",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/f08011b9fca29559414caa9b96774d07c958a015",
+      "date": "2023-07-09",
+      "message": "upgrade schematic viewer",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/e5d3805676788510d422d2db8e2366489ab386d1",
+      "date": "2023-07-09",
+      "message": "update nextlove",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/d174a60a9d6268eb3b6405355c7f679c9faa106c",
+      "date": "2023-07-09",
+      "message": "update lockfile",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/a890a95be84eaa1ab11b32d7b3602d3a1f50b7af",
+      "date": "2023-07-09",
+      "message": "fix: upgrade schematic viewer",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/aecfa5dad1206641d62b7fb1fabcefcb32391a84",
+      "date": "2023-07-09",
+      "message": "switch to npm",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/0ea1f8dde4b6b0c25fa3d0f137c5a3a1037df63d",
+      "date": "2023-07-09",
+      "message": "add readme",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/481584b16debac9963e4f7b6ee696e4c8fbd3a3b",
+      "date": "2023-07-09",
+      "message": "fix peer dep issues",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/c4268063279ba93fa0edaf418668ff42a07eb3ca",
+      "date": "2023-07-09",
+      "message": "add link twitter, remove subscribe button",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/525dc3892518e87d7ff82ee985b33fbe9d3d7ecf",
+      "date": "2023-07-09",
+      "message": "fix: add proper entrypoint",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/c2a2065577f4fe1633a0d33b05abc4b1947d1ff2",
+      "date": "2023-07-09",
+      "message": "fix: a bit of usage",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/9794fdbae3ef099266c5800dab92d492e1ae7a38",
+      "date": "2023-07-09",
+      "message": "add semantic release depenedencies",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/5bc6f0ccc3a9d01c7e49f58a81c584c9a7bb06df",
+      "date": "2023-07-09",
+      "message": "fix: add release config",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/824780007bdea07eb69c734d0b365445d146494b",
+      "date": "2023-07-09",
+      "message": "fix: npm token name",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/80fcf00c347b85c87e5917f0da2af49a25743189",
+      "date": "2023-07-09",
+      "message": "fix: add semantic release",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/1a01b37961a4df1c4460a4000c604de06e0563fa",
+      "date": "2023-07-09",
+      "message": "readme",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/a1f1c21e782275d6457446b14278c1afe21b7abc",
+      "date": "2023-07-09",
+      "message": "initial published version",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/2c3c7adbefa231b51f7e7df5ae65f91f44193568",
+      "date": "2023-07-09",
+      "message": "mixed granularity work",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/520c0adca0043c25210505b87aba4d8bdf01d457",
+      "date": "2023-07-09",
+      "message": "artificial smoothing via close margin for near bias",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/rfc/commit/61d84eb24d748468cdd66f7ee461ca40600e2a23",
+      "date": "2023-07-09",
+      "message": "Update 2023-07-08-repo-requirements.md",
+      "repo": "tscircuit/rfc"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/rfc/commit/c8b2a95905b81307ae89f66954fee67eff1d622a",
+      "date": "2023-07-09",
+      "message": "Update 2023-07-08-repo-requirements.md",
+      "repo": "tscircuit/rfc"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/rfc/commit/60857691155a802a360375e711111de066ac6604",
+      "date": "2023-07-09",
+      "message": "Update 2023-07-08-repo-requirements.md",
+      "repo": "tscircuit/rfc"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/rfc/commit/2beda0f09faeeb1c8025ef1d324f8b7c7a7a830b",
+      "date": "2023-07-09",
+      "message": "Update 2023-07-08-repo-requirements.md",
+      "repo": "tscircuit/rfc"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/rfc/commit/2e12c7327dad1205b15268f14abc6e74bef7770c",
+      "date": "2023-07-09",
+      "message": "initial",
+      "repo": "tscircuit/rfc"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/4572c640cf3fb73b6e5f33b5738f8b7858766dc2",
+      "date": "2023-07-10",
+      "message": "fix: fix build",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/9295b432ca8182be2af9073bad4ecb642319ca87",
+      "date": "2023-07-10",
+      "message": "feat: pcb viewer working with routes",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/033d1cac22ef2de7bfcb6496886f22c8b936ee5d",
+      "date": "2023-07-10",
+      "message": "fix: simple resistor is rendering",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2aa779d5809afa8373ae9a060f12d072dd5da395",
+      "date": "2023-07-10",
+      "message": "fix: PCBViewer is smarter, adjusts size and has zooming/panning",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/06d81f5ef4ac52a59ed87b9af613e981a263eb10",
+      "date": "2023-07-10",
+      "message": "introduce storybook (#2)",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/54d3511256922591945a175367204819063a5edb",
+      "date": "2023-07-10",
+      "message": "Merge pull request #2 from tscircuit/dev/add_twitter_link\n\nadd link twitter, remove subscribe button",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/8a4e36a256fabe860055a399efa6898c4c88d886",
+      "date": "2023-07-10",
+      "message": "reset package.lock",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/b435ce7afd8f30efbe90412f7d9e7edcd1909d19",
+      "date": "2023-07-10",
+      "message": "Merge branch 'main' of https://github.com/tscircuit/homepage into dev/add_twitter_link",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/rfc/commit/4382f66baa1a6aa0a674e6fa668765c044c05392",
+      "date": "2023-07-10",
+      "message": "Update 2023-07-08-repo-requirements.md",
+      "repo": "tscircuit/rfc"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/fb55add248b477ac4c8f40be5c62ad626717f359",
+      "date": "2023-07-11",
+      "message": "style(stories): remove HelloWorld.stories.tsx (#6)",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/170889abe7ddc0efe349175539a35a2718bb4c50",
+      "date": "2023-07-11",
+      "message": "Update README.md",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/df7f8e1b17af97406decbdb47382a345e312d0b4",
+      "date": "2023-07-11",
+      "message": "Use Storybook by Default, Add Codesandbox Settings (#5)",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/197d3192f360cc4509f47de0ebeff862332ac748",
+      "date": "2023-07-11",
+      "message": "fix: Introduce Storybook, Deploy (#4)",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/923d398483ad3670b9488223b32b36e53c70433f",
+      "date": "2023-07-11",
+      "message": "fix: Merge pull request #4 from tscircuit/deploy-storybook\n\nDeploy Storybook",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/e19c6b1f5f0cc1640d1c98fd05837ef712aa04ab",
+      "date": "2023-07-11",
+      "message": "update readme, deploy storybook",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/dd227f908d1bcf805afe468a6e7b3731fa437f11",
+      "date": "2023-07-11",
+      "message": "Update README.md",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/e5213161e4a76b6eebb457299b5f280b1f8606c8",
+      "date": "2023-07-11",
+      "message": "Update README.md",
+      "repo": "tscircuit/debug.tscircuit.com-backend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/ff323411edacdfb2be817744f791e42b7a60e52f",
+      "date": "2023-07-11",
+      "message": "Update SubscribeHero.tsx",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/routing/commit/1f5e75ea6155ac7ecc9536a9f82c3784c05ad81e",
+      "date": "2023-07-11",
+      "message": "fix: Merge pull request #2 from tscircuit/deploy-storybook\n\nDeploy Storybook",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/routing/commit/c0da3a2704ba09812c5bd1605caeca11c6c777ab",
+      "date": "2023-07-11",
+      "message": "update readme, deploy storybook",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2a586f63a4a8a24f129fb6fb9d9bbe25260b8252",
+      "date": "2023-07-12",
+      "message": "update CodeSandbox link in README.md",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/9301bbc25923cd7a5fda15e3c8f4acb7901f6784",
+      "date": "2023-07-12",
+      "message": "Update tasks.json",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b81af731cad6c1e1558d7d6b3bc32a587bd9dec8",
+      "date": "2023-07-12",
+      "message": "add tasks.json file for project setup and running tasks",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/8c020190c95fa5df00e6dfeb01ba83875d105a88",
+      "date": "2023-07-12",
+      "message": "update start script to use Storybook and specify port",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/9e89a89f7e3869501985839df602b87ee4bc9dba",
+      "date": "2023-07-12",
+      "message": "add story demonstrating errors don't display",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/routing/commit/b4dfe1ce67982ed3646ea150506e3bb35c243c90",
+      "date": "2023-07-12",
+      "message": "Merge pull request #3 from tscircuit/draft/romantic-stitch\n\n Add CodeSandbox Settings. Add CodeSandbox link to README",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/routing/commit/f55e5059a604d68acd475fcc07203963d9d280c4",
+      "date": "2023-07-12",
+      "message": "update CodeSandbox link in README.md",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/routing/commit/1a8ffe6ae92a50803006a1e95c9e7eaa588fe209",
+      "date": "2023-07-12",
+      "message": "add tasks.json file for project setup and running tasks",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/routing/commit/651841e547be8afa1f0df1ac967bfe8d6792a60c",
+      "date": "2023-07-12",
+      "message": "update start script to use Storybook and specify port",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "nogueirarissa",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/410dd1fcb61bc70183122c42ea96d53064588d2b",
+      "date": "2023-07-14",
+      "message": "display error on the screen",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ff310bb187730a6882a96a0060339f98f6d08376",
+      "date": "2023-07-16",
+      "message": "fix: update readme to reference only schematic viewer",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/31e17681092910d0d548651f2cd01f2e3fe662b3",
+      "date": "2023-07-16",
+      "message": "fix drag for react (#7)",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/23002a39ce85eba54c75cf86eb167699c12f710f",
+      "date": "2023-07-16",
+      "message": "basic rendering working, some issues with mouse transform",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c0787a1ff657fb7632fbe67f31520915c0e82e09",
+      "date": "2023-07-16",
+      "message": "better storybook setup, more minimal",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/cb09d33729a89be877c6aa459d7930a5af4f9699",
+      "date": "2023-07-16",
+      "message": "update next add storybook",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/5c0336bdf77ce4af42f767e2a5486d3f0e2e251d",
+      "date": "2023-07-17",
+      "message": "fix: Merge pull request #6 from tscircuit/codesandbox-settings\n\nAdd CodeSandbox Settings. Add CodeSandbox link to README",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b06a45f27637edc9c78df76e7ed2e2409ed7d73b",
+      "date": "2023-07-17",
+      "message": "Merge pull request #7 from tscircuit/display-error\n\nDisplay error on the screen",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/38e01f1eefef1c6419ef3326fda31faabfa52f70",
+      "date": "2023-07-18",
+      "message": "fix: footprint and schematic working w/ no initial drag issue",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/fbd87d32ca47300b1152150b47b46477ab5766fa",
+      "date": "2023-07-19",
+      "message": "fix: add footprint to pcb components for typecheck",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/dfa225c33968faa70ef0fb3de9e7d8cab548f02c",
+      "date": "2023-07-19",
+      "message": "fix: replace stringhash",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/09037bba7300030602877fe8d5fe169ed87eb6c1",
+      "date": "2023-07-19",
+      "message": "fix: add examples link",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/05448bdbc609036cfad9fb1f9765698577204485",
+      "date": "2023-07-19",
+      "message": "fix: workflows, readme, storybook",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/7feefc518e6f1af0ceeb22bd827c3e7c1b354f1d",
+      "date": "2023-07-20",
+      "message": "fix: old dep",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/5fcd07c62e9dbe5d8081567e7007cfed603d0fa1",
+      "date": "2023-07-20",
+      "message": "fix: handle no children",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/ab03950f00b4e1383d52fd487d22941091a652a3",
+      "date": "2023-07-20",
+      "message": "fix: add description",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/4ae0ed08a03261b3271469c17cb4297c645caad0",
+      "date": "2023-07-20",
+      "message": "fix: add release deps",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/eaff5edf5c776f32c47b95fc0bb5da47cffc2850",
+      "date": "2023-07-20",
+      "message": "Update README.md",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/f18aded424d0c36acc4171f0edf6fb2f28f84c95",
+      "date": "2023-07-20",
+      "message": "fix: add release config",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/2c3ae20506cef9f6bc87004d1fe51a6d35e2a486",
+      "date": "2023-07-20",
+      "message": "add builder",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/34d6a5a4f7a509ca329c9d424f840886f544dbd9",
+      "date": "2023-07-20",
+      "message": "accept any version in peer dep",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/53208593bcb03422c7bc1b5e647901d3c3e4bcb2",
+      "date": "2023-07-20",
+      "message": "initialize storybook",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/725ef80a2c609d8ad98f10d9fcbc5d06d83e5a22",
+      "date": "2023-07-20",
+      "message": "checkpoint, lots of installs",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/093e514175a81bb6d86583fb82b3963fa32e597c",
+      "date": "2023-07-22",
+      "message": "fix: switch jsx build (#8)",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/831fb811dd4cfa58b41239f121673e824a512f57",
+      "date": "2023-07-22",
+      "message": "fix: jsx runtime",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/cb5d0ac19c526675e256714a78f48746d23fc656",
+      "date": "2023-07-22",
+      "message": "fix: add semantic release, build and minify to dist",
+      "repo": "tscircuit/sparkfun-packages"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c4bb16101bcfd7a0df3fba0210bc34efd9b0c147",
+      "date": "2023-07-22",
+      "message": "fix: colors sometimes not being found, fallback color",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/8a7bc91e549ade3362b8325d01330d23573d9890",
+      "date": "2023-07-22",
+      "message": "fix: make sparkfun-packages a peer dep",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/3fc5ea640abfe5d875757e3695181bf511e8b397",
+      "date": "2023-07-22",
+      "message": "fix: dont bundle, add peer deps",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/ca7be8015ab0b60183206910455da7f7755cf9a9",
+      "date": "2023-07-22",
+      "message": "fix: add repository to packagejson",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/9e7f4fb66ccb9b41b9e8c90bd98a3fedbb8c3860",
+      "date": "2023-07-22",
+      "message": "fix: Update README.md",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/bc788870e98bf52b9008f352c273af7264ca72bb",
+      "date": "2023-07-22",
+      "message": "Update tsconfig.json",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/cb9faed3f5401a99cd9a8ff46485f018126ce52c",
+      "date": "2023-07-22",
+      "message": "tweaks, first render working",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/9232730bb6a33fb7738da8928755ef7150b50f67",
+      "date": "2023-07-23",
+      "message": "fix: orientation should be CCW",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/65749cfeedaa9812a76cc769e328f864b9871404",
+      "date": "2023-07-23",
+      "message": "fix: support for three-sided bugs, top side and bottom side bugs",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/72c3ee9ccbab23466c508713922668ab395abc06",
+      "date": "2023-07-23",
+      "message": "checkpoint, 3 sided bug",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/builder/commit/c26fa5ba31e9929ab3b1ec08d457e4626c0d0219",
+      "date": "2023-07-23",
+      "message": "fix: no negative hashes",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/builder/commit/53143d3ac355a43bdf9c9bbb746814e6b8378cc4",
+      "date": "2023-07-23",
+      "message": "fix: handle bad hash and no color",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/1825bc7cad05d18aa5d508321f317679f91ae6c4",
+      "date": "2023-07-23",
+      "message": "fix: simpler build",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/74356e80b01b0de8f92cf2d45642ac7c67c1c6f0",
+      "date": "2023-07-23",
+      "message": "fix: bad import",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/f20fcefd8af8b1e12ab62bbedb4c44a91d3e7125",
+      "date": "2023-07-23",
+      "message": "fix: add nice-color-palettes",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/b5d2cf8bb037e236971eb16d408ae6f6b5064022",
+      "date": "2023-07-23",
+      "message": "fix: add find bounds and center and other debug utilities",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/819d6be93a9aee3bc3f7f15fa731abab0eab70dd",
+      "date": "2023-07-23",
+      "message": "fix: tests and types",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/4a1655d651190a33e814f0b291772cdd6699a4d1",
+      "date": "2023-07-23",
+      "message": "start three sided bug",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/52a33464c852b3fea5bf5fd0dfb2233011423f6b",
+      "date": "2023-07-23",
+      "message": "fix: add @tscircuit/builder to peer dependencies",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/d4a8a60fce87089dd96cb264128fdb1663acc8f3",
+      "date": "2023-07-23",
+      "message": "fix: center schematic automatically",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/4400be06980ca2e8dc91e696899a058930934b53",
+      "date": "2023-07-23",
+      "message": "better storybook, add deeper",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f1e6a8232b9b8159a8b90bb135a38706b1574610",
+      "date": "2023-07-23",
+      "message": "fix: add repo link",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/ad224c2db2d006e3aff776f95d9e720adf33ae98",
+      "date": "2023-07-23",
+      "message": "fix: add soup parameter to pcbviewer and remove unneeded storybook\naddons",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/445b33ad3919c87b25dea5df3141d969dcdf3eef",
+      "date": "2023-07-23",
+      "message": "fix: add repository in package json",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/47abd9b3aed028b8dc34c09109e7736026db62b8",
+      "date": "2023-07-23",
+      "message": "fix: repository url",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/2abf297cd9ead51b74f44e82496fe75ec46663d9",
+      "date": "2023-07-23",
+      "message": "fix: update deps",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/973e216b132a720107debd53a3a5e0019afd21b1",
+      "date": "2023-07-23",
+      "message": "fix: clarify readme",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/b3b4beb90d2b0ad11402534e563e5357f4c7b47b",
+      "date": "2023-07-23",
+      "message": "fix: typo in top_size",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/b9c07f851e0e505c88368d8a714ef517502b2d2a",
+      "date": "2023-07-23",
+      "message": "add copy soup button",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/5cc12440ee556a3480fe6e2a2be9326234afac32",
+      "date": "2023-07-23",
+      "message": "fix: fix incorrect elements rendered when providing soup",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/24808351bb9c2cc0a3934112bd348c3fbd5ff956",
+      "date": "2023-07-23",
+      "message": "checkpoint, invalid bug",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/7263dcbe5fd1293ba180a6a395df810d039b1e69",
+      "date": "2023-07-23",
+      "message": "mostly usable editor",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/ab3e72cfa08b54f2491014deb93756a1ebddd6d9",
+      "date": "2023-07-23",
+      "message": "better icons, no padding in storybook",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/526ac811d540aba3236a2dd3f97e7062bf599a01",
+      "date": "2023-07-23",
+      "message": "start arduino nano",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/e772ae2035701404f98a95e729ce9a4b7989a9e6",
+      "date": "2023-07-23",
+      "message": "introduce workflows",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/17fd19bf04d0f690843cb4cee527cbf9ea037916",
+      "date": "2023-07-23",
+      "message": "get pcbviewer working",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/83f8442d92273f4f06c3a12e1ca40e16fa46abc8",
+      "date": "2023-07-23",
+      "message": "checkpoint sidebar selection",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/0b6d85b00a3f1f5e5f14de5955dc1e4c58e6ed93",
+      "date": "2023-07-23",
+      "message": "checkpoint moving towards sidebar",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/e4e4b71969634c035263081e615a09feacfafaf2",
+      "date": "2023-07-23",
+      "message": "switch to webpack, add yalc commit protection",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/3a76bfc3f36a2d6bf3852ad30492347a0fa7bff8",
+      "date": "2023-07-24",
+      "message": "fix: move get port position to utils and export",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/e50a095348095af79f52c98c84e4faa8a09d1762",
+      "date": "2023-07-24",
+      "message": "fix: center bug properly about center",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/1c8c8115fd6b4c8016c68f5edd30e582fe3bd59e",
+      "date": "2023-07-24",
+      "message": "fix: three sided bug renders properly",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c40342b07296b37b6117bfa05f963544053fe3b9",
+      "date": "2023-07-24",
+      "message": "demonstrate three bug issue",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/52abf9cb4f271965761d7d833ae9c260b8f571e2",
+      "date": "2023-07-24",
+      "message": "fix: schematic viewer bug offset",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/3d3383b120e9a1874c9565eecb34f3bf40320e3b",
+      "date": "2023-07-25",
+      "message": "fix: better bug builder schematic output for undefined top/bottom sizes",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/3faa6b5de7469b113b5fc69c106f74151cbcaa4e",
+      "date": "2023-07-25",
+      "message": "fix: improve bug rendering",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/03bf7430c2ef9c70bb3f39f7410c1db353a559e1",
+      "date": "2023-07-31",
+      "message": "fix: pass source components into debug layout (fixes not seeing source\nports)",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug-viewer/commit/db1d2212744c67e66f1626c50d8756fe4fc147fa",
+      "date": "2023-07-31",
+      "message": "fix: add support for viewing source ports if present",
+      "repo": "tscircuit/debug-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/90d8cced928cb335a35d1066fc341ffc3f0d97b6",
+      "date": "2023-07-31",
+      "message": "fix: defaultView for editor, work towards connecting trace",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/50b7dcbb5acd551abbd2e4a947bc0622156d017f",
+      "date": "2023-08-01",
+      "message": "connect LM117 to vout",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/0a1b82a910aab0036aaf8e397a16dda85126d33f",
+      "date": "2023-08-02",
+      "message": "some commented todo features",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/e8e58d4ce79c650e96d0714edecdcb07f6b3ad63",
+      "date": "2023-08-12",
+      "message": "fix: proper id names for custom components",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/5843ac04f45af9d64d97868ff7d7e78af58cf7c8",
+      "date": "2023-08-12",
+      "message": "schematic symbol builder add, net alias builder progress",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/c3133038ada04b75a49be08834fe0fe9edc33300",
+      "date": "2023-08-12",
+      "message": "define new component system working",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/355ae1acbe1a401d423148572af72614c4775845",
+      "date": "2023-08-12",
+      "message": "rename \"add\" to \"addPort\"",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/5ded7ca90dfa35178d692db6a714479e4a53ec39",
+      "date": "2023-08-12",
+      "message": "update led circuit snapshot",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/2545f87aadec5ebe1d8b1eba39aaa43a98e99823",
+      "date": "2023-08-12",
+      "message": "introduce smoke tests and simpler component definition",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b5d6222e4dae16ca32509b32db2be299d12089b7",
+      "date": "2023-08-12",
+      "message": "unnecessary code for box fix",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c0904d159e18937cd020cba5dabf42b56d031e33",
+      "date": "2023-08-12",
+      "message": "support for drawing schematic_box",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/19d1a88aca57fa9ecdb25b25774a5ec8c6e0f4c1",
+      "date": "2023-08-12",
+      "message": "render line box",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/b60832a5242afc154b01bae2d216de4eebd36b1b",
+      "date": "2023-08-13",
+      "message": "fix: fixes for schematic text builder",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/7bfb0cf5b07fd6c2041f8195f623ca92714d839f",
+      "date": "2023-08-13",
+      "message": "fix schematic text type",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/2643f103fc48701fb4b34140d531889d80355fc2",
+      "date": "2023-08-13",
+      "message": "fix: support for defining components more easily",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f0a050dcce1393cc07aedf97ac3ae5f9b5b7660e",
+      "date": "2023-08-13",
+      "message": "incorporate super grid",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/5978dd85fd8cc453e6cbe30e594ea9b826e21541",
+      "date": "2023-08-13",
+      "message": "fix: net alias drawing",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/f72cf16f1939d707937fdf69dc80d866075f1993",
+      "date": "2023-08-13",
+      "message": "export some useful utilities",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/2c2767d255bc0e91fc21df2d678778f841b8ca5f",
+      "date": "2023-08-13",
+      "message": "dont bundle react",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/23f18dd619f2b4216aefd16f933bf349629717ff",
+      "date": "2023-08-13",
+      "message": "1.0.1",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/b2befa72fdb1a092c311dbcd848b70ce7d15a971",
+      "date": "2023-08-13",
+      "message": "add repository",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/602e607ff7e1ae1f3650036a21a4a325d8ee9f90",
+      "date": "2023-08-13",
+      "message": "rename to react-supergrid",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/8e7033b85356c2591816d9ee294fdb9f4ac8b344",
+      "date": "2023-08-13",
+      "message": "initial build",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/76468b34bbbf632f9d98907789de4c9b257dcdd7",
+      "date": "2023-08-13",
+      "message": "better grid inference numbers",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/9e43785842936e477d0af099434fcd088899d69d",
+      "date": "2023-08-13",
+      "message": "allow mouse label",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/45cc03601b9d903eab8e5465f0f0dfdf76ddc64b",
+      "date": "2023-08-13",
+      "message": "minor style adjustments",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/a186a9a50af4f81f5bb304461c5ba181f867ce2b",
+      "date": "2023-08-13",
+      "message": "semi-major lines",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/472be2258a9a6de46a5bdfce1de6e01dfc71d891",
+      "date": "2023-08-13",
+      "message": "initial",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/47423ada3235d49892eb605785d2baf1c925bb71",
+      "date": "2023-08-14",
+      "message": "fix: type issue",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/983b335c9bc52cf01647fc032e757175c880be86",
+      "date": "2023-08-14",
+      "message": "fix: add lodash bundled",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b32c38c7b4727d9058f7935205787c46d19470c7",
+      "date": "2023-08-14",
+      "message": "fix: mm display fix",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/157ac4830cc8e2636db5b33998e90a7eaab9b5de",
+      "date": "2023-08-14",
+      "message": "fix: smaller screen size grid spacing",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2348962eb158dfb37aca1568d7b9ae71308e72f5",
+      "date": "2023-08-14",
+      "message": "fix: remove border",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b2f975d8dd6ea5443dff0138c88758b4920b315e",
+      "date": "2023-08-14",
+      "message": "fix: add supergrid instead of manual grid",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/faa70a55d347934974e87ae8a801e83ed8acccab",
+      "date": "2023-08-14",
+      "message": "fix: add net alias support",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/e2b7ecebe964ccf58fa5364650ffbb768b5e1fc2",
+      "date": "2023-08-14",
+      "message": "upgrade pcb viewer to stop constantly expanding",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/c7b580994ee968382534e0628b1d1d6dd1275589",
+      "date": "2023-08-14",
+      "message": "fix: upgrade everything in dev mode",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/6c6ba58c7a89f40e07ac26ad68b817859eb9a849",
+      "date": "2023-08-14",
+      "message": "render mouse target text same as major text",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/7c78d3d1c4d9586e36d449c7f3d08284f093dc85",
+      "date": "2023-08-14",
+      "message": "add textColor and double click to set mouse target",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/cae1e4b81ee4b860831e3ad3c512ce452af362e6",
+      "date": "2023-08-14",
+      "message": "fix error w/ negative values, fix text not display on black bg",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/9defcc812d58f25f13bf12c3a805026bc65e33ec",
+      "date": "2023-08-14",
+      "message": "Update README.md",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/7694334a925e1cedb1706067d6488dbc3484fa5f",
+      "date": "2023-08-15",
+      "message": "fix: add support for children",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/7633b4c63b14ea6a89f2f69d116bd56e6effca9f",
+      "date": "2023-08-15",
+      "message": "closer to fixing net alias trace issue",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/0634028a367851da3d6bc5c7969bedbd5b3fb2f7",
+      "date": "2023-08-15",
+      "message": "custom footprint initial work",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/631e45dd267f4aaaef63be8c0ef2be6d88544ae1",
+      "date": "2023-09-04",
+      "message": "allow setting name via setSourceProperties for generic component",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/f7afe0a3e9b03fa56b4085154ab16ea82b77a230",
+      "date": "2023-09-04",
+      "message": "finish new diode builder candidate",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/ed5c84bef009d12d8e1781c50446e9c96cd843ca",
+      "date": "2023-09-04",
+      "message": "some comments around scaling",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/3ec4104cd2e9ae1f03d38724feb8f0238fec467c",
+      "date": "2023-09-04",
+      "message": "fix: net alias size",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/383f2f443ec8cf47a3e3080b176bb8ac9f918f27",
+      "date": "2023-09-04",
+      "message": "fix: netalias appearance",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/87ff141a8cc5325055067359075e332f0fe3670c",
+      "date": "2023-09-05",
+      "message": "fix: minor fix for one point of diode",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/985f9c59953400d92182eccc203eddc6b3496d64",
+      "date": "2023-09-05",
+      "message": "fix diode layout",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/79afdbcb4f2e5b33812d3eac0f09756067ebea8c",
+      "date": "2023-09-05",
+      "message": "adopt zod defaults, fix source ports not having parent",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/97c1729948ae8ad2f480eedea0c9ee71f7a6f6be",
+      "date": "2023-09-05",
+      "message": "add name as allowed property to builders",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/2a3d275793cc04046eb684469171bdf2f71eed10",
+      "date": "2023-09-05",
+      "message": "fix: start fixing from/to trace syntax in story",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/157f57a94bdd738b4b2dce2f4f1589c31ea24798",
+      "date": "2023-09-05",
+      "message": "upgrade builder version",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/9c1f381720c7197652a043e8994c75a6ad3aacf4",
+      "date": "2023-09-05",
+      "message": "fix diode rendering",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/6ee7c0569d95c34cbf0a1f553a4a4b1e7781e22b",
+      "date": "2023-09-09",
+      "message": "fix: add support for source_errors",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/6862ea2a8341ea4e750b2ac4b8718f73d2100ada",
+      "date": "2023-09-09",
+      "message": "upgrade table viewer",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/5ac1c1aaf29e003cd9b72c16eb7d14846f1fab99",
+      "date": "2023-09-09",
+      "message": "better debugging",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/03cf1cf680d780169baab2e6d3fa446ef246393c",
+      "date": "2023-09-09",
+      "message": "net alias test example",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/6b5e1e2c76a4e8692db576795d2c595c362af47a",
+      "date": "2023-09-09",
+      "message": "inc version",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/922e663731142ffac6e46e91f8c46d4d9881fe7f",
+      "date": "2023-09-09",
+      "message": "incremenet version",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/7c594e4721493536d588d5f65514c2786a981ead",
+      "date": "2023-09-09",
+      "message": "add focus logic for other ids",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/7d47ee99456ea9e261e82c83496c3ac2f7720f65",
+      "date": "2023-09-09",
+      "message": "json view support",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/10dca1d271b3244c313334278753d78e9507204f",
+      "date": "2023-09-09",
+      "message": "push modal",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/79d0ae82673abde9dcd7741c178daed882c0ba39",
+      "date": "2023-09-09",
+      "message": "fix react inclusion",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/d2e556fde613cbf2fa7d627bd862b8b6df9ecb96",
+      "date": "2023-09-09",
+      "message": "publish with readme",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/37bdf8db1d3128b2dbcbc1b182144a99fca1cf45",
+      "date": "2023-09-09",
+      "message": "add readme",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/55ecbc12871c3257df7cdeba3f2751ae402814b1",
+      "date": "2023-09-09",
+      "message": "add repository",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/329b8cb5255945056f8f9b08ae0cb0fdf4527d10",
+      "date": "2023-09-09",
+      "message": "fix selector path parent finding glitch",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/b347ec5b5eecb42753d984e3590f390a2c6fac76",
+      "date": "2023-09-09",
+      "message": "searching and filtering",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/table-viewer/commit/ad52b50d7f292ff12bfe610ddd9ccc32aaaff7f6",
+      "date": "2023-09-09",
+      "message": "initial",
+      "repo": "tscircuit/table-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/c657e19f03257dc2a5981b78e30e2a11e1a09387",
+      "date": "2023-09-10",
+      "message": "fix: add support for cx/cy and sch_x/sch_y",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/fdc1f0fb33cbc0be6efd4e3233d94460446c805d",
+      "date": "2023-09-10",
+      "message": "fix: fix bugbuilder schematic props going to source",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/83c3bd4ce3c062707ad882da29deab1e208bab18",
+      "date": "2023-09-10",
+      "message": "fix: more edge cases addressed, some legacy compat added",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/361f086ca98b0ebd60de053bbdbf056ee3de737b",
+      "date": "2023-09-10",
+      "message": "fix: use existing super to get default original\nsettable_source_properties",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/884c42fa7c9f3b0489ffcc2b924182878887b84a",
+      "date": "2023-09-10",
+      "message": "fix: introduce setProps to improve react integration",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/3351e233ec2df1d2cd96517cd26217a926ede4f2",
+      "date": "2023-09-10",
+      "message": "fix: tscircuit react fiber build",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c240f0273b0f777cb8914cceda2d088cc8798e64",
+      "date": "2023-09-10",
+      "message": "fix: upgrade builder",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/ae84555d4aa032efb8ccd9efc9f15fb9779ba960",
+      "date": "2023-09-10",
+      "message": "upgrade tscircuit builder",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/react-fiber/commit/5f5a94a99340b702d2fc1eeb6fe8e6a6203d1255",
+      "date": "2023-09-10",
+      "message": "netalias test working with updated builder",
+      "repo": "tscircuit/react-fiber"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/d7d6e68e266ce50034991928f9cea521f2337376",
+      "date": "2023-09-10",
+      "message": "more progress on arduino nano regulator",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/ea2225341f0abe88754c54e95966a497f58e8641",
+      "date": "2023-09-11",
+      "message": "fix: add setProps partial method signature",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/23094eb3f08fe24454f4c71741e893df2a6f29ed",
+      "date": "2023-09-11",
+      "message": "feat: schematic-style routing",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/46296fb9c4d8d5f873550d4b6461b96f1197a639",
+      "date": "2023-09-11",
+      "message": "introduce isIntersectingObject, progress towards schematic routing",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/4917c7303d0b5c93dfd971f834a784de1b3b1f33",
+      "date": "2023-09-11",
+      "message": "record findRoute example to avoid implementation drift",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/f2f6d81ac12b84753fac133880307a020a81fcc7",
+      "date": "2023-09-14",
+      "message": "progress towards better solver",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/5c9345a63d7302f2fc0c938704985064c1793a96",
+      "date": "2023-09-14",
+      "message": "feat: findSchematicRoute",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/fc2ecd9a7f62b38fc1361811c86817351356e6e5",
+      "date": "2023-09-17",
+      "message": "add (failing) intersection test",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/ec258271a31d826328ee3fe936c569f89ea271ce",
+      "date": "2023-09-17",
+      "message": "disable snapshot tests",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/4b32d2c0a6cf7af0edba69d98fd0c0f30f73d26a",
+      "date": "2023-09-17",
+      "message": "feat: new path-finding route solver",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/a53f6bc2c44b9996eb2026c915af7fb7898647e4",
+      "date": "2023-09-17",
+      "message": "Update README.md",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/8a98b85ae56da3a38af5199a2aeb498e0253ec75",
+      "date": "2023-09-17",
+      "message": "update deps, fix schematic viewer rendering",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/30b3c0f1460f6e99b76a640cdfd8454ce0c537b6",
+      "date": "2023-09-17",
+      "message": "Merge pull request #4 from tscircuit/renovate/tscircuit-schematic-viewer-1.x-lockfile",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/a4897c64ac424d52887435c0041de9cfdca75675",
+      "date": "2023-09-17",
+      "message": "fix(deps): update dependency @tscircuit/schematic-viewer to v1.0.17",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/3e33c96c277aae632a5c67341486be9de9320e67",
+      "date": "2023-09-17",
+      "message": "Merge pull request #2 from tscircuit/renovate/configure",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/3bbe1c4bfddf6d1506f2f8bd2757e7c1f2626572",
+      "date": "2023-09-17",
+      "message": "Update renovate.json",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/f7dda2ff513b38f9d56d2d66b422b1e80be8951d",
+      "date": "2023-09-17",
+      "message": "Add renovate.json",
+      "repo": "tscircuit/debug.tscircuit.com-frontend"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/c97dbab9342b5457d2639f5fb9aa36eaf8da4133",
+      "date": "2023-09-19",
+      "message": "fix path/line scaling",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/7fdde181ab2f69eb4335ab71c1d5a3f495e41c4a",
+      "date": "2023-09-19",
+      "message": "fix grid bounds rendering",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/bbcba6f18334489dc69f5368443f793779aa2573",
+      "date": "2023-09-19",
+      "message": "allow setting viewbox",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/28903bd2c7d73a7e7c8a1ccec9b5e345ece10801",
+      "date": "2023-09-19",
+      "message": "remove console log line",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/ed318781f72c6d0671cae27d0f3cc6891779835a",
+      "date": "2023-09-19",
+      "message": "debugging tool",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/43b35f1e3d26a7a8f7e25648af6b9193e604c688",
+      "date": "2023-09-20",
+      "message": "fix: calculation of obstacles",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/384558f1a44614052ba7fc38011029aba237c1fb",
+      "date": "2023-09-20",
+      "message": "revert to better demonstration story",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/e9fec29464314c52a6ed69ab453dd4b972d7d95e",
+      "date": "2023-09-20",
+      "message": "fix: remove log line",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/routing/commit/07e42fe7a51e77ce4a6a43e123f07dc8b0a6762b",
+      "date": "2023-09-23",
+      "message": "feat: new function movePointsOutsideObstacles",
+      "repo": "tscircuit/routing"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/8e3f10671ea0d1d8df828dd4ad7142b7feff8f27",
+      "date": "2023-09-24",
+      "message": "test",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/fd43c8793c096fbc606d846bb72e555794f2b40c",
+      "date": "2023-09-24",
+      "message": "fix: minor offset adjustment",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/d9ffea7ad4b17909a5782f0792e0c8df8536ff7e",
+      "date": "2023-09-24",
+      "message": "fix: adjust schematic port text so it's slightly offset",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/30d1fe87df12ad6e8bedea4df0d110618ac22e5a",
+      "date": "2023-09-24",
+      "message": "feat: support for pin numbers",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/0305b78c870c9edb6afe5c8da828c484dbd6b916",
+      "date": "2023-09-24",
+      "message": "fix: correctly compute component size for schematic elements",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/6d9529562cb1d12786b6d6c969b4ba7dd0b859ae",
+      "date": "2023-09-24",
+      "message": "fix: no routing through schematic ports",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/f4cf2fa4dbaa03fe589157e4f74ecfb93f1f3468",
+      "date": "2023-09-24",
+      "message": "start no traces through pins",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/5dc71a0be461bafd217bb826159aace59c1d2223",
+      "date": "2023-09-24",
+      "message": "fix: handle minor collisions with obstacles",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/fc9ee8fe875ad59809f70353b1a5d110e13268bb",
+      "date": "2023-09-24",
+      "message": "fix: no double-rendering schematic diode",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/tscircuit/commit/3fe7611e572e30ae4b16580a00b6af9fa6949d83",
+      "date": "2023-09-24",
+      "message": "fix: updates and flip gnd on 5v reg",
+      "repo": "tscircuit/tscircuit"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/a4d61fdb473fa20db3e7a7d642161ac92e8d9d76",
+      "date": "2023-09-25",
+      "message": "fix: custom port arrangements working",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/189ba8206dd394320f37f907f7bd1c851183a89b",
+      "date": "2023-10-29",
+      "message": "feat: add top labels to bugs",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/5505c277c8f6c65bac249696bfa2b52ddfc5a73f",
+      "date": "2023-10-29",
+      "message": "add bottom labels",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/builder/commit/f4b1e5048eabe3d2f5d5758b20d35c3f4156be38",
+      "date": "2023-10-29",
+      "message": "fix prettier",
+      "repo": "tscircuit/builder"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f7f0a47e31b66cf0d28de0ddd7272ecf858adc17",
+      "date": "2023-10-29",
+      "message": "fix: scrolling when screen isn't centered now works",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/d682acbee0b24416504ab6d8397fd52c44c05389",
+      "date": "2023-10-29",
+      "message": "off center render reproduction",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/158f3f9897c03ad2cf967ba119e6916b924269df",
+      "date": "2023-10-29",
+      "message": "feat: add showTable fixes https://github.com/tscircuit/schematic-viewer/issues/13",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/3869e028069ced49eec2f338845a8f3ff3842acc",
+      "date": "2023-10-29",
+      "message": "easier to understand playground",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/ad71fbfed8bf97d6d211ec7c81db778a077f376b",
+      "date": "2023-10-29",
+      "message": "improve responsiveness",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/cb34dd33a8ed23960aed049a8159c3c2a46e0809",
+      "date": "2023-10-30",
+      "message": "transform working",
+      "repo": "tscircuit/homepage"
+    },
     {
       "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/homepage/commit/e7f54a4fbe70637f9e0da8fbcb1e6a22854269d0",
@@ -202,5 +3083,119 @@
       "message": "Initial commit",
       "repo": "tscircuit/compiler"
     }
-  ]
+  ],
+  "version_released_on_date": {
+    "2023-07-09": {
+      "tscircuit/pcb-viewer": "1.1.0",
+      "tscircuit/react-fiber": "1.0.2",
+      "tscircuit/routing": "1.0.2",
+      "tscircuit/schematic-viewer": "1.0.3"
+    },
+    "2023-07-10": {
+      "tscircuit/pcb-viewer": "1.2.0"
+    },
+    "2023-07-11": {
+      "tscircuit/pcb-viewer": "1.2.1",
+      "tscircuit/routing": "1.0.3",
+      "tscircuit/schematic-viewer": "1.0.4"
+    },
+    "2023-07-16": {
+      "tscircuit/schematic-viewer": "1.0.5"
+    },
+    "2023-07-17": {
+      "tscircuit/pcb-viewer": "1.2.2"
+    },
+    "2023-07-19": {
+      "tscircuit/react-fiber": "1.0.3"
+    },
+    "2023-07-20": {
+      "tscircuit/debug-viewer": "1.0.2"
+    },
+    "2023-07-22": {
+      "tscircuit/debug-viewer": "1.0.7",
+      "tscircuit/pcb-viewer": "1.2.3",
+      "tscircuit/schematic-viewer": "1.0.6"
+    },
+    "2023-07-23": {
+      "tscircuit/builder": "1.2.9",
+      "tscircuit/debug-viewer": "1.0.8",
+      "tscircuit/pcb-viewer": "1.2.5",
+      "tscircuit/react-fiber": "1.0.4",
+      "tscircuit/schematic-viewer": "1.0.9"
+    },
+    "2023-07-24": {
+      "tscircuit/builder": "1.2.11",
+      "tscircuit/schematic-viewer": "1.0.11"
+    },
+    "2023-07-25": {
+      "tscircuit/builder": "1.2.12",
+      "tscircuit/schematic-viewer": "1.0.12"
+    },
+    "2023-07-31": {
+      "tscircuit/debug-viewer": "1.0.9"
+    },
+    "2023-08-12": {
+      "tscircuit/builder": "1.2.13"
+    },
+    "2023-08-13": {
+      "tscircuit/builder": "1.2.14",
+      "tscircuit/schematic-viewer": "1.0.13"
+    },
+    "2023-08-14": {
+      "tscircuit/builder": "1.2.15",
+      "tscircuit/pcb-viewer": "1.2.8",
+      "tscircuit/react-fiber": "1.0.5",
+      "tscircuit/schematic-viewer": "1.0.14"
+    },
+    "2023-08-15": {
+      "tscircuit/react-fiber": "1.0.6"
+    },
+    "2023-09-04": {
+      "tscircuit/builder": "1.2.16"
+    },
+    "2023-09-05": {
+      "tscircuit/builder": "1.2.17",
+      "tscircuit/schematic-viewer": "1.0.16"
+    },
+    "2023-09-09": {
+      "tscircuit/builder": "1.2.18"
+    },
+    "2023-09-10": {
+      "tscircuit/builder": "1.2.22",
+      "tscircuit/schematic-viewer": "1.0.17"
+    },
+    "2023-09-11": {
+      "tscircuit/builder": "1.2.23",
+      "tscircuit/routing": "1.1.0"
+    },
+    "2023-09-14": {
+      "tscircuit/routing": "1.2.0"
+    },
+    "2023-09-17": {
+      "tscircuit/builder": "1.3.0"
+    },
+    "2023-09-20": {
+      "tscircuit/builder": "1.3.1",
+      "tscircuit/routing": "1.2.1"
+    },
+    "2023-09-23": {
+      "tscircuit/routing": "1.3.0"
+    },
+    "2023-09-24": {
+      "tscircuit/builder": "1.4.2",
+      "tscircuit/schematic-viewer": "1.0.18"
+    },
+    "2023-09-25": {
+      "tscircuit/builder": "1.4.3"
+    },
+    "2023-10-29": {
+      "tscircuit/builder": "1.5.0",
+      "tscircuit/schematic-viewer": "1.1.1"
+    },
+    "2023-11-05": {
+      "tscircuit/builder": "1.5.4",
+      "tscircuit/pcb-viewer": "1.2.9",
+      "tscircuit/schematic-viewer": "1.1.4"
+    }
+  }
 }

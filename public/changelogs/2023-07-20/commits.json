@@ -1,0 +1,93 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/4e1827c627463477776e5abfcc46902beaa8c709",
+    "date": "2023-07-20",
+    "message": "chore(release): 1.0.2 [skip ci]\n\n## [1.0.2](https://github.com/tscircuit/debug-viewer/compare/v1.0.1...v1.0.2) (2023-07-20)\n\n### Bug Fixes\n\n* handle no children ([5fcd07c](https://github.com/tscircuit/debug-viewer/commit/5fcd07c62e9dbe5d8081567e7007cfed603d0fa1))\n* old dep ([7feefc5](https://github.com/tscircuit/debug-viewer/commit/7feefc518e6f1af0ceeb22bd827c3e7c1b354f1d))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/7feefc518e6f1af0ceeb22bd827c3e7c1b354f1d",
+    "date": "2023-07-20",
+    "message": "fix: old dep",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/5fcd07c62e9dbe5d8081567e7007cfed603d0fa1",
+    "date": "2023-07-20",
+    "message": "fix: handle no children",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/bd5a8440c604e7d9fcf4446e00bcd0d1ead5d0a1",
+    "date": "2023-07-20",
+    "message": "chore(release): 1.0.1 [skip ci]\n\n## [1.0.1](https://github.com/tscircuit/debug-viewer/compare/v1.0.0...v1.0.1) (2023-07-20)\n\n### Bug Fixes\n\n* add description ([ab03950](https://github.com/tscircuit/debug-viewer/commit/ab03950f00b4e1383d52fd487d22941091a652a3))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/ab03950f00b4e1383d52fd487d22941091a652a3",
+    "date": "2023-07-20",
+    "message": "fix: add description",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/4ae0ed08a03261b3271469c17cb4297c645caad0",
+    "date": "2023-07-20",
+    "message": "fix: add release deps",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/eaff5edf5c776f32c47b95fc0bb5da47cffc2850",
+    "date": "2023-07-20",
+    "message": "Update README.md",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/f18aded424d0c36acc4171f0edf6fb2f28f84c95",
+    "date": "2023-07-20",
+    "message": "fix: add release config",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/1a67946219343c358c26d9c658d7a0f08ad259b7",
+    "date": "2023-07-20",
+    "message": "wip",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/2c3ae20506cef9f6bc87004d1fe51a6d35e2a486",
+    "date": "2023-07-20",
+    "message": "add builder",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/34d6a5a4f7a509ca329c9d424f840886f544dbd9",
+    "date": "2023-07-20",
+    "message": "accept any version in peer dep",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/53208593bcb03422c7bc1b5e647901d3c3e4bcb2",
+    "date": "2023-07-20",
+    "message": "initialize storybook",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/725ef80a2c609d8ad98f10d9fcbc5d06d83e5a22",
+    "date": "2023-07-20",
+    "message": "checkpoint, lots of installs",
+    "repo": "tscircuit/tscircuit"
+  }
+]

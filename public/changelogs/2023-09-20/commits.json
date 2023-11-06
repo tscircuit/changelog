@@ -1,0 +1,37 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/c469c3d63072bf482f54d884f63a99fc4be7c5e9",
+    "date": "2023-09-20",
+    "message": "chore(release): 1.3.1 [skip ci]\n\n## [1.3.1](https://github.com/tscircuit/builder/compare/v1.3.0...v1.3.1) (2023-09-20)\n\n### Bug Fixes\n\n* calculation of obstacles ([43b35f1](https://github.com/tscircuit/builder/commit/43b35f1e3d26a7a8f7e25648af6b9193e604c688))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/43b35f1e3d26a7a8f7e25648af6b9193e604c688",
+    "date": "2023-09-20",
+    "message": "fix: calculation of obstacles",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/384558f1a44614052ba7fc38011029aba237c1fb",
+    "date": "2023-09-20",
+    "message": "revert to better demonstration story",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/routing/commit/bc8707c5a28a5ac69a71fc3b5e2afdff88d1a5fd",
+    "date": "2023-09-20",
+    "message": "chore(release): 1.2.1 [skip ci]\n\n## [1.2.1](https://github.com/tscircuit/routing/compare/v1.2.0...v1.2.1) (2023-09-20)\n\n### Bug Fixes\n\n* remove log line ([e9fec29](https://github.com/tscircuit/routing/commit/e9fec29464314c52a6ed69ab453dd4b972d7d95e))",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/e9fec29464314c52a6ed69ab453dd4b972d7d95e",
+    "date": "2023-09-20",
+    "message": "fix: remove log line",
+    "repo": "tscircuit/routing"
+  }
+]

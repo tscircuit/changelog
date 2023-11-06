@@ -1,0 +1,317 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/10fc8029b5730a5d8d356bb47e4e190f9217fd2c",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.10 [skip ci]\n\n## [1.2.10](https://github.com/tscircuit/builder/compare/v1.2.9...v1.2.10) (2023-07-23)\n\n### Bug Fixes\n\n* orientation should be CCW ([9232730](https://github.com/tscircuit/builder/commit/9232730bb6a33fb7738da8928755ef7150b50f67))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/9232730bb6a33fb7738da8928755ef7150b50f67",
+    "date": "2023-07-23",
+    "message": "fix: orientation should be CCW",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/3574c689064703040406e8569bf5be97062a9999",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.9 [skip ci]\n\n## [1.2.9](https://github.com/tscircuit/builder/compare/v1.2.8...v1.2.9) (2023-07-23)\n\n### Bug Fixes\n\n* support for three-sided bugs, top side and bottom side bugs ([65749cf](https://github.com/tscircuit/builder/commit/65749cfeedaa9812a76cc769e328f864b9871404))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/65749cfeedaa9812a76cc769e328f864b9871404",
+    "date": "2023-07-23",
+    "message": "fix: support for three-sided bugs, top side and bottom side bugs",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/72c3ee9ccbab23466c508713922668ab395abc06",
+    "date": "2023-07-23",
+    "message": "checkpoint, 3 sided bug",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/bb39cec7545993b1efa7e2aa1b64c0b7357820bb",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.8 [skip ci]\n\n## [1.2.8](https://github.com/tscircuit/builder/compare/v1.2.7...v1.2.8) (2023-07-23)\n\n### Bug Fixes\n\n* no negative hashes ([c26fa5b](https://github.com/tscircuit/builder/commit/c26fa5ba31e9929ab3b1ec08d457e4626c0d0219))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/builder/commit/c26fa5ba31e9929ab3b1ec08d457e4626c0d0219",
+    "date": "2023-07-23",
+    "message": "fix: no negative hashes",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/6eb61013609373feec84bd832354d8b132055305",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.7 [skip ci]\n\n## [1.2.7](https://github.com/tscircuit/builder/compare/v1.2.6...v1.2.7) (2023-07-23)\n\n### Bug Fixes\n\n* handle bad hash and no color ([53143d3](https://github.com/tscircuit/builder/commit/53143d3ac355a43bdf9c9bbb746814e6b8378cc4))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/builder/commit/53143d3ac355a43bdf9c9bbb746814e6b8378cc4",
+    "date": "2023-07-23",
+    "message": "fix: handle bad hash and no color",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/f551f4bf7a64b5e4008118df7475c317e1514395",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.6 [skip ci]\n\n## [1.2.6](https://github.com/tscircuit/builder/compare/v1.2.5...v1.2.6) (2023-07-23)\n\n### Bug Fixes\n\n* simpler build ([1825bc7](https://github.com/tscircuit/builder/commit/1825bc7cad05d18aa5d508321f317679f91ae6c4))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/1825bc7cad05d18aa5d508321f317679f91ae6c4",
+    "date": "2023-07-23",
+    "message": "fix: simpler build",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/8ea02318502751af1a91ab41e76e5a56291c92c3",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.5 [skip ci]\n\n## [1.2.5](https://github.com/tscircuit/builder/compare/v1.2.4...v1.2.5) (2023-07-23)\n\n### Bug Fixes\n\n* add find bounds and center and other debug utilities ([b5d2cf8](https://github.com/tscircuit/builder/commit/b5d2cf8bb037e236971eb16d408ae6f6b5064022))\n* add nice-color-palettes ([f20fcef](https://github.com/tscircuit/builder/commit/f20fcefd8af8b1e12ab62bbedb4c44a91d3e7125))\n* bad import ([74356e8](https://github.com/tscircuit/builder/commit/74356e80b01b0de8f92cf2d45642ac7c67c1c6f0))\n* tests and types ([819d6be](https://github.com/tscircuit/builder/commit/819d6be93a9aee3bc3f7f15fa731abab0eab70dd))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/74356e80b01b0de8f92cf2d45642ac7c67c1c6f0",
+    "date": "2023-07-23",
+    "message": "fix: bad import",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/f20fcefd8af8b1e12ab62bbedb4c44a91d3e7125",
+    "date": "2023-07-23",
+    "message": "fix: add nice-color-palettes",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/b5d2cf8bb037e236971eb16d408ae6f6b5064022",
+    "date": "2023-07-23",
+    "message": "fix: add find bounds and center and other debug utilities",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/819d6be93a9aee3bc3f7f15fa731abab0eab70dd",
+    "date": "2023-07-23",
+    "message": "fix: tests and types",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/4a1655d651190a33e814f0b291772cdd6699a4d1",
+    "date": "2023-07-23",
+    "message": "start three sided bug",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/4b2289a6fb565e5cbd12339a8c3704670dfe2740",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.0.9 [skip ci]\n\n## [1.0.9](https://github.com/tscircuit/schematic-viewer/compare/v1.0.8...v1.0.9) (2023-07-23)\n\n### Bug Fixes\n\n* add @tscircuit/builder to peer dependencies ([52a3346](https://github.com/tscircuit/schematic-viewer/commit/52a33464c852b3fea5bf5fd0dfb2233011423f6b))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/52a33464c852b3fea5bf5fd0dfb2233011423f6b",
+    "date": "2023-07-23",
+    "message": "fix: add @tscircuit/builder to peer dependencies",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/523876d299f6fbe5863a47b66e0d320499ec0db3",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.0.8 [skip ci]\n\n## [1.0.8](https://github.com/tscircuit/schematic-viewer/compare/v1.0.7...v1.0.8) (2023-07-23)\n\n### Bug Fixes\n\n* center schematic automatically ([d4a8a60](https://github.com/tscircuit/schematic-viewer/commit/d4a8a60fce87089dd96cb264128fdb1663acc8f3))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/d4a8a60fce87089dd96cb264128fdb1663acc8f3",
+    "date": "2023-07-23",
+    "message": "fix: center schematic automatically",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/4400be06980ca2e8dc91e696899a058930934b53",
+    "date": "2023-07-23",
+    "message": "better storybook, add deeper",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ce356224c3fcc5efec216f29de74ef6db8e70e73",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.0.7 [skip ci]\n\n## [1.0.7](https://github.com/tscircuit/schematic-viewer/compare/v1.0.6...v1.0.7) (2023-07-23)\n\n### Bug Fixes\n\n* add repo link ([f1e6a82](https://github.com/tscircuit/schematic-viewer/commit/f1e6a8232b9b8159a8b90bb135a38706b1574610))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f1e6a8232b9b8159a8b90bb135a38706b1574610",
+    "date": "2023-07-23",
+    "message": "fix: add repo link",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/ddcbd7b7132e4540c04fd7083dce9e24e50b0c10",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.5 [skip ci]\n\n## [1.2.5](https://github.com/tscircuit/pcb-viewer/compare/v1.2.4...v1.2.5) (2023-07-23)\n\n### Bug Fixes\n\n* add soup parameter to pcbviewer and remove unneeded storybook ([ad224c2](https://github.com/tscircuit/pcb-viewer/commit/ad224c2db2d006e3aff776f95d9e720adf33ae98))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/ad224c2db2d006e3aff776f95d9e720adf33ae98",
+    "date": "2023-07-23",
+    "message": "fix: add soup parameter to pcbviewer and remove unneeded storybook\naddons",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/b4fbe38a33a26d792749743304fe39d3f980ab03",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.2.4 [skip ci]\n\n## [1.2.4](https://github.com/tscircuit/pcb-viewer/compare/v1.2.3...v1.2.4) (2023-07-23)\n\n### Bug Fixes\n\n* add repository in package json ([445b33a](https://github.com/tscircuit/pcb-viewer/commit/445b33ad3919c87b25dea5df3141d969dcdf3eef))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/445b33ad3919c87b25dea5df3141d969dcdf3eef",
+    "date": "2023-07-23",
+    "message": "fix: add repository in package json",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/10eac2bc9f1d69de3789bfd566cdd362e80ae898",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.0.4 [skip ci]\n\n## [1.0.4](https://github.com/tscircuit/react-fiber/compare/v1.0.3...v1.0.4) (2023-07-23)\n\n### Bug Fixes\n\n* clarify readme ([973e216](https://github.com/tscircuit/react-fiber/commit/973e216b132a720107debd53a3a5e0019afd21b1))\n* repository url ([47abd9b](https://github.com/tscircuit/react-fiber/commit/47abd9b3aed028b8dc34c09109e7736026db62b8))\n* typo in top_size ([b3b4beb](https://github.com/tscircuit/react-fiber/commit/b3b4beb90d2b0ad11402534e563e5357f4c7b47b))\n* update deps ([2abf297](https://github.com/tscircuit/react-fiber/commit/2abf297cd9ead51b74f44e82496fe75ec46663d9))",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/47abd9b3aed028b8dc34c09109e7736026db62b8",
+    "date": "2023-07-23",
+    "message": "fix: repository url",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/2abf297cd9ead51b74f44e82496fe75ec46663d9",
+    "date": "2023-07-23",
+    "message": "fix: update deps",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/973e216b132a720107debd53a3a5e0019afd21b1",
+    "date": "2023-07-23",
+    "message": "fix: clarify readme",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/b3b4beb90d2b0ad11402534e563e5357f4c7b47b",
+    "date": "2023-07-23",
+    "message": "fix: typo in top_size",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/b9c07f851e0e505c88368d8a714ef517502b2d2a",
+    "date": "2023-07-23",
+    "message": "add copy soup button",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/583044e200520bb76e7c697eb290a81adee53f2b",
+    "date": "2023-07-23",
+    "message": "chore(release): 1.0.8 [skip ci]\n\n## [1.0.8](https://github.com/tscircuit/debug-viewer/compare/v1.0.7...v1.0.8) (2023-07-23)\n\n### Bug Fixes\n\n* fix incorrect elements rendered when providing soup ([5cc1244](https://github.com/tscircuit/debug-viewer/commit/5cc12440ee556a3480fe6e2a2be9326234afac32))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/5cc12440ee556a3480fe6e2a2be9326234afac32",
+    "date": "2023-07-23",
+    "message": "fix: fix incorrect elements rendered when providing soup",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/24808351bb9c2cc0a3934112bd348c3fbd5ff956",
+    "date": "2023-07-23",
+    "message": "checkpoint, invalid bug",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/7263dcbe5fd1293ba180a6a395df810d039b1e69",
+    "date": "2023-07-23",
+    "message": "mostly usable editor",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/ab3e72cfa08b54f2491014deb93756a1ebddd6d9",
+    "date": "2023-07-23",
+    "message": "better icons, no padding in storybook",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/526ac811d540aba3236a2dd3f97e7062bf599a01",
+    "date": "2023-07-23",
+    "message": "start arduino nano",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/e772ae2035701404f98a95e729ce9a4b7989a9e6",
+    "date": "2023-07-23",
+    "message": "introduce workflows",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/17fd19bf04d0f690843cb4cee527cbf9ea037916",
+    "date": "2023-07-23",
+    "message": "get pcbviewer working",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/83f8442d92273f4f06c3a12e1ca40e16fa46abc8",
+    "date": "2023-07-23",
+    "message": "checkpoint sidebar selection",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/0b6d85b00a3f1f5e5f14de5955dc1e4c58e6ed93",
+    "date": "2023-07-23",
+    "message": "checkpoint moving towards sidebar",
+    "repo": "tscircuit/tscircuit"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/e4e4b71969634c035263081e615a09feacfafaf2",
+    "date": "2023-07-23",
+    "message": "switch to webpack, add yalc commit protection",
+    "repo": "tscircuit/tscircuit"
+  }
+]

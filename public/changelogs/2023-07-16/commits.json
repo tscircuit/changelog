@@ -1,0 +1,44 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/07541fd5feb8682e55e6599953e7aad84cfe85f1",
+    "date": "2023-07-16",
+    "message": "chore(release): 1.0.5 [skip ci]\n\n## [1.0.5](https://github.com/tscircuit/schematic-viewer/compare/v1.0.4...v1.0.5) (2023-07-16)\n\n### Bug Fixes\n\n* update readme to reference only schematic viewer ([ff310bb](https://github.com/tscircuit/schematic-viewer/commit/ff310bb187730a6882a96a0060339f98f6d08376))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ff310bb187730a6882a96a0060339f98f6d08376",
+    "date": "2023-07-16",
+    "message": "fix: update readme to reference only schematic viewer",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/31e17681092910d0d548651f2cd01f2e3fe662b3",
+    "date": "2023-07-16",
+    "message": "fix drag for react (#7)",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/23002a39ce85eba54c75cf86eb167699c12f710f",
+    "date": "2023-07-16",
+    "message": "basic rendering working, some issues with mouse transform",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c0787a1ff657fb7632fbe67f31520915c0e82e09",
+    "date": "2023-07-16",
+    "message": "better storybook setup, more minimal",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/cb09d33729a89be877c6aa459d7930a5af4f9699",
+    "date": "2023-07-16",
+    "message": "update next add storybook",
+    "repo": "tscircuit/debug-viewer"
+  }
+]

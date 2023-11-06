@@ -1,0 +1,93 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/514a21264ebdf65799df4d71b5b8661dd39fe5df",
+    "date": "2023-08-12",
+    "message": "wip",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/a65b496c26b46e1c71b1b5cee58e000755fc5cd5",
+    "date": "2023-08-12",
+    "message": "chore(release): 1.2.13 [skip ci]\n\n## [1.2.13](https://github.com/tscircuit/builder/compare/v1.2.12...v1.2.13) (2023-08-12)\n\n### Bug Fixes\n\n* proper id names for custom components ([e8e58d4](https://github.com/tscircuit/builder/commit/e8e58d4ce79c650e96d0714edecdcb07f6b3ad63))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/e8e58d4ce79c650e96d0714edecdcb07f6b3ad63",
+    "date": "2023-08-12",
+    "message": "fix: proper id names for custom components",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/5843ac04f45af9d64d97868ff7d7e78af58cf7c8",
+    "date": "2023-08-12",
+    "message": "schematic symbol builder add, net alias builder progress",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/c3133038ada04b75a49be08834fe0fe9edc33300",
+    "date": "2023-08-12",
+    "message": "define new component system working",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/4dcfeb0c950223c3753f8822cf66e5697341a59c",
+    "date": "2023-08-12",
+    "message": "wip introduce add for portsbuilder",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/355ae1acbe1a401d423148572af72614c4775845",
+    "date": "2023-08-12",
+    "message": "rename \"add\" to \"addPort\"",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/5ded7ca90dfa35178d692db6a714479e4a53ec39",
+    "date": "2023-08-12",
+    "message": "update led circuit snapshot",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/e8162de737447930a1ac1b43875f4c5c17f77652",
+    "date": "2023-08-12",
+    "message": "wip",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/2545f87aadec5ebe1d8b1eba39aaa43a98e99823",
+    "date": "2023-08-12",
+    "message": "introduce smoke tests and simpler component definition",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b5d6222e4dae16ca32509b32db2be299d12089b7",
+    "date": "2023-08-12",
+    "message": "unnecessary code for box fix",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c0904d159e18937cd020cba5dabf42b56d031e33",
+    "date": "2023-08-12",
+    "message": "support for drawing schematic_box",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/19d1a88aca57fa9ecdb25b25774a5ec8c6e0f4c1",
+    "date": "2023-08-12",
+    "message": "render line box",
+    "repo": "tscircuit/schematic-viewer"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/f67cdd68e47f26b1da73d8fc9a2edaf35325ac4f",
+    "date": "2023-06-10",
+    "message": "wip",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/dfa9ea5774a34dcf61d6db98d00144a1d1d29bdd",
+    "date": "2023-06-10",
+    "message": "fix: footprint positioning working",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/ec81c5d6c816bb5829d12bbba2dc187118c26fd2",
+    "date": "2023-06-10",
+    "message": "update lockfile",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/d2e3d0182e635c8b7e39cad188a2664cf935da67",
+    "date": "2023-06-10",
+    "message": "fix link styling",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/7a947233e48ed71ac5fbea18e35cf879fb997142",
+    "date": "2023-06-10",
+    "message": "add roadmap page",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/cfdbd8f0981165a7877f8535f429318cc0e0dcdd",
+    "date": "2023-06-10",
+    "message": "add more markdown",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/426bfaf42ee67d217dcd9f8363b4e6bf1f9b7397",
+    "date": "2023-06-10",
+    "message": "roadmap text",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/fa17bd2d5c75adc020a8ba02da811aa02340df78",
+    "date": "2023-06-10",
+    "message": "ask ai functionality, cache, some stuff working",
+    "repo": "tscircuit/ai-footprint-generator"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/4bf4fb5b5cd05bcc7b5bfb8b56da3246a812b0b1",
+    "date": "2023-06-10",
+    "message": "add example output for generated resistor footprints",
+    "repo": "tscircuit/ai-footprint-generator"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/1f0dce6a2a7a8b43900de7395ace5535fa5132e4",
+    "date": "2023-06-10",
+    "message": "add llm response",
+    "repo": "tscircuit/ai-footprint-generator"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/7775feb9aa58895f4f39995561ffeb820bbecb2e",
+    "date": "2023-06-10",
+    "message": "initial",
+    "repo": "tscircuit/ai-footprint-generator"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/68be31cde2a7a2d6d07bd27ac034ba3d01410d71",
+    "date": "2023-06-10",
+    "message": "ignore dist directory",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/c8439b0f327438d63845e94ff2217e632bdc1916",
+    "date": "2023-06-10",
+    "message": "initial",
+    "repo": "tscircuit/debug-viewer"
+  }
+]

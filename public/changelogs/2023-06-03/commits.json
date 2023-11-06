@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/cc7bb786e0dc70bec035900b870416e8dd49132d",
+    "date": "2023-06-03",
+    "message": "use typescript instead of esbuild-wasm",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/6fb74699becd4a7065396e6239ab0adf439e31a5",
+    "date": "2023-06-03",
+    "message": "prototype building typescript",
+    "repo": "tscircuit/homepage"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/a6856f07902479495cace84951bacd8931590ebc",
+    "date": "2023-05-31",
+    "message": "fix build for nextjs consumers",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/57af22c18ecdcbb5ad44b1326dceb5008f55ec6f",
+    "date": "2023-05-31",
+    "message": "grid showing",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/fdd4bbe9b287766ea548d5c31439be6b9bbc6281",
+    "date": "2023-05-31",
+    "message": "pcb viewer wip",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/f22200d4e24e2de1c117ee83eda23811fc0b8ba5",
+    "date": "2023-05-31",
+    "message": "schematic no longer overflows and can be dragged",
+    "repo": "tscircuit/homepage"
+  }
+]

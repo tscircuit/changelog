@@ -1,0 +1,135 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/b60832a5242afc154b01bae2d216de4eebd36b1b",
+    "date": "2023-08-13",
+    "message": "fix: fixes for schematic text builder",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/7bfb0cf5b07fd6c2041f8195f623ca92714d839f",
+    "date": "2023-08-13",
+    "message": "fix schematic text type",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/25da852198b83186a16e10bd7550b789298038e3",
+    "date": "2023-08-13",
+    "message": "chore(release): 1.2.14 [skip ci]\n\n## [1.2.14](https://github.com/tscircuit/builder/compare/v1.2.13...v1.2.14) (2023-08-13)\n\n### Bug Fixes\n\n* support for defining components more easily ([2643f10](https://github.com/tscircuit/builder/commit/2643f103fc48701fb4b34140d531889d80355fc2))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/2643f103fc48701fb4b34140d531889d80355fc2",
+    "date": "2023-08-13",
+    "message": "fix: support for defining components more easily",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f0a050dcce1393cc07aedf97ac3ae5f9b5b7660e",
+    "date": "2023-08-13",
+    "message": "incorporate super grid",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/a6a19b97be8f0c08853de0102636872dc0665a22",
+    "date": "2023-08-13",
+    "message": "chore(release): 1.0.13 [skip ci]\n\n## [1.0.13](https://github.com/tscircuit/schematic-viewer/compare/v1.0.12...v1.0.13) (2023-08-13)\n\n### Bug Fixes\n\n* net alias drawing ([5978dd8](https://github.com/tscircuit/schematic-viewer/commit/5978dd85fd8cc453e6cbe30e594ea9b826e21541))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/5978dd85fd8cc453e6cbe30e594ea9b826e21541",
+    "date": "2023-08-13",
+    "message": "fix: net alias drawing",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/f72cf16f1939d707937fdf69dc80d866075f1993",
+    "date": "2023-08-13",
+    "message": "export some useful utilities",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/2c2767d255bc0e91fc21df2d678778f841b8ca5f",
+    "date": "2023-08-13",
+    "message": "dont bundle react",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/23f18dd619f2b4216aefd16f933bf349629717ff",
+    "date": "2023-08-13",
+    "message": "1.0.1",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/b2befa72fdb1a092c311dbcd848b70ce7d15a971",
+    "date": "2023-08-13",
+    "message": "add repository",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/602e607ff7e1ae1f3650036a21a4a325d8ee9f90",
+    "date": "2023-08-13",
+    "message": "rename to react-supergrid",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/8e7033b85356c2591816d9ee294fdb9f4ac8b344",
+    "date": "2023-08-13",
+    "message": "initial build",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/76468b34bbbf632f9d98907789de4c9b257dcdd7",
+    "date": "2023-08-13",
+    "message": "better grid inference numbers",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/9e43785842936e477d0af099434fcd088899d69d",
+    "date": "2023-08-13",
+    "message": "allow mouse label",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/45cc03601b9d903eab8e5465f0f0dfdf76ddc64b",
+    "date": "2023-08-13",
+    "message": "minor style adjustments",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/a186a9a50af4f81f5bb304461c5ba181f867ce2b",
+    "date": "2023-08-13",
+    "message": "semi-major lines",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/4597b1c37cae61d470f860c5c20320b9017ac877",
+    "date": "2023-08-13",
+    "message": "wip",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/472be2258a9a6de46a5bdfce1de6e01dfc71d891",
+    "date": "2023-08-13",
+    "message": "initial",
+    "repo": "tscircuit/supergrid"
+  }
+]

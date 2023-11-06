@@ -1,0 +1,16 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/79653858840a023e54a670300f0e7eb808246680",
+    "date": "2023-09-25",
+    "message": "chore(release): 1.4.3 [skip ci]\n\n## [1.4.3](https://github.com/tscircuit/builder/compare/v1.4.2...v1.4.3) (2023-09-25)\n\n### Bug Fixes\n\n* custom port arrangements working ([a4d61fd](https://github.com/tscircuit/builder/commit/a4d61fdb473fa20db3e7a7d642161ac92e8d9d76))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/a4d61fdb473fa20db3e7a7d642161ac92e8d9d76",
+    "date": "2023-09-25",
+    "message": "fix: custom port arrangements working",
+    "repo": "tscircuit/builder"
+  }
+]

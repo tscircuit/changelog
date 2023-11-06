@@ -1,0 +1,30 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/253129487bcb005dbb1b2569486b9ecc4080cf7e",
+    "date": "2023-02-06",
+    "message": "checkpoint, logging",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/413a54f9423db6d88ec0e86c6531a9b3051b627a",
+    "date": "2023-02-06",
+    "message": "permanent dark mode",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/af58f9edb89808d49b054173cfbfbcc1422c5ef4",
+    "date": "2023-02-06",
+    "message": "configure forwarding",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/1c303094dbf2d78e37b14a3abd295f20a35ebe95",
+    "date": "2023-02-06",
+    "message": "proxy frontend requests",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

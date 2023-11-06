@@ -1,0 +1,44 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/7bbea8553735d27f635562243b7f5ad730b9014a",
+    "date": "2023-09-11",
+    "message": "chore(release): 1.2.23 [skip ci]\n\n## [1.2.23](https://github.com/tscircuit/builder/compare/v1.2.22...v1.2.23) (2023-09-11)\n\n### Bug Fixes\n\n* add setProps partial method signature ([ea22253](https://github.com/tscircuit/builder/commit/ea2225341f0abe88754c54e95966a497f58e8641))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/ea2225341f0abe88754c54e95966a497f58e8641",
+    "date": "2023-09-11",
+    "message": "fix: add setProps partial method signature",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/routing/commit/7feaee6fdc9a18b20a034bdc3ed8c0464d34b615",
+    "date": "2023-09-11",
+    "message": "chore(release): 1.1.0 [skip ci]\n\n# [1.1.0](https://github.com/tscircuit/routing/compare/v1.0.3...v1.1.0) (2023-09-11)\n\n### Features\n\n* schematic-style routing ([23094eb](https://github.com/tscircuit/routing/commit/23094eb3f08fe24454f4c71741e893df2a6f29ed))",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/23094eb3f08fe24454f4c71741e893df2a6f29ed",
+    "date": "2023-09-11",
+    "message": "feat: schematic-style routing",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/46296fb9c4d8d5f873550d4b6461b96f1197a639",
+    "date": "2023-09-11",
+    "message": "introduce isIntersectingObject, progress towards schematic routing",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/4917c7303d0b5c93dfd971f834a784de1b3b1f33",
+    "date": "2023-09-11",
+    "message": "record findRoute example to avoid implementation drift",
+    "repo": "tscircuit/routing"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/7ffba26e9dc9a25519d4b936a63ffdc2e4f50b3b",
+    "date": "2023-09-05",
+    "message": "chore(release): 1.2.17 [skip ci]\n\n## [1.2.17](https://github.com/tscircuit/builder/compare/v1.2.16...v1.2.17) (2023-09-05)\n\n### Bug Fixes\n\n* minor fix for one point of diode ([87ff141](https://github.com/tscircuit/builder/commit/87ff141a8cc5325055067359075e332f0fe3670c))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/87ff141a8cc5325055067359075e332f0fe3670c",
+    "date": "2023-09-05",
+    "message": "fix: minor fix for one point of diode",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/985f9c59953400d92182eccc203eddc6b3496d64",
+    "date": "2023-09-05",
+    "message": "fix diode layout",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/79afdbcb4f2e5b33812d3eac0f09756067ebea8c",
+    "date": "2023-09-05",
+    "message": "adopt zod defaults, fix source ports not having parent",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/97c1729948ae8ad2f480eedea0c9ee71f7a6f6be",
+    "date": "2023-09-05",
+    "message": "add name as allowed property to builders",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/82cc395cc1d47128698826441beee2c7cfd18391",
+    "date": "2023-09-05",
+    "message": "chore(release): 1.0.16 [skip ci]\n\n## [1.0.16](https://github.com/tscircuit/schematic-viewer/compare/v1.0.15...v1.0.16) (2023-09-05)\n\n### Bug Fixes\n\n* start fixing from/to trace syntax in story ([2a3d275](https://github.com/tscircuit/schematic-viewer/commit/2a3d275793cc04046eb684469171bdf2f71eed10))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/2a3d275793cc04046eb684469171bdf2f71eed10",
+    "date": "2023-09-05",
+    "message": "fix: start fixing from/to trace syntax in story",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/157f57a94bdd738b4b2dce2f4f1589c31ea24798",
+    "date": "2023-09-05",
+    "message": "upgrade builder version",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c36e72cd98f323b4029dbc2ee31d415207924168",
+    "date": "2023-09-05",
+    "message": "chore(release): 1.0.15 [skip ci]\n\n## [1.0.15](https://github.com/tscircuit/schematic-viewer/compare/v1.0.14...v1.0.15) (2023-09-05)\n\n### Bug Fixes\n\n* netalias appearance ([383f2f4](https://github.com/tscircuit/schematic-viewer/commit/383f2f443ec8cf47a3e3080b176bb8ac9f918f27))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/9c1f381720c7197652a043e8994c75a6ad3aacf4",
+    "date": "2023-09-05",
+    "message": "fix diode rendering",
+    "repo": "tscircuit/schematic-viewer"
+  }
+]

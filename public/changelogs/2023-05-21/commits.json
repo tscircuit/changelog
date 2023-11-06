@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/614223bfa8d036e89828a0041c4aa83681f7f6a5",
+    "date": "2023-05-21",
+    "message": "global context being used breaking things",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c5363bd3c43af47c6e1c7fc95808a049ecf36e70",
+    "date": "2023-05-21",
+    "message": "fix schematic component render",
+    "repo": "tscircuit/schematic-viewer"
+  }
+]

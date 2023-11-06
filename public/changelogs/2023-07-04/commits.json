@@ -1,0 +1,23 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/82d4c5fc0fa48281db13a7da5d8a92b6dd6a27b3",
+    "date": "2023-07-04",
+    "message": "fix: make easier to grab",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/7ccf28b9d4f1e08d6f6a99995e115fe753c072dc",
+    "date": "2023-07-04",
+    "message": "fix: add semantic release",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/669d5e5d9c3f038759d280f855331609716dc2e4",
+    "date": "2023-07-04",
+    "message": "show schematics",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  }
+]

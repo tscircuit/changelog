@@ -1,0 +1,37 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/3fca363e49bab155d1b2615f073c8b18036c34c0",
+    "date": "2023-07-31",
+    "message": "chore(release): 1.0.10 [skip ci]\n\n## [1.0.10](https://github.com/tscircuit/debug-viewer/compare/v1.0.9...v1.0.10) (2023-07-31)\n\n### Bug Fixes\n\n* pass source components into debug layout (fixes not seeing source ([03bf743](https://github.com/tscircuit/debug-viewer/commit/03bf7430c2ef9c70bb3f39f7410c1db353a559e1))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/03bf7430c2ef9c70bb3f39f7410c1db353a559e1",
+    "date": "2023-07-31",
+    "message": "fix: pass source components into debug layout (fixes not seeing source\nports)",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/a017ed7667529774ec98a247a773f52ef760bc7d",
+    "date": "2023-07-31",
+    "message": "chore(release): 1.0.9 [skip ci]\n\n## [1.0.9](https://github.com/tscircuit/debug-viewer/compare/v1.0.8...v1.0.9) (2023-07-31)\n\n### Bug Fixes\n\n* add support for viewing source ports if present ([db1d221](https://github.com/tscircuit/debug-viewer/commit/db1d2212744c67e66f1626c50d8756fe4fc147fa))",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/db1d2212744c67e66f1626c50d8756fe4fc147fa",
+    "date": "2023-07-31",
+    "message": "fix: add support for viewing source ports if present",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/90d8cced928cb335a35d1066fc341ffc3f0d97b6",
+    "date": "2023-07-31",
+    "message": "fix: defaultView for editor, work towards connecting trace",
+    "repo": "tscircuit/tscircuit"
+  }
+]

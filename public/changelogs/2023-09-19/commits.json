@@ -1,0 +1,37 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/c97dbab9342b5457d2639f5fb9aa36eaf8da4133",
+    "date": "2023-09-19",
+    "message": "fix path/line scaling",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/7fdde181ab2f69eb4335ab71c1d5a3f495e41c4a",
+    "date": "2023-09-19",
+    "message": "fix grid bounds rendering",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/bbcba6f18334489dc69f5368443f793779aa2573",
+    "date": "2023-09-19",
+    "message": "allow setting viewbox",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/28903bd2c7d73a7e7c8a1ccec9b5e345ece10801",
+    "date": "2023-09-19",
+    "message": "remove console log line",
+    "repo": "tscircuit/routing"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/routing/commit/ed318781f72c6d0671cae27d0f3cc6891779835a",
+    "date": "2023-09-19",
+    "message": "debugging tool",
+    "repo": "tscircuit/routing"
+  }
+]

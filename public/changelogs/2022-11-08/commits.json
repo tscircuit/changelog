@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/915654c0bb0086d0e677187b856e1063fcf9a3d2",
+    "date": "2022-11-08",
+    "message": "fix for rect transform",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/4048a37f0da5979423b3179c04501a7ce49c14d7",
+    "date": "2022-11-08",
+    "message": "attempt update fix",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  }
+]

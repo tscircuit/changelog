@@ -1,0 +1,9 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/a04cae22bed0f6f2d509ba89e0046d480fbaaefb",
+    "date": "2023-01-09",
+    "message": "seeding setup, migrations setup using vfs",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

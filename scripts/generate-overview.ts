@@ -9,6 +9,12 @@ type OverviewJson = {
    */
   commit_graph: number[]
 
+  version_released_on_date: {
+    [date: string]: {
+      [repo: string]: string
+    }
+  }
+
   /**
    * The most recent 1,000 commits.
    * NOTE: non-meaningful commits messages are filtered out, e.g. wherever the
@@ -35,6 +41,7 @@ async function main() {
     commit_graph_ending_date: "",
     commit_graph: [],
     recent_commits: [],
+    version_released_on_date: {},
   }
 
   filesInDir.sort()
@@ -63,6 +70,29 @@ async function main() {
           !c.author.toLowerCase().includes("bot")
       )
     )
+
+    // Search commits for version releases
+    const version_release_commits = commits.filter((c) =>
+      c.message.startsWith("chore(release):")
+    )
+    for (const release_commit of version_release_commits) {
+      const version = release_commit.message.split(" ")[1]
+
+      if (!overview.version_released_on_date[release_commit.date]) {
+        overview.version_released_on_date[release_commit.date] = {}
+      }
+
+      const existing_version =
+        overview.version_released_on_date[release_commit.date][
+          release_commit.repo
+        ]
+
+      if (!existing_version || existing_version < version) {
+        overview.version_released_on_date[release_commit.date][
+          release_commit.repo
+        ] = version
+      }
+    }
 
     // Add to commit_graph
     const date = file

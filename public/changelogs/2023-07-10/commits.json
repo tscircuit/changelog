@@ -1,0 +1,72 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2d64d7d5ab472826deaf18d49374810169275273",
+    "date": "2023-07-10",
+    "message": "chore(release): 1.2.0 [skip ci]\n\n# [1.2.0](https://github.com/tscircuit/pcb-viewer/compare/v1.1.0...v1.2.0) (2023-07-10)\n\n### Bug Fixes\n\n* fix build ([4572c64](https://github.com/tscircuit/pcb-viewer/commit/4572c640cf3fb73b6e5f33b5738f8b7858766dc2))\n* PCBViewer is smarter, adjusts size and has zooming/panning ([2aa779d](https://github.com/tscircuit/pcb-viewer/commit/2aa779d5809afa8373ae9a060f12d072dd5da395))\n* simple resistor is rendering ([033d1ca](https://github.com/tscircuit/pcb-viewer/commit/033d1cac22ef2de7bfcb6496886f22c8b936ee5d))\n\n### Features\n\n* pcb viewer working with routes ([9295b43](https://github.com/tscircuit/pcb-viewer/commit/9295b432ca8182be2af9073bad4ecb642319ca87))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/4572c640cf3fb73b6e5f33b5738f8b7858766dc2",
+    "date": "2023-07-10",
+    "message": "fix: fix build",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/9295b432ca8182be2af9073bad4ecb642319ca87",
+    "date": "2023-07-10",
+    "message": "feat: pcb viewer working with routes",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/033d1cac22ef2de7bfcb6496886f22c8b936ee5d",
+    "date": "2023-07-10",
+    "message": "fix: simple resistor is rendering",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/2aa779d5809afa8373ae9a060f12d072dd5da395",
+    "date": "2023-07-10",
+    "message": "fix: PCBViewer is smarter, adjusts size and has zooming/panning",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/06d81f5ef4ac52a59ed87b9af613e981a263eb10",
+    "date": "2023-07-10",
+    "message": "introduce storybook (#2)",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/54d3511256922591945a175367204819063a5edb",
+    "date": "2023-07-10",
+    "message": "Merge pull request #2 from tscircuit/dev/add_twitter_link\n\nadd link twitter, remove subscribe button",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "nogueirarissa",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/8a4e36a256fabe860055a399efa6898c4c88d886",
+    "date": "2023-07-10",
+    "message": "reset package.lock",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "nogueirarissa",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/b435ce7afd8f30efbe90412f7d9e7edcd1909d19",
+    "date": "2023-07-10",
+    "message": "Merge branch 'main' of https://github.com/tscircuit/homepage into dev/add_twitter_link",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "web-flow",
+    "commit_url": "https://github.com/tscircuit/rfc/commit/4382f66baa1a6aa0a674e6fa668765c044c05392",
+    "date": "2023-07-10",
+    "message": "Update 2023-07-08-repo-requirements.md",
+    "repo": "tscircuit/rfc"
+  }
+]

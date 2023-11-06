@@ -1,0 +1,37 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/a495013d347e322f90aeeacbe905839386f32d9a",
+    "date": "2023-07-19",
+    "message": "chore(release): 1.0.3 [skip ci]\n\n## [1.0.3](https://github.com/tscircuit/tscircuit/compare/v1.0.2...v1.0.3) (2023-07-19)\n\n### Bug Fixes\n\n* add footprint to pcb components for typecheck ([fbd87d3](https://github.com/tscircuit/tscircuit/commit/fbd87d32ca47300b1152150b47b46477ab5766fa))",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/react-fiber/commit/fbd87d32ca47300b1152150b47b46477ab5766fa",
+    "date": "2023-07-19",
+    "message": "fix: add footprint to pcb components for typecheck",
+    "repo": "tscircuit/react-fiber"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/dfa225c33968faa70ef0fb3de9e7d8cab548f02c",
+    "date": "2023-07-19",
+    "message": "fix: replace stringhash",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/09037bba7300030602877fe8d5fe169ed87eb6c1",
+    "date": "2023-07-19",
+    "message": "fix: add examples link",
+    "repo": "tscircuit/debug-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug-viewer/commit/05448bdbc609036cfad9fb1f9765698577204485",
+    "date": "2023-07-19",
+    "message": "fix: workflows, readme, storybook",
+    "repo": "tscircuit/debug-viewer"
+  }
+]

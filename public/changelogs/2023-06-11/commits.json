@@ -1,0 +1,23 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/ai-footprint-generator/commit/46eb7f01e3b9275779c81b2776a20eee4dda198f",
+    "date": "2023-06-11",
+    "message": "checkpoint",
+    "repo": "tscircuit/ai-footprint-generator"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/log-soup/commit/330e437b65ddc17c71df88f3d123b05b4354af73",
+    "date": "2023-06-11",
+    "message": "1.0.1",
+    "repo": "tscircuit/log-soup"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/log-soup/commit/218ae403858de0d0fd359d5a3827c6f1b971ccb5",
+    "date": "2023-06-11",
+    "message": "ready for publish",
+    "repo": "tscircuit/log-soup"
+  }
+]

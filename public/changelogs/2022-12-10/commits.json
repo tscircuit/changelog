@@ -1,0 +1,37 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/d03f7a49aaaecf5608b0e276e65d5f363a3d1cf7",
+    "date": "2022-12-10",
+    "message": "inc version",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/95489aca73926868b75d5a4657849481b567c3d4",
+    "date": "2022-12-10",
+    "message": "fix: transform should trigger re-render",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/91252a31e45844c4110d7754a2afe306e076ed69",
+    "date": "2022-12-10",
+    "message": "add drag and zoom to pcb layout",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/bd9375dadd3493a38c8371e2ead5614300decbcc",
+    "date": "2022-12-10",
+    "message": "new use mouse matrix transform",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/63ab277abb4a3d132a93aa6c63190fb00156a8c1",
+    "date": "2022-12-10",
+    "message": "debug layout transforms",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  }
+]

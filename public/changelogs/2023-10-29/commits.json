@@ -1,0 +1,93 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/2f0ee33679ab469f06e6a452dce7617c2b5ff5db",
+    "date": "2023-10-29",
+    "message": "chore(release): 1.5.0 [skip ci]\n\n# [1.5.0](https://github.com/tscircuit/builder/compare/v1.4.3...v1.5.0) (2023-10-29)\n\n### Features\n\n* add top labels to bugs ([189ba82](https://github.com/tscircuit/builder/commit/189ba8206dd394320f37f907f7bd1c851183a89b))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/189ba8206dd394320f37f907f7bd1c851183a89b",
+    "date": "2023-10-29",
+    "message": "feat: add top labels to bugs",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/5505c277c8f6c65bac249696bfa2b52ddfc5a73f",
+    "date": "2023-10-29",
+    "message": "add bottom labels",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/f4b1e5048eabe3d2f5d5758b20d35c3f4156be38",
+    "date": "2023-10-29",
+    "message": "fix prettier",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/4efc1269e2e2d01cb5f0f8eb85760c0c5a823352",
+    "date": "2023-10-29",
+    "message": "chore(release): 1.1.1 [skip ci]\n\n## [1.1.1](https://github.com/tscircuit/schematic-viewer/compare/v1.1.0...v1.1.1) (2023-10-29)\n\n### Bug Fixes\n\n* scrolling when screen isn't centered now works ([f7f0a47](https://github.com/tscircuit/schematic-viewer/commit/f7f0a47e31b66cf0d28de0ddd7272ecf858adc17))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f7f0a47e31b66cf0d28de0ddd7272ecf858adc17",
+    "date": "2023-10-29",
+    "message": "fix: scrolling when screen isn't centered now works",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/d682acbee0b24416504ab6d8397fd52c44c05389",
+    "date": "2023-10-29",
+    "message": "off center render reproduction",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/a4bb836a4863af531889bc63447ddc2e12151ee3",
+    "date": "2023-10-29",
+    "message": "chore(release): 1.1.0 [skip ci]\n\n# [1.1.0](https://github.com/tscircuit/schematic-viewer/compare/v1.0.18...v1.1.0) (2023-10-29)\n\n### Features\n\n* add showTable fixes https://github.com/tscircuit/schematic-viewer/issues/13 ([158f3f9](https://github.com/tscircuit/schematic-viewer/commit/158f3f9897c03ad2cf967ba119e6916b924269df))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/158f3f9897c03ad2cf967ba119e6916b924269df",
+    "date": "2023-10-29",
+    "message": "feat: add showTable fixes https://github.com/tscircuit/schematic-viewer/issues/13",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/3869e028069ced49eec2f338845a8f3ff3842acc",
+    "date": "2023-10-29",
+    "message": "easier to understand playground",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/c2019146272b5960258112987046615e81f3ba53",
+    "date": "2023-10-29",
+    "message": "wip",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/ad71fbfed8bf97d6d211ec7c81db778a077f376b",
+    "date": "2023-10-29",
+    "message": "improve responsiveness",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/3061b16c7193579aebce608132ff4ef90fe26b67",
+    "date": "2023-10-29",
+    "message": "wip",
+    "repo": "tscircuit/homepage"
+  }
+]

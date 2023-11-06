@@ -1,0 +1,30 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/2695515f11f65edf102c1fe1a016876625a03fcb",
+    "date": "2023-07-25",
+    "message": "chore(release): 1.2.12 [skip ci]\n\n## [1.2.12](https://github.com/tscircuit/builder/compare/v1.2.11...v1.2.12) (2023-07-25)\n\n### Bug Fixes\n\n* better bug builder schematic output for undefined top/bottom sizes ([3d3383b](https://github.com/tscircuit/builder/commit/3d3383b120e9a1874c9565eecb34f3bf40320e3b))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/3d3383b120e9a1874c9565eecb34f3bf40320e3b",
+    "date": "2023-07-25",
+    "message": "fix: better bug builder schematic output for undefined top/bottom sizes",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/59411b825a2d302b72b4c768e367a0f7e920da33",
+    "date": "2023-07-25",
+    "message": "chore(release): 1.0.12 [skip ci]\n\n## [1.0.12](https://github.com/tscircuit/schematic-viewer/compare/v1.0.11...v1.0.12) (2023-07-25)\n\n### Bug Fixes\n\n* improve bug rendering ([3faa6b5](https://github.com/tscircuit/schematic-viewer/commit/3faa6b5de7469b113b5fc69c106f74151cbcaa4e))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/3faa6b5de7469b113b5fc69c106f74151cbcaa4e",
+    "date": "2023-07-25",
+    "message": "fix: improve bug rendering",
+    "repo": "tscircuit/schematic-viewer"
+  }
+]

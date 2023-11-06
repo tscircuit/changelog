@@ -1,0 +1,72 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/e36fdbd561695ea4dea41dd59b5384a38af62bae",
+    "date": "2023-04-19",
+    "message": "verified working version",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/e2d952d30dbd07c82b00fc0278276b5541e7ed52",
+    "date": "2023-04-19",
+    "message": "inc version",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/ad1c2ebcb7a4bcfa6a46bfa660914e9bd42b686e",
+    "date": "2023-04-19",
+    "message": "remove deps",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/682a56968d8106d4c2e8c461113b51e1cb074154",
+    "date": "2023-04-19",
+    "message": "fix jsx in output",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/26d9b5ad67321a871a050f5fe58136800fd66f85",
+    "date": "2023-04-19",
+    "message": "add export",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/1f4429cf43f88972dba44b3bf2533aabcf79a037",
+    "date": "2023-04-19",
+    "message": "fix schematic for components with children, traces still incorrect",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/b96d5c73c57e7dec0ed9329c299b837c9c8bfbbe",
+    "date": "2023-04-19",
+    "message": "fix more types",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/f7efa31eb48fc9886774356e38803de229eccd71",
+    "date": "2023-04-19",
+    "message": "fix: fix types and update react fiber",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/a12754bb3d7088c4c4c12c65937086a221ca3af8",
+    "date": "2023-04-19",
+    "message": "tabs for circuit editor",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/1ec9e6bcec8e1febda86dc7e6fc696d5386d3713",
+    "date": "2023-04-19",
+    "message": "minor cleanup",
+    "repo": "tscircuit/homepage"
+  }
+]

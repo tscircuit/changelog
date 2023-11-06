@@ -1,0 +1,58 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/23a5332e67a68cccdbee5f3c9099e4f9400147f3",
+    "date": "2023-02-05",
+    "message": "update string hash, changing node version in pages",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/56d8ac12efc37a10bab74fe97f8405ef9c5bb1b5",
+    "date": "2023-02-05",
+    "message": "downgrade string-hash",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/779ae3bb0508ab326ebf0de70dba8ecd3b0e29ce",
+    "date": "2023-02-05",
+    "message": "add build and fix type in _app",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/b3c5464270be488287fb1cffff52fdf8c377ce09",
+    "date": "2023-02-05",
+    "message": "migrate to debug server",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/dde28fb8d308eec0093269a3877b0723dbb888ef",
+    "date": "2023-02-05",
+    "message": "add types",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/b5a96391a951f27edb6ffc937b80d4994c66941e",
+    "date": "2023-02-05",
+    "message": "proxy to debug api",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/31ae9057ccfe2e2cda68599ff055acb1656dddca",
+    "date": "2023-02-05",
+    "message": "variation to prevent caching if origin not initially set",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/87d34c5a1403524cc863e588431e62d486e34389",
+    "date": "2023-02-05",
+    "message": "more permissive cors",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

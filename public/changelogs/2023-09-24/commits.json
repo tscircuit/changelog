@@ -1,0 +1,121 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/8e3f10671ea0d1d8df828dd4ad7142b7feff8f27",
+    "date": "2023-09-24",
+    "message": "test",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/3a06288c8685a66dc9f6d458f8c738fcaecef2ab",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.4.2 [skip ci]\n\n## [1.4.2](https://github.com/tscircuit/builder/compare/v1.4.1...v1.4.2) (2023-09-24)\n\n### Bug Fixes\n\n* minor offset adjustment ([fd43c87](https://github.com/tscircuit/builder/commit/fd43c8793c096fbc606d846bb72e555794f2b40c))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/fd43c8793c096fbc606d846bb72e555794f2b40c",
+    "date": "2023-09-24",
+    "message": "fix: minor offset adjustment",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/3cb419f5ddaa653581e0cdf75b6f9b543dc4a8bf",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.4.1 [skip ci]\n\n## [1.4.1](https://github.com/tscircuit/builder/compare/v1.4.0...v1.4.1) (2023-09-24)\n\n### Bug Fixes\n\n* adjust schematic port text so it's slightly offset ([d9ffea7](https://github.com/tscircuit/builder/commit/d9ffea7ad4b17909a5782f0792e0c8df8536ff7e))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/d9ffea7ad4b17909a5782f0792e0c8df8536ff7e",
+    "date": "2023-09-24",
+    "message": "fix: adjust schematic port text so it's slightly offset",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/481ca7585e32534ee41df4ab3c475441b84d6afe",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.4.0 [skip ci]\n\n# [1.4.0](https://github.com/tscircuit/builder/compare/v1.3.4...v1.4.0) (2023-09-24)\n\n### Features\n\n* support for pin numbers ([30d1fe8](https://github.com/tscircuit/builder/commit/30d1fe87df12ad6e8bedea4df0d110618ac22e5a))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/30d1fe87df12ad6e8bedea4df0d110618ac22e5a",
+    "date": "2023-09-24",
+    "message": "feat: support for pin numbers",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/c4453997c8e26971b7c7ac6bc0ab7e9a8a10fa9d",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.3.4 [skip ci]\n\n## [1.3.4](https://github.com/tscircuit/builder/compare/v1.3.3...v1.3.4) (2023-09-24)\n\n### Bug Fixes\n\n* correctly compute component size for schematic elements ([0305b78](https://github.com/tscircuit/builder/commit/0305b78c870c9edb6afe5c8da828c484dbd6b916))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/0305b78c870c9edb6afe5c8da828c484dbd6b916",
+    "date": "2023-09-24",
+    "message": "fix: correctly compute component size for schematic elements",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/b6ecc13b67a039b0cb467d36aeb46fbb3890438a",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.3.3 [skip ci]\n\n## [1.3.3](https://github.com/tscircuit/builder/compare/v1.3.2...v1.3.3) (2023-09-24)\n\n### Bug Fixes\n\n* no routing through schematic ports ([6d95295](https://github.com/tscircuit/builder/commit/6d9529562cb1d12786b6d6c969b4ba7dd0b859ae))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/6d9529562cb1d12786b6d6c969b4ba7dd0b859ae",
+    "date": "2023-09-24",
+    "message": "fix: no routing through schematic ports",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/f4cf2fa4dbaa03fe589157e4f74ecfb93f1f3468",
+    "date": "2023-09-24",
+    "message": "start no traces through pins",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/e6d7795a88f492f7de5a48eff1fb4f0c842abe1c",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.3.2 [skip ci]\n\n## [1.3.2](https://github.com/tscircuit/builder/compare/v1.3.1...v1.3.2) (2023-09-24)\n\n### Bug Fixes\n\n* handle minor collisions with obstacles ([5dc71a0](https://github.com/tscircuit/builder/commit/5dc71a0be461bafd217bb826159aace59c1d2223))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/5dc71a0be461bafd217bb826159aace59c1d2223",
+    "date": "2023-09-24",
+    "message": "fix: handle minor collisions with obstacles",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/85e2e1c7d5291f6203ce0b09d0e779d6dcd25423",
+    "date": "2023-09-24",
+    "message": "chore(release): 1.0.18 [skip ci]\n\n## [1.0.18](https://github.com/tscircuit/schematic-viewer/compare/v1.0.17...v1.0.18) (2023-09-24)\n\n### Bug Fixes\n\n* no double-rendering schematic diode ([fc9ee8f](https://github.com/tscircuit/schematic-viewer/commit/fc9ee8fe875ad59809f70353b1a5d110e13268bb))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/fc9ee8fe875ad59809f70353b1a5d110e13268bb",
+    "date": "2023-09-24",
+    "message": "fix: no double-rendering schematic diode",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/3fe7611e572e30ae4b16580a00b6af9fa6949d83",
+    "date": "2023-09-24",
+    "message": "fix: updates and flip gnd on 5v reg",
+    "repo": "tscircuit/tscircuit"
+  }
+]

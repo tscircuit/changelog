@@ -1,0 +1,23 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/0ff0863039eb50f6991122624fa233afba08fac8",
+    "date": "2022-12-19",
+    "message": "some explanation",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/c56d964bad584d3b81861b7076c6dde0a0dcc482",
+    "date": "2022-12-19",
+    "message": "fix reset script",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/9e2a8fa7a578f6e40ba3627003a0b0ad213e85d8",
+    "date": "2022-12-19",
+    "message": "progress testing d1",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

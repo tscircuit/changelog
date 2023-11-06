@@ -1,0 +1,44 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/1771d84642d54051373f074aa7f80e108f5c3c0e",
+    "date": "2022-12-22",
+    "message": "fix missing soup_id",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/12abe6418cbc308547b9f77928794b9f8f4d8f02",
+    "date": "2022-12-22",
+    "message": "add cors support",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/5e9c1b45107f6f10553f09d7679fc2c21b2148f9",
+    "date": "2022-12-22",
+    "message": "fix migrated at",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/0f4638ab1dfacc085caecd6706fad65ee9da656b",
+    "date": "2022-12-22",
+    "message": "temporarily fix upsert with delete all",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/a138e01e8cd0dede4c7603e849198f92578f226b",
+    "date": "2022-12-22",
+    "message": "parse content",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-backend/commit/cf8c81026d467c428c6671411c6f94221b6c4715",
+    "date": "2022-12-22",
+    "message": "checkpoint",
+    "repo": "tscircuit/debug.tscircuit.com-backend"
+  }
+]

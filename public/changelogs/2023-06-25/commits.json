@@ -1,0 +1,37 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/3b47363517d6abe5459c308f17ea03f7956dbd59",
+    "date": "2023-06-25",
+    "message": "fix second typo",
+    "repo": "tscircuit/sparkfun-packages"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/785c956513a4f1ed22b3b9053c4d8827b59924cd",
+    "date": "2023-06-25",
+    "message": "fix typo",
+    "repo": "tscircuit/sparkfun-packages"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/d56f21ed401650c607f2a024d295a4f176312542",
+    "date": "2023-06-25",
+    "message": "rename to scoped package",
+    "repo": "tscircuit/sparkfun-packages"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/471714f2133ea4084ac2e93b4dfb8e3c0088ac5c",
+    "date": "2023-06-25",
+    "message": "prettify types",
+    "repo": "tscircuit/sparkfun-packages"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/sparkfun-packages/commit/3da2b2298fbd9f9d4af20c2842540efcbb60a652",
+    "date": "2023-06-25",
+    "message": "wip",
+    "repo": "tscircuit/sparkfun-packages"
+  }
+]

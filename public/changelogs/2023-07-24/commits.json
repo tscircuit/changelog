@@ -1,0 +1,58 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/builder/commit/216fa34b31814a86d24ebf7704cf7f830de5be7d",
+    "date": "2023-07-24",
+    "message": "chore(release): 1.2.11 [skip ci]\n\n## [1.2.11](https://github.com/tscircuit/builder/compare/v1.2.10...v1.2.11) (2023-07-24)\n\n### Bug Fixes\n\n* move get port position to utils and export ([3a76bfc](https://github.com/tscircuit/builder/commit/3a76bfc3f36a2d6bf3852ad30492347a0fa7bff8))",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/builder/commit/3a76bfc3f36a2d6bf3852ad30492347a0fa7bff8",
+    "date": "2023-07-24",
+    "message": "fix: move get port position to utils and export",
+    "repo": "tscircuit/builder"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/12c8d7712b268614b80c4add4ef6d2b7f60cfd35",
+    "date": "2023-07-24",
+    "message": "chore(release): 1.0.11 [skip ci]\n\n## [1.0.11](https://github.com/tscircuit/schematic-viewer/compare/v1.0.10...v1.0.11) (2023-07-24)\n\n### Bug Fixes\n\n* center bug properly about center ([e50a095](https://github.com/tscircuit/schematic-viewer/commit/e50a095348095af79f52c98c84e4faa8a09d1762))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/e50a095348095af79f52c98c84e4faa8a09d1762",
+    "date": "2023-07-24",
+    "message": "fix: center bug properly about center",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/10afbe54cd4f4168cc52e8de9aff9840c5396e27",
+    "date": "2023-07-24",
+    "message": "chore(release): 1.0.10 [skip ci]\n\n## [1.0.10](https://github.com/tscircuit/schematic-viewer/compare/v1.0.9...v1.0.10) (2023-07-24)\n\n### Bug Fixes\n\n* three sided bug renders properly ([1c8c811](https://github.com/tscircuit/schematic-viewer/commit/1c8c8115fd6b4c8016c68f5edd30e582fe3bd59e))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/1c8c8115fd6b4c8016c68f5edd30e582fe3bd59e",
+    "date": "2023-07-24",
+    "message": "fix: three sided bug renders properly",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/c40342b07296b37b6117bfa05f963544053fe3b9",
+    "date": "2023-07-24",
+    "message": "demonstrate three bug issue",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/tscircuit/commit/52abf9cb4f271965761d7d833ae9c260b8f571e2",
+    "date": "2023-07-24",
+    "message": "fix: schematic viewer bug offset",
+    "repo": "tscircuit/tscircuit"
+  }
+]
