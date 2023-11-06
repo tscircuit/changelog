@@ -33,5 +33,12 @@
     "date": "2023-11-06",
     "message": "add tsignore",
     "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/81c9a34d0fa330a379933f395b3026bcb77a806f",
+    "date": "2023-11-06",
+    "message": "bootstrap",
+    "repo": "tscircuit/poc-bun-compiler"
   }
 ]
