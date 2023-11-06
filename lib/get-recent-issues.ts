@@ -20,10 +20,23 @@ export const getRecentIssues = async (repo: Repo): Promise<Issue[]> => {
 
   const issues: Issue[] = []
   try {
-    const response = await cacheCall(cacheKey, () =>
+    const open_issues = await cacheCall(`${cacheKey}-open`, () =>
       axios
         .get(
-          `https://api.github.com/repos/${repo.org}/${repo.name}/issues?per_page=100`,
+          `https://api.github.com/repos/${repo.org}/${repo.name}/issues?per_page=100&state=open`,
+          {
+            headers: {
+              Authorization: `token ${process.env.GITHUB_TOKEN}`,
+              Accept: "application/vnd.github.v3+json",
+            },
+          }
+        )
+        .then((r) => r.data)
+    )
+    const closed_issues = await cacheCall(`${cacheKey}-closed`, () =>
+      axios
+        .get(
+          `https://api.github.com/repos/${repo.org}/${repo.name}/issues?per_page=100&state=closed`,
           {
             headers: {
               Authorization: `token ${process.env.GITHUB_TOKEN}`,
@@ -35,13 +48,13 @@ export const getRecentIssues = async (repo: Repo): Promise<Issue[]> => {
     )
 
     // Parse the response data to extract issue information
-    for (const item of response) {
+    for (const item of [...open_issues, ...closed_issues]) {
       if (item.pull_request) continue // Skip pull requests, which are also returned in the issues endpoint
       if (item.user?.login?.includes?.("bot")) continue // Skip bot issues
       issues.push({
         issue_url: item.html_url,
         created_at: item.created_at.split("T")[0],
-        closed_at: item.closed_at?.split?.("T")[0],
+        closed_at: item.closed_at?.split?.("T")?.[0],
         title: item.title,
         user: item.user.login,
       })
