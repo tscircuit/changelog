@@ -1,0 +1,9 @@
+[
+  {
+    "created_at": "2023-09-20",
+    "issue_url": "https://github.com/tscircuit/routing/issues/4",
+    "repo": "tscircuit/routing",
+    "title": "Utility method for shrinking obstacles prior to path finding",
+    "user": "seveibar"
+  }
+]

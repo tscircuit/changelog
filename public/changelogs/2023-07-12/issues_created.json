@@ -1,0 +1,23 @@
+[
+  {
+    "created_at": "2023-07-12",
+    "issue_url": "https://github.com/tscircuit/builder/issues/10",
+    "repo": "tscircuit/builder",
+    "title": "platedhole should error if it doesn't have both an inner diameter and an outer diameter",
+    "user": "seveibar"
+  },
+  {
+    "created_at": "2023-07-12",
+    "issue_url": "https://github.com/tscircuit/pcb-viewer/issues/5",
+    "repo": "tscircuit/pcb-viewer",
+    "title": "Show error when there's an error building the react components via react fiber",
+    "user": "seveibar"
+  },
+  {
+    "created_at": "2023-07-12",
+    "issue_url": "https://github.com/tscircuit/log-soup/issues/1",
+    "repo": "tscircuit/log-soup",
+    "title": "Logging should output a console.log line with a url where you can visit the logged circuit on debug.tscircuit.com",
+    "user": "seveibar"
+  }
+]

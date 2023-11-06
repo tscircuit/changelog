@@ -1,0 +1,9 @@
+[
+  {
+    "created_at": "2023-09-11",
+    "issue_url": "https://github.com/tscircuit/builder/issues/17",
+    "repo": "tscircuit/builder",
+    "title": "Use @tscircuit/routing for schematic traces using findSchematicRoute mode",
+    "user": "seveibar"
+  }
+]

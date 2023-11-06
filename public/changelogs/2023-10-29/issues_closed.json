@@ -1,0 +1,18 @@
+[
+  {
+    "closed_at": "2023-10-29",
+    "created_at": "2023-10-29",
+    "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/13",
+    "repo": "tscircuit/schematic-viewer",
+    "title": "Allow disabling render of table",
+    "user": "seveibar"
+  },
+  {
+    "closed_at": "2023-10-29",
+    "created_at": "2023-10-29",
+    "issue_url": "https://github.com/tscircuit/schematic-viewer/issues/12",
+    "repo": "tscircuit/schematic-viewer",
+    "title": "When the schematic viewer's top-left isn't at (0,0), scrolling in doesn't work properly (jumps everywhere)",
+    "user": "seveibar"
+  }
+]

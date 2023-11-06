@@ -1,0 +1,9 @@
+[
+  {
+    "created_at": "2023-09-05",
+    "issue_url": "https://github.com/tscircuit/builder/issues/16",
+    "repo": "tscircuit/builder",
+    "title": "`<trace />` `from` and `to` props don't work with react, introduce setTo and setFrom?",
+    "user": "seveibar"
+  }
+]

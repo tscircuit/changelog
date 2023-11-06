@@ -1,0 +1,25 @@
+[
+  {
+    "created_at": "2023-07-10",
+    "issue_url": "https://github.com/tscircuit/builder/issues/9",
+    "repo": "tscircuit/builder",
+    "title": "Update READMEs for Major Projects to Repo Requirements",
+    "user": "seveibar"
+  },
+  {
+    "closed_at": "2023-07-11",
+    "created_at": "2023-07-10",
+    "issue_url": "https://github.com/tscircuit/pcb-viewer/issues/3",
+    "repo": "tscircuit/pcb-viewer",
+    "title": "Deploy Storybook to Vercel, Link to Storybook in README",
+    "user": "seveibar"
+  },
+  {
+    "closed_at": "2023-07-11",
+    "created_at": "2023-07-10",
+    "issue_url": "https://github.com/tscircuit/routing/issues/1",
+    "repo": "tscircuit/routing",
+    "title": "Deploy Storybook to Vercel, Link to Storybook in README",
+    "user": "seveibar"
+  }
+]

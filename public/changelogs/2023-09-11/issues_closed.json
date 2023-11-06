@@ -1,0 +1,18 @@
+[
+  {
+    "closed_at": "2023-09-11",
+    "created_at": "2023-09-09",
+    "issue_url": "https://github.com/tscircuit/table-viewer/issues/3",
+    "repo": "tscircuit/table-viewer",
+    "title": "Allow viewing JSON of element (e.g. a view button)",
+    "user": "seveibar"
+  },
+  {
+    "closed_at": "2023-09-11",
+    "created_at": "2023-09-09",
+    "issue_url": "https://github.com/tscircuit/table-viewer/issues/2",
+    "repo": "tscircuit/table-viewer",
+    "title": "Allow clicking on an id to focus on it, showing any children (possibly parents)",
+    "user": "seveibar"
+  }
+]
