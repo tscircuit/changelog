@@ -15,8 +15,6 @@ type Commit = {
 }
 
 export const getRecentCommits = async (repo: Repo): Promise<Commit[]> => {
-  const cacheKey = `commits-${repo.org}-${repo.name}`
-
   const commits: Commit[] = []
   try {
     const response = await cacheCall(`commits-${repo.org}-${repo.name}`, () =>
