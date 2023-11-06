@@ -75,8 +75,8 @@
     13,
     2,
     6,
-    40,
-    1
+    41,
+    3
   ],
   "commit_graph_ending_date": "2023-11-06",
   "commit_graph_starting_date": "2022-11-07",
@@ -3090,6 +3090,20 @@
       "date": "2023-11-05",
       "message": "Initial commit",
       "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/f98abbfee7875940c09027cfe67c8d90132c5452",
+      "date": "2023-11-06",
+      "message": "less emphasis on name",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/adfeb1727c899adf6630d2a82757f3cc5a6c8f90",
+      "date": "2023-11-06",
+      "message": "add better date flags and versions released",
+      "repo": "tscircuit/homepage"
     },
     {
       "author": "seveibar",

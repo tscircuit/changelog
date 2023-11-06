@@ -1,6 +1,20 @@
 [
   {
     "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/f98abbfee7875940c09027cfe67c8d90132c5452",
+    "date": "2023-11-06",
+    "message": "less emphasis on name",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/adfeb1727c899adf6630d2a82757f3cc5a6c8f90",
+    "date": "2023-11-06",
+    "message": "add better date flags and versions released",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/homepage/commit/ec8b61b193d12c18af7722bae8c905e889da54cd",
     "date": "2023-11-06",
     "message": "add tsignore",

@@ -169,6 +169,13 @@
   },
   {
     "author": "renovate[bot]",
+    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/2ec358ca34f91f7ec5d2515c0b7e45d06e0734ca",
+    "date": "2023-11-05",
+    "message": "fix(deps): update dependency @tscircuit/pcb-viewer to v1.2.11",
+    "repo": "tscircuit/debug.tscircuit.com-frontend"
+  },
+  {
+    "author": "renovate[bot]",
     "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/7fe83b55e6a67d8136314d28f359e403ea4b1acc",
     "date": "2023-11-05",
     "message": "chore(deps): update dependency @tscircuit/react-fiber to ^0.0.5",
