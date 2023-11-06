@@ -168,27 +168,6 @@
     "repo": "tscircuit/pcb-viewer"
   },
   {
-    "author": "renovate[bot]",
-    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/2ec358ca34f91f7ec5d2515c0b7e45d06e0734ca",
-    "date": "2023-11-05",
-    "message": "fix(deps): update dependency @tscircuit/pcb-viewer to v1.2.11",
-    "repo": "tscircuit/debug.tscircuit.com-frontend"
-  },
-  {
-    "author": "renovate[bot]",
-    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/7fe83b55e6a67d8136314d28f359e403ea4b1acc",
-    "date": "2023-11-05",
-    "message": "chore(deps): update dependency @tscircuit/react-fiber to ^0.0.5",
-    "repo": "tscircuit/debug.tscircuit.com-frontend"
-  },
-  {
-    "author": "web-flow",
-    "commit_url": "https://github.com/tscircuit/debug.tscircuit.com-frontend/commit/d8185ef2e9dc1754a4170c4cb6ce44258b5c194b",
-    "date": "2023-11-05",
-    "message": "Update renovate.json",
-    "repo": "tscircuit/debug.tscircuit.com-frontend"
-  },
-  {
     "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/homepage/commit/f5d451fa3e4653e0bd1687fc026a314a57399a17",
     "date": "2023-11-05",
@@ -264,26 +243,5 @@
     "date": "2023-11-05",
     "message": "fix: lines do not extend to edge",
     "repo": "tscircuit/supergrid"
-  },
-  {
-    "author": "web-flow",
-    "commit_url": "https://github.com/tscircuit/compiler/commit/9b50ded99acd1bdd504cb76f8873b378a48e1b00",
-    "date": "2023-11-05",
-    "message": "Update README.md",
-    "repo": "tscircuit/compiler"
-  },
-  {
-    "author": "web-flow",
-    "commit_url": "https://github.com/tscircuit/compiler/commit/8cabd717b5e6d7bb5874a1c723caacd591e0ac61",
-    "date": "2023-11-05",
-    "message": "Update README.md",
-    "repo": "tscircuit/compiler"
-  },
-  {
-    "author": "web-flow",
-    "commit_url": "https://github.com/tscircuit/compiler/commit/c1b65f3daebc267d42a775f265fa72b616390006",
-    "date": "2023-11-05",
-    "message": "Initial commit",
-    "repo": "tscircuit/compiler"
   }
 ]
