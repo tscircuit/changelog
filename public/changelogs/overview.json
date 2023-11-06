@@ -75,9 +75,10 @@
     13,
     2,
     6,
-    39
+    40,
+    1
   ],
-  "commit_graph_ending_date": "2023-11-05",
+  "commit_graph_ending_date": "2023-11-06",
   "commit_graph_starting_date": "2022-11-07",
   "recent_commits": [
     {
@@ -3022,6 +3023,13 @@
     },
     {
       "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/f5d451fa3e4653e0bd1687fc026a314a57399a17",
+      "date": "2023-11-05",
+      "message": "changelog page",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/homepage/commit/a9dd68f74388c74ca2871ec3df833de7cef11913",
       "date": "2023-11-05",
       "message": "new versions, fix keying issue on buttons",
@@ -3082,6 +3090,13 @@
       "date": "2023-11-05",
       "message": "Initial commit",
       "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/ec8b61b193d12c18af7722bae8c905e889da54cd",
+      "date": "2023-11-06",
+      "message": "add tsignore",
+      "repo": "tscircuit/homepage"
     }
   ],
   "version_released_on_date": {

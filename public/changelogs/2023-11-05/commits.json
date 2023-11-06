@@ -183,6 +183,13 @@
   },
   {
     "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/f5d451fa3e4653e0bd1687fc026a314a57399a17",
+    "date": "2023-11-05",
+    "message": "changelog page",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/homepage/commit/a9dd68f74388c74ca2871ec3df833de7cef11913",
     "date": "2023-11-05",
     "message": "new versions, fix keying issue on buttons",
