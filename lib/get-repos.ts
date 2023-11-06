@@ -32,6 +32,8 @@ export const getRepos = async (): Promise<Repo[]> => {
     }
 
     for (const repo of response.data) {
+      // make sure repo is public
+      if (repo.private) continue
       repos.push({
         name: repo.name,
         org: `tscircuit`,
