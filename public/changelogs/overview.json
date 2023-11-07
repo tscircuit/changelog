@@ -78,7 +78,7 @@
     6,
     35,
     6,
-    1
+    9
   ],
   "commit_graph_ending_date": "2023-11-07",
   "commit_graph_starting_date": "2022-11-07",
@@ -3211,6 +3211,41 @@
       "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/81c9a34d0fa330a379933f395b3026bcb77a806f",
       "date": "2023-11-06",
       "message": "bootstrap",
+      "repo": "tscircuit/poc-bun-compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/09c13aec9e93b1435d1667d2bbe3aca9d6884e60",
+      "date": "2023-11-07",
+      "message": "remove console log",
+      "repo": "tscircuit/poc-bun-compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/4b485a6c4a8722fb91fbb5c350edceaa7820422d",
+      "date": "2023-11-07",
+      "message": "clean up exports",
+      "repo": "tscircuit/poc-bun-compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/33c5f98088f36a4a7534f676def4a5a2aee2fa19",
+      "date": "2023-11-07",
+      "message": "placeholder for getting available exports",
+      "repo": "tscircuit/poc-bun-compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/50b807e9460bcbcbbdfe2edefccd8852fc48fe1d",
+      "date": "2023-11-07",
+      "message": "initial functional transpilation server",
+      "repo": "tscircuit/poc-bun-compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/9ba599624f78bb0c865a5d49d3202e7452fe7352",
+      "date": "2023-11-07",
+      "message": "Bun proof of concept with dynamic import failing",
       "repo": "tscircuit/poc-bun-compiler"
     }
   ],
