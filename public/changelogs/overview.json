@@ -78,9 +78,10 @@
     6,
     35,
     6,
-    9
+    9,
+    18
   ],
-  "commit_graph_ending_date": "2023-11-07",
+  "commit_graph_ending_date": "2023-11-08",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3215,38 +3216,150 @@
     },
     {
       "author": "seveibar",
-      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/09c13aec9e93b1435d1667d2bbe3aca9d6884e60",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/09c13aec9e93b1435d1667d2bbe3aca9d6884e60",
       "date": "2023-11-07",
       "message": "remove console log",
-      "repo": "tscircuit/poc-bun-compiler"
+      "repo": "tscircuit/compiler"
     },
     {
       "author": "seveibar",
-      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/4b485a6c4a8722fb91fbb5c350edceaa7820422d",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/4b485a6c4a8722fb91fbb5c350edceaa7820422d",
       "date": "2023-11-07",
       "message": "clean up exports",
-      "repo": "tscircuit/poc-bun-compiler"
+      "repo": "tscircuit/compiler"
     },
     {
       "author": "seveibar",
-      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/33c5f98088f36a4a7534f676def4a5a2aee2fa19",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/33c5f98088f36a4a7534f676def4a5a2aee2fa19",
       "date": "2023-11-07",
       "message": "placeholder for getting available exports",
-      "repo": "tscircuit/poc-bun-compiler"
+      "repo": "tscircuit/compiler"
     },
     {
       "author": "seveibar",
-      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/50b807e9460bcbcbbdfe2edefccd8852fc48fe1d",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/50b807e9460bcbcbbdfe2edefccd8852fc48fe1d",
       "date": "2023-11-07",
       "message": "initial functional transpilation server",
-      "repo": "tscircuit/poc-bun-compiler"
+      "repo": "tscircuit/compiler"
     },
     {
       "author": "seveibar",
-      "commit_url": "https://github.com/tscircuit/poc-bun-compiler/commit/9ba599624f78bb0c865a5d49d3202e7452fe7352",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/9ba599624f78bb0c865a5d49d3202e7452fe7352",
       "date": "2023-11-07",
       "message": "Bun proof of concept with dynamic import failing",
-      "repo": "tscircuit/poc-bun-compiler"
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/12bc282ed9c8b9b28ed45632653ef508ddcdc4b9",
+      "date": "2023-11-08",
+      "message": "refactor to fetch",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/718329deacd00968f66ff7c54f738a784e43a38f",
+      "date": "2023-11-08",
+      "message": "fix: rename build asset",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/235ce6605b3e6c135f8c809d52617b4ba409f12b",
+      "date": "2023-11-08",
+      "message": "fix: build prior to submitting github release",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/52141011d0421615dea97ef7f3dd70d35a249503",
+      "date": "2023-11-08",
+      "message": "fix semantic release run step",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/cf78047061092756c8e1dfe3174e564b8203f48d",
+      "date": "2023-11-08",
+      "message": "remove npm publish",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/fa7b995481e41d1cc1e18a36b13f353738dd7b8c",
+      "date": "2023-11-08",
+      "message": "npm and github semantic release added",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/46e13e6cde89742f3a8492f755bcfaa558611d18",
+      "date": "2023-11-08",
+      "message": "fix: log when server starts",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/72c042c90a460d8eac605698ba329e5c22141c06",
+      "date": "2023-11-08",
+      "message": "remove release on main",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/243fb347451b32cbcc6c7d66f8f36c1aad5da637",
+      "date": "2023-11-08",
+      "message": "add deps, simplify release config",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/b35cd472ebf750a97d3a435a49ce79e701692a0c",
+      "date": "2023-11-08",
+      "message": "rename release config",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/69371c1c1218d12cc7e5a15d5b9c125f54268ce9",
+      "date": "2023-11-08",
+      "message": "feat: attempt release",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "web-flow",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/2829e1d792be1d01ed101a84113bdbfd07be8965",
+      "date": "2023-11-08",
+      "message": "Update README.md",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/d2b5e0e3aba9ac0641605a265b97e72f51b7a6db",
+      "date": "2023-11-08",
+      "message": "add build command",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/c318cce907b7326760f0720cd4c5757997f7b8b5",
+      "date": "2023-11-08",
+      "message": "remove temporary directory after compilation",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/b3d812fd61ee46bcce62423e2b86baf8211c17f5",
+      "date": "2023-11-08",
+      "message": "add render component test",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/a7ed8f6f55f711115ff04ad064ae4695cc9bfc85",
+      "date": "2023-11-08",
+      "message": "add support for get_available_exports",
+      "repo": "tscircuit/compiler"
     }
   ],
   "recent_open_issues": [
@@ -3496,6 +3609,9 @@
       "tscircuit/builder": "1.5.4",
       "tscircuit/pcb-viewer": "1.2.9",
       "tscircuit/schematic-viewer": "1.1.4"
+    },
+    "2023-11-08": {
+      "tscircuit/compiler": "1.0.3"
     }
   }
 }
