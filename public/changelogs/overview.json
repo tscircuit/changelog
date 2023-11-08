@@ -79,7 +79,7 @@
     35,
     6,
     9,
-    18
+    22
   ],
   "commit_graph_ending_date": "2023-11-08",
   "commit_graph_starting_date": "2022-11-07",
@@ -3258,6 +3258,20 @@
     },
     {
       "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/f2bf81da37ea37b56fcd8e4103441690b4e2fa2a",
+      "date": "2023-11-08",
+      "message": "fix: add version command",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/59dcfc4d5454df873520ff1030eee4fbaf45dc9d",
+      "date": "2023-11-08",
+      "message": "fix: add support for specifying port",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/compiler/commit/718329deacd00968f66ff7c54f738a784e43a38f",
       "date": "2023-11-08",
       "message": "fix: rename build asset",
@@ -3611,7 +3625,7 @@
       "tscircuit/schematic-viewer": "1.1.4"
     },
     "2023-11-08": {
-      "tscircuit/compiler": "1.0.3"
+      "tscircuit/compiler": "1.0.5"
     }
   }
 }
