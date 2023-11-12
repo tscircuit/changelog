@@ -1,6 +1,69 @@
 [
   {
     "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/e2c3860a98a349513dfeb660d9b709f202512b53",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.10 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/0a28cc1e9c08d59bd4e2e47035321ad4fe17e8ad",
+    "date": "2023-11-12",
+    "message": "fix: middleware should use modern request",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/eb65e26da9655467c0093d438ad0ccadb8a743b1",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.9 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/2f7885976bdc47d6268a09ca4388a363764e658c",
+    "date": "2023-11-12",
+    "message": "fix: add error handling middleware for better error logs",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/6bee4d6d8dea9729857890b360fade0d1164c1a8",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.8 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/94d4c9be123ade3fa2202a155e0e6800d331ef87",
+    "date": "2023-11-12",
+    "message": "fix: adding more log output",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/ac583d698d4204027884cd8eacbded5f3325ae8f",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.7 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/9eeaf679dc08998d2bddc1053368e175fbeb425f",
+    "date": "2023-11-12",
+    "message": "fix: build process",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/8be096deb8332eaba77b2d1a09ba466a8fb0ba2d",
+    "date": "2023-11-12",
+    "message": "fix: soup compiler working with dropped bun on linux",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
     "commit_url": "https://github.com/tscircuit/compiler/commit/b0226e944be9b9f8ba5cd1a6201036207ec05434",
     "date": "2023-11-12",
     "message": "chore(release): 1.1.6 [skip ci]",

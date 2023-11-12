@@ -81,7 +81,7 @@
     9,
     22,
     6,
-    8
+    17
   ],
   "commit_graph_ending_date": "2023-11-12",
   "commit_graph_starting_date": "2022-11-07",
@@ -3400,6 +3400,41 @@
     },
     {
       "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/0a28cc1e9c08d59bd4e2e47035321ad4fe17e8ad",
+      "date": "2023-11-12",
+      "message": "fix: middleware should use modern request",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/2f7885976bdc47d6268a09ca4388a363764e658c",
+      "date": "2023-11-12",
+      "message": "fix: add error handling middleware for better error logs",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/94d4c9be123ade3fa2202a155e0e6800d331ef87",
+      "date": "2023-11-12",
+      "message": "fix: adding more log output",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/9eeaf679dc08998d2bddc1053368e175fbeb425f",
+      "date": "2023-11-12",
+      "message": "fix: build process",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/8be096deb8332eaba77b2d1a09ba466a8fb0ba2d",
+      "date": "2023-11-12",
+      "message": "fix: soup compiler working with dropped bun on linux",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
       "commit_url": "https://github.com/tscircuit/compiler/commit/7f700b2eec77ba37288f949b792f595fd8a0ed5b",
       "date": "2023-11-12",
       "message": "fix: log version of bun being used",
@@ -3682,7 +3717,7 @@
       "tscircuit/compiler": "1.1.2"
     },
     "2023-11-12": {
-      "tscircuit/compiler": "1.1.6"
+      "tscircuit/compiler": "1.1.9"
     }
   }
 }
