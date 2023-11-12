@@ -79,9 +79,11 @@
     35,
     6,
     9,
-    22
+    22,
+    6,
+    8
   ],
-  "commit_graph_ending_date": "2023-11-08",
+  "commit_graph_ending_date": "2023-11-12",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3374,6 +3376,55 @@
       "date": "2023-11-08",
       "message": "add support for get_available_exports",
       "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/5e83078d349039263b1d7ab0ba3e5bd10681bc4d",
+      "date": "2023-11-11",
+      "message": "fix: bundle with bun",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/7380546282f6336cc6f1df149afc79316941dffa",
+      "date": "2023-11-11",
+      "message": "fix: handle missing deps when changing the tmp dir",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/d7b6f3c430cefc300b3b3c04c43b1a9452d74098",
+      "date": "2023-11-11",
+      "message": "feat: allow specifying temporary directory, build errors return with\nlogs",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/7f700b2eec77ba37288f949b792f595fd8a0ed5b",
+      "date": "2023-11-12",
+      "message": "fix: log version of bun being used",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/8ccd8fa439993830a6babba8e966167c38e3f5a6",
+      "date": "2023-11-12",
+      "message": "fix: default bun path",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/6e8e1cb5b9ae40ba957acea512becdcf6c711ff5",
+      "date": "2023-11-12",
+      "message": "fix: remove unnecessary import",
+      "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/compiler/commit/3a524caf3f551ffb681e99bd638ba5965685e4b1",
+      "date": "2023-11-12",
+      "message": "fix: bundle bun",
+      "repo": "tscircuit/compiler"
     }
   ],
   "recent_open_issues": [
@@ -3626,6 +3677,12 @@
     },
     "2023-11-08": {
       "tscircuit/compiler": "1.0.5"
+    },
+    "2023-11-11": {
+      "tscircuit/compiler": "1.1.2"
+    },
+    "2023-11-12": {
+      "tscircuit/compiler": "1.1.6"
     }
   }
 }

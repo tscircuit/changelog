@@ -1,0 +1,44 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/170f9b75f51ec24fdb4f370e15892881a60c0733",
+    "date": "2023-11-11",
+    "message": "chore(release): 1.1.2 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/5e83078d349039263b1d7ab0ba3e5bd10681bc4d",
+    "date": "2023-11-11",
+    "message": "fix: bundle with bun",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/e57a27331f5bf20a393e6ec45997e495a6ed4942",
+    "date": "2023-11-11",
+    "message": "chore(release): 1.1.1 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/7380546282f6336cc6f1df149afc79316941dffa",
+    "date": "2023-11-11",
+    "message": "fix: handle missing deps when changing the tmp dir",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/f17508bed213a27378fac8dc89aa0a76a209407f",
+    "date": "2023-11-11",
+    "message": "chore(release): 1.1.0 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/d7b6f3c430cefc300b3b3c04c43b1a9452d74098",
+    "date": "2023-11-11",
+    "message": "feat: allow specifying temporary directory, build errors return with\nlogs",
+    "repo": "tscircuit/compiler"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/b0226e944be9b9f8ba5cd1a6201036207ec05434",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.6 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/7f700b2eec77ba37288f949b792f595fd8a0ed5b",
+    "date": "2023-11-12",
+    "message": "fix: log version of bun being used",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/cc525f61a5a74b462f629ae90a6bb4aaa4d20d72",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.5 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/8ccd8fa439993830a6babba8e966167c38e3f5a6",
+    "date": "2023-11-12",
+    "message": "fix: default bun path",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/403339af572f5133d03aa324287ab57746f00a69",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.4 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/6e8e1cb5b9ae40ba957acea512becdcf6c711ff5",
+    "date": "2023-11-12",
+    "message": "fix: remove unnecessary import",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/61f534f0b3555116af55602331091d538d8bde43",
+    "date": "2023-11-12",
+    "message": "chore(release): 1.1.3 [skip ci]",
+    "repo": "tscircuit/compiler"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/compiler/commit/3a524caf3f551ffb681e99bd638ba5965685e4b1",
+    "date": "2023-11-12",
+    "message": "fix: bundle bun",
+    "repo": "tscircuit/compiler"
+  }
+]
