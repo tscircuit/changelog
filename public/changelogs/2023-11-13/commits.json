@@ -1,0 +1,16 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/368b4c8f882759bf2ac91b3f6d20b6661e3691a9",
+    "date": "2023-11-13",
+    "message": "force \"get involved\" to revalidate cache every hour",
+    "repo": "tscircuit/homepage"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/homepage/commit/707106acf58c49b1330875d4617d1084a93a9d58",
+    "date": "2023-11-13",
+    "message": "force changelog to revalidate data every hour",
+    "repo": "tscircuit/homepage"
+  }
+]

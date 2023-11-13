@@ -81,9 +81,10 @@
     9,
     22,
     6,
-    17
+    17,
+    2
   ],
-  "commit_graph_ending_date": "2023-11-12",
+  "commit_graph_ending_date": "2023-11-13",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3460,9 +3461,30 @@
       "date": "2023-11-12",
       "message": "fix: bundle bun",
       "repo": "tscircuit/compiler"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/368b4c8f882759bf2ac91b3f6d20b6661e3691a9",
+      "date": "2023-11-13",
+      "message": "force \"get involved\" to revalidate cache every hour",
+      "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/homepage/commit/707106acf58c49b1330875d4617d1084a93a9d58",
+      "date": "2023-11-13",
+      "message": "force changelog to revalidate data every hour",
+      "repo": "tscircuit/homepage"
     }
   ],
   "recent_open_issues": [
+    {
+      "created_at": "2023-11-13",
+      "issue_url": "https://github.com/tscircuit/builder/issues/23",
+      "repo": "tscircuit/builder",
+      "title": "Allow providing PCB Outline",
+      "user": "seveibar"
+    },
     {
       "created_at": "2023-11-05",
       "issue_url": "https://github.com/tscircuit/builder/issues/22",
