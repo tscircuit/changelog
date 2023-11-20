@@ -84,7 +84,7 @@
     17,
     2,
     1,
-    1
+    9
   ],
   "commit_graph_ending_date": "2023-11-20",
   "commit_graph_starting_date": "2022-11-07",
@@ -3484,6 +3484,34 @@
       "date": "2023-11-19",
       "message": "Initial commit from Create Next App",
       "repo": "tscircuit/registry"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/851fd55a77452da2f9baa00644ddc9f639de698e",
+      "date": "2023-11-20",
+      "message": "fix: grid not initially loaded, fix for @tscircuit/table-viewer always\nbeing loaded",
+      "repo": "tscircuit/schematic-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/88aa43b6e038551f7336b04e51a82a427273d293",
+      "date": "2023-11-20",
+      "message": "fix: allow providing height",
+      "repo": "tscircuit/pcb-viewer"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/a7a545f00b55acea01ac328eb23d66c3ed86b1a1",
+      "date": "2023-11-20",
+      "message": "v1.0.8",
+      "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/supergrid/commit/56573844b81de765307619e4da67b594e7ea6e6e",
+      "date": "2023-11-20",
+      "message": "fix: fix for not updating in schematic component, fix for\n@tscircuit/table-viewer always being loaded",
+      "repo": "tscircuit/supergrid"
     }
   ],
   "recent_open_issues": [
@@ -3749,6 +3777,10 @@
     },
     "2023-11-12": {
       "tscircuit/compiler": "1.1.9"
+    },
+    "2023-11-20": {
+      "tscircuit/pcb-viewer": "1.2.12",
+      "tscircuit/schematic-viewer": "1.1.5"
     }
   }
 }

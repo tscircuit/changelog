@@ -1,5 +1,61 @@
 [
   {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/cb5c79c533514f9f49524155ddaec283fe3442c3",
+    "date": "2023-11-20",
+    "message": "chore(release): 1.1.5 [skip ci]\n\n## [1.1.5](https://github.com/tscircuit/schematic-viewer/compare/v1.1.4...v1.1.5) (2023-11-20)\n\n### Bug Fixes\n\n* grid not initially loaded, fix for @tscircuit/table-viewer always ([851fd55](https://github.com/tscircuit/schematic-viewer/commit/851fd55a77452da2f9baa00644ddc9f639de698e))",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/schematic-viewer/commit/851fd55a77452da2f9baa00644ddc9f639de698e",
+    "date": "2023-11-20",
+    "message": "fix: grid not initially loaded, fix for @tscircuit/table-viewer always\nbeing loaded",
+    "repo": "tscircuit/schematic-viewer"
+  },
+  {
+    "author": "semantic-release-bot",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/dd7b0bf4850af48c3c4a8c16f0c385143f41026f",
+    "date": "2023-11-20",
+    "message": "chore(release): 1.2.12 [skip ci]\n\n## [1.2.12](https://github.com/tscircuit/pcb-viewer/compare/v1.2.11...v1.2.12) (2023-11-20)\n\n### Bug Fixes\n\n* allow providing height ([88aa43b](https://github.com/tscircuit/pcb-viewer/commit/88aa43b6e038551f7336b04e51a82a427273d293))",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/pcb-viewer/commit/88aa43b6e038551f7336b04e51a82a427273d293",
+    "date": "2023-11-20",
+    "message": "fix: allow providing height",
+    "repo": "tscircuit/pcb-viewer"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/a7a545f00b55acea01ac328eb23d66c3ed86b1a1",
+    "date": "2023-11-20",
+    "message": "v1.0.8",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/supergrid/commit/56573844b81de765307619e4da67b594e7ea6e6e",
+    "date": "2023-11-20",
+    "message": "fix: fix for not updating in schematic component, fix for\n@tscircuit/table-viewer always being loaded",
+    "repo": "tscircuit/supergrid"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/b5a06b9c73ad22776af34e91e52214f3af481eb1",
+    "date": "2023-11-20",
+    "message": "wip",
+    "repo": "tscircuit/registry"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/7fd883542c06bf4498152ea43a889fc69624d5ed",
+    "date": "2023-11-20",
+    "message": "wip",
+    "repo": "tscircuit/registry"
+  },
+  {
     "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/registry/commit/385ecaa4df6561e354c43bdf8ed68c93b08a37d9",
     "date": "2023-11-20",
