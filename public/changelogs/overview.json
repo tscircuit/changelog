@@ -82,9 +82,11 @@
     22,
     6,
     17,
-    2
+    2,
+    1,
+    1
   ],
-  "commit_graph_ending_date": "2023-11-13",
+  "commit_graph_ending_date": "2023-11-20",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3475,6 +3477,13 @@
       "date": "2023-11-13",
       "message": "force changelog to revalidate data every hour",
       "repo": "tscircuit/homepage"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/registry/commit/30d71d466fb6cabe1be188692e54ca9f1ea6617f",
+      "date": "2023-11-19",
+      "message": "Initial commit from Create Next App",
+      "repo": "tscircuit/registry"
     }
   ],
   "recent_open_issues": [
