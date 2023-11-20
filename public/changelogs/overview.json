@@ -84,7 +84,7 @@
     17,
     2,
     1,
-    9
+    10
   ],
   "commit_graph_ending_date": "2023-11-20",
   "commit_graph_starting_date": "2022-11-07",
@@ -3512,6 +3512,13 @@
       "date": "2023-11-20",
       "message": "fix: fix for not updating in schematic component, fix for\n@tscircuit/table-viewer always being loaded",
       "repo": "tscircuit/supergrid"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/registry/commit/1bb4405aa4bfa81f0d200bce62338396884823f8",
+      "date": "2023-11-20",
+      "message": "sidebar rendering",
+      "repo": "tscircuit/registry"
     }
   ],
   "recent_open_issues": [

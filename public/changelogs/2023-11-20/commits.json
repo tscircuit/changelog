@@ -43,6 +43,13 @@
   },
   {
     "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/1bb4405aa4bfa81f0d200bce62338396884823f8",
+    "date": "2023-11-20",
+    "message": "sidebar rendering",
+    "repo": "tscircuit/registry"
+  },
+  {
+    "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/registry/commit/b5a06b9c73ad22776af34e91e52214f3af481eb1",
     "date": "2023-11-20",
     "message": "wip",
