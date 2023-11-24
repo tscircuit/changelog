@@ -1,6 +1,13 @@
 [
   {
     "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/4336bb8ca31fe138b099eee0a7a8ca1c96cc2347",
+    "date": "2023-11-24",
+    "message": "new dropdown",
+    "repo": "tscircuit/registry"
+  },
+  {
+    "author": "seveibar",
     "commit_url": "https://github.com/tscircuit/registry/commit/c4cd675a6e5d6171f31db44c54737d301d4e93dc",
     "date": "2023-11-24",
     "message": "trending packages wip",
