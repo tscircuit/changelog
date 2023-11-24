@@ -85,9 +85,10 @@
     2,
     1,
     10,
-    2
+    2,
+    1
   ],
-  "commit_graph_ending_date": "2023-11-23",
+  "commit_graph_ending_date": "2023-11-24",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
