@@ -85,7 +85,7 @@
     2,
     1,
     10,
-    1
+    2
   ],
   "commit_graph_ending_date": "2023-11-23",
   "commit_graph_starting_date": "2022-11-07",
@@ -3519,6 +3519,13 @@
       "commit_url": "https://github.com/tscircuit/registry/commit/1bb4405aa4bfa81f0d200bce62338396884823f8",
       "date": "2023-11-20",
       "message": "sidebar rendering",
+      "repo": "tscircuit/registry"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/registry/commit/bca3b1523e0097c88f3d6ae895a61bba71fd15a6",
+      "date": "2023-11-23",
+      "message": "responsive header",
       "repo": "tscircuit/registry"
     }
   ],
