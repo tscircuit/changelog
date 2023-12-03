@@ -86,9 +86,10 @@
     1,
     10,
     2,
-    2
+    2,
+    0
   ],
-  "commit_graph_ending_date": "2023-11-24",
+  "commit_graph_ending_date": "2023-12-03",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3538,6 +3539,13 @@
     }
   ],
   "recent_open_issues": [
+    {
+      "created_at": "2023-12-03",
+      "issue_url": "https://github.com/tscircuit/registry/issues/1",
+      "repo": "tscircuit/registry",
+      "title": "Consider using some great elements from the Deno registry design",
+      "user": "seveibar"
+    },
     {
       "created_at": "2023-11-13",
       "issue_url": "https://github.com/tscircuit/builder/issues/23",
