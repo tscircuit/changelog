@@ -1,0 +1,9 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/636f6396caea5bb55c33158c167c09a656847e99",
+    "date": "2023-12-10",
+    "message": "implement login exchange for token",
+    "repo": "tscircuit/registry"
+  }
+]

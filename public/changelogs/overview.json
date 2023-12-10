@@ -90,9 +90,10 @@
     0,
     1,
     1,
+    1,
     1
   ],
-  "commit_graph_ending_date": "2023-12-07",
+  "commit_graph_ending_date": "2023-12-10",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3559,6 +3560,13 @@
       "commit_url": "https://github.com/tscircuit/registry/commit/16be0b35a52f5f521191548efa772984ccb9906d",
       "date": "2023-12-07",
       "message": "add stytch public token",
+      "repo": "tscircuit/registry"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/registry/commit/636f6396caea5bb55c33158c167c09a656847e99",
+      "date": "2023-12-10",
+      "message": "implement login exchange for token",
       "repo": "tscircuit/registry"
     }
   ],
