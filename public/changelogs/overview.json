@@ -91,9 +91,10 @@
     1,
     1,
     1,
-    2
+    2,
+    1
   ],
-  "commit_graph_ending_date": "2023-12-10",
+  "commit_graph_ending_date": "2023-12-18",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3574,6 +3575,13 @@
       "commit_url": "https://github.com/tscircuit/registry/commit/636f6396caea5bb55c33158c167c09a656847e99",
       "date": "2023-12-10",
       "message": "implement login exchange for token",
+      "repo": "tscircuit/registry"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/registry/commit/553e0dda3a7c993a7029f246e0cc200afe293049",
+      "date": "2023-12-18",
+      "message": "add start script",
       "repo": "tscircuit/registry"
     }
   ],
