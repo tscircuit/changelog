@@ -1,0 +1,30 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/9108b63d18192e5b62fec4dcf7e1b708883600c6",
+    "date": "2023-12-28",
+    "message": "checkpoint registry functions",
+    "repo": "tscircuit/registry"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/217f59ed5b1565532f463705bb266fb7751b9a6c",
+    "date": "2023-12-28",
+    "message": "profile page, starting cli tokens",
+    "repo": "tscircuit/registry"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/13fa9052970d5cab87ac8abd465844e70a373c4f",
+    "date": "2023-12-28",
+    "message": "switch state for logged in user",
+    "repo": "tscircuit/registry"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/registry/commit/3c8d8997d6b980af05d0827c7015e7e513351557",
+    "date": "2023-12-28",
+    "message": "sign in working",
+    "repo": "tscircuit/registry"
+  }
+]
