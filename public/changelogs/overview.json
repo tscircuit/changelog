@@ -93,9 +93,10 @@
     1,
     2,
     1,
-    4
+    4,
+    3
   ],
-  "commit_graph_ending_date": "2023-12-28",
+  "commit_graph_ending_date": "2023-12-31",
   "commit_graph_starting_date": "2022-11-07",
   "recent_closed_issues": [
     {
@@ -3612,6 +3613,20 @@
       "date": "2023-12-28",
       "message": "sign in working",
       "repo": "tscircuit/registry"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/cli/commit/4b04fca42a98cb1727aeb6bc872e00a130caa6ac",
+      "date": "2023-12-31",
+      "message": "motivating usage",
+      "repo": "tscircuit/cli"
+    },
+    {
+      "author": "seveibar",
+      "commit_url": "https://github.com/tscircuit/cli/commit/4f052bc8e990ca8ddb66d7014742b188ea95bdf7",
+      "date": "2023-12-31",
+      "message": "init",
+      "repo": "tscircuit/cli"
     }
   ],
   "recent_open_issues": [

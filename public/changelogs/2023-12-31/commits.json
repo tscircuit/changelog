@@ -1,0 +1,23 @@
+[
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/cli/commit/1504af901c144204b0ac750abc80d008ccaf7319",
+    "date": "2023-12-31",
+    "message": "wip",
+    "repo": "tscircuit/cli"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/cli/commit/4b04fca42a98cb1727aeb6bc872e00a130caa6ac",
+    "date": "2023-12-31",
+    "message": "motivating usage",
+    "repo": "tscircuit/cli"
+  },
+  {
+    "author": "seveibar",
+    "commit_url": "https://github.com/tscircuit/cli/commit/4f052bc8e990ca8ddb66d7014742b188ea95bdf7",
+    "date": "2023-12-31",
+    "message": "init",
+    "repo": "tscircuit/cli"
+  }
+]
